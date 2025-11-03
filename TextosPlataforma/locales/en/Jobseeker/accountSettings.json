@@ -1,0 +1,21 @@
+{
+  "accountSettings": {
+    "title": "Account Settings",
+    "description": "Manage everything related to your account. From here you can update your password, adjust notification preferences, and review privacy and data settings. Keep your experience secure and tailored to your job search.",
+    "sections": {
+      "securityAndLogin": "Security & Login",
+      "notifications": "Notifications",
+      "privacyAndData": "Privacy & Data"
+    },
+    "deleteAccount": {
+      "title": "Delete Account",
+      "description": "Deleting your account will remove all of your information from our database. This action cannot be undone.",
+      "password": {
+        "placeholder": "Enter Password",
+        "error": "Please enter your password to proceed."
+      },
+      "button": "Delete Account"
+    }
+  }
+  
+}

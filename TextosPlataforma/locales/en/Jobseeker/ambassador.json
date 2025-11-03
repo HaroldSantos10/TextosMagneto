@@ -1,0 +1,62 @@
+{
+  "ambassador": {
+    "title": "Ambassador",
+    "reports": {
+      "title": "Reports",
+      "copyLink": {
+        "button": "Copy link",
+        "tooltip": "Copy your referral link",
+        "toast": {
+          "title": "Copy link"
+        }
+      },
+      "filters": {
+        "dateRange": {
+          "placeholder": "Date range",
+          "tooltip": "Filter signups by date range",
+          "selectPlaceholder": "Select date range",
+          "options": {
+            "lastWeek": "Last Week",
+            "last30Days": "Last 30 Days",
+            "last60Days": "Last 60 Days",
+            "last90Days": "Last 90 Days",
+            "customRange": "Custom range"
+          }
+        }
+      },
+      "downloadReport": {
+        "button": "Download Report",
+        "tooltip": "Download the list of registered users in CSV format",
+        "toast": {
+          "success": {
+            "title": "Report Generated",
+            "description": "Report has been generated successfully."
+          },
+          "error": {
+            "title": "Report Generated",
+            "description": "An unexpected error occurred. Please try again later"
+          }
+        }
+      },
+      "metrics": {
+        "totalSignups": {
+          "title": "Total Signups",
+          "tooltip": "Total number of users registered with your referral link"
+        }
+      }
+    },
+    "table": {
+      "headers": {
+        "name": "Name",
+        "userType": "User Type",
+        "email": "Email",
+        "signUpDate": "Sign Up Date"
+      },
+      "emptyState": "No data available",
+      "loading": "Loading..."
+    },
+    "errors": {
+      "invalidCsvResponse": "Invalid CSV response"
+    }
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "chatChannel": {
+    "badges": {
+      "turboRecruiter": "Turbo Recruiter",
+      "postBooster": "Post Booster",
+      "status": {
+        "pending": "New",
+        "other": "{{status}}"
+      }
+    },
+    "labels": {
+      "relatedTo": "Related to {{jobTitle}}",
+      "notAvailable": "Not available name",
+      "yesterday": "Yesterday"
+    },
+    "dropdown": {
+      "markAsUnread": "Mark as unread",
+      "delete": "Delete"
+    },
+    "deleteDialog": {
+      "title": "Delete Chat",
+      "warning": {
+        "title": "Are you sure you want to delete this conversation?",
+        "description": "This action is permanent, and the chat history with the jobseeker will be irretrievably lost."
+      },
+      "buttons": {
+        "cancel": "Cancel",
+        "delete": "Delete Chat"
+      }
+    },
+    "search": {
+      "candidates": "Search candidates",
+      "company": "Search company"
+    }
+  },
+  
+  "searchEntities": {
+    "search": {
+      "placeholder": "Search",
+      "candidates": "Search candidates",
+      "company": "Search company"
+    },
+    "filters": {
+      "status": {
+        "all": "All",
+        "reviewing": "Reviewing",
+        "contacting": "Contacting",
+        "interviewing": "Interviewing",
+        "decline": "Decline",
+        "hired": "Hired",
+        "saved": "Saved"
+      },
+      "readStatus": {
+        "all": "All",
+        "unread": "Unread",
+        "read": "Read"
+      }
+    },
+        "emptyState": "Candidate not found"
+    },
+
+    "chatSearch": {
+        "placeholder": "Search category",
+        "noResults": "No results found",
+        "selected": {
+        "remove": "Remove selected option"
+        }
+    },
+
+    "chatInput": {
+        "reply": {
+        "you": "You"
+        },
+        "placeholder": "Write a message to {{user}}...",
+        "buttons": {
+        "attach": "Attach file",
+        "send": "Send message"
+        },
+        "attachment": {
+        "remove": "Remove attachment"
+        }
+    },
+
+    "messageList": {
+        "emptyState": {
+        "title": "No candidates chats at the moment",
+        "description": "All candidates chats will be displayed here"
+        },
+        "header": {
+        "noName": "No available name"
+        }
+    },
+
+    "messageItem": {
+        "sender": {
+        "you": "You"
+        },
+        "reply": {
+        "you": "You"
+        },
+        "attachment": {
+        "open": "Open"
+        },
+        "timestamp": {
+        "format": "DD MMM, hh:mm A"
+        }
+    },
+
+    "pageChat": {
+        "title": {
+        "jobSeeker": "Chat",
+        "employer": "Candidates Chat"
+        }
+    }
+
+
+
+}
+
+
+
+
+

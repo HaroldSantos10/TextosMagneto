@@ -1,0 +1,229 @@
+{
+    "jobs": {
+        "title": "My Jobs",
+        "search_placeholder": "Search jobs",
+        "clear_search": "Clear search",
+        "get_turbo_finder": "Get Turbo Finder",
+        "status": {
+            "applied": "Applied",
+            "saved_for_later": "Saved for later",
+            "declined": "Declined",
+            "auto_applied": "Auto-applied"
+        }
+    }, 
+    
+    "applicationsTable": {
+        "headers": {
+        "jobInformation": "Job Information",
+        "matchToPosition": "Match to Position",
+        "salary": "Salary",
+        "locationType": "Location Type",
+        "jobType": "Job Type",
+        "appliedDate": "Applied Date",
+        "actions": ""
+        },
+        "states": {
+        "loading": "Loading your applications...",
+        "error": "Error loading applications. Please try again.",
+            "empty": {
+                "title": "No jobs found",
+                "description": "Try adjusting your filters"
+            }
+        }
+    },
+
+    "jobsList": {
+        "loading": "Loading your applications...",
+        "error": "Error loading applications. Please try again.",
+        "empty": {
+        "title": "No jobs found",
+        "description": "Try adjusting your filters"
+        }
+    },
+
+
+    "jobActionsMenu": {
+        "buttons": {
+            "apply": "Apply",
+            "saveForLater": "Save for Later",
+            "decline": "Decline",
+            "remove": "Remove"
+        },
+        "ariaLabels": {
+            "applyIcon": "Apply Icon",
+            "saveForLaterIcon": "Save for Later Icon",
+            "declineIcon": "Decline Icon",
+            "removeIcon": "Remove Icon"
+        },
+        "disabledMessages": {
+            "apply": "Apply action is disabled",
+            "saveForLater": "Save for Later action is disabled",
+            "decline": "Decline action is disabled",
+            "remove": "Remove action is disabled"
+        }
+    },
+
+
+    "jobCard": {
+        "anonymousCompany": "Anonymous Company",
+        "notSpecified": "Not Specified",
+        "salaryLabel": "<0>Salary:</0> {{salary}}",
+        "locationLabel": "<0>Location:</0> {{location}}",
+        "jobTypeLabel": "<0>Job Type:</0> {{jobType}}",
+        "appliedDateLabel": "<0>Applied Date:</0> {{appliedDate}}",
+        "matchTooltip": {
+            "salaryScore": "Salary Score",
+            "softScore": "Soft Skills Score",
+            "technicalScore": "Technical Skills Score",
+            "totalScore": "Total Score"
+        },
+        "jobActionsMenu": {
+            "buttons": {
+            "apply": "Apply",
+            "saveForLater": "Save for Later",
+            "decline": "Decline",
+            "remove": "Remove"
+            },
+            "disabledMessages": {
+            "apply": "Apply action is disabled",
+            "saveForLater": "Save for Later action is disabled",
+            "decline": "Decline action is disabled",
+            "remove": "Remove action is disabled"
+            }
+        },
+        "removeModal": {
+            "title": "Remove Job Post",
+            "confirmationMessage": "Are you sure you want to remove this job post?",
+            "warningMessage": "This action cannot be undone. Once deleted, the job post will no longer appear in your jobs section.",
+            "buttons": {
+            "cancel": "Cancel",
+            "remove": "Remove",
+            "removing": "Removing..."
+            }
+        },
+        "toastMessages": {
+            "applicationReactivated": {
+            "title": "Application Reactivated",
+            "description": "Your application for \"{{jobTitle}}\" has been reactivated."
+            },
+            "jobSaved": {
+            "title": "Job Saved",
+            "description": "You have successfully saved the job \"{{jobTitle}}\" for later review."
+            },
+            "jobDeclined": {
+            "title": "Job Declined",
+            "description": "You have marked the job \"{{jobTitle}}\" as not interested."
+            },
+            "applicationRemoved": {
+            "title": "Application Removed",
+            "description": "Your application for \"{{jobTitle}}\" has been successfully removed."
+            },
+            "actionFailed": {
+            "title": "Action Failed",
+            "description": "We couldn't complete this action. Please try again later."
+            },
+            "cannotDecline": {
+            "title": "Action Failed",
+            "description": "Cannot decline this job in its current state."
+            }
+        },
+        "tooltips": {
+            "pendingDataRequired": "This is a strong match for your profile. To finish the application process, please answer a few additional questions."
+        }
+    }, 
+
+
+    "jobCardsList": {
+        "loading": {
+            "message": "Loading your applications..."
+        },
+        "error": {
+            "message": "Error loading applications. Please try again."
+        },
+        "emptyState": {
+            "title": "No jobs found",
+            "subtitle": "Try adjusting your filters"
+        }
+        },
+
+        "jobFilters": {
+        "placeholders": {
+            "jobType": "Job Type",
+            "locationType": "Location Type",
+            "positionLevel": "Position Level",
+            "sortBy": "Sort By"
+        }
+    },
+
+
+    "jobRow": {
+        "notSpecified": "Not Specified",
+        "removeModal": {
+            "title": "Remove Job Post",
+            "confirmation": "Are you sure you want to remove this job post?",
+            "description": "This action cannot be undone. Once deleted, the job post will no longer appear in your jobs section.",
+            "buttons": {
+            "cancel": "Cancel",
+            "remove": "Remove",
+            "removing": "Removing..."
+            }
+        }
+    },
+
+
+    "matchTooltip": {
+        "title": "Match Breakdown:",
+        "technicalSkills": "Tech Skills",
+        "softSkills": "Soft Skills",
+        "salary": "Salary"
+    },
+
+
+    "myJobsStatusSelect": {
+        "placeholder": "Select status",
+        "search": "Search...",
+        "noOptions": "No options found."
+    },
+
+    "pagination": {
+        "ellipsis": "..."
+    },
+
+
+    "pendingDataNotification": {
+        "message": "This is a strong match for your profile. To finish the application process, please answer a few additional questions."
+    },
+
+
+    "progressRing": {
+        "label": "Match progress: {{percentage}} percent",
+        "imageAlt": "Match Progress"
+    },
+
+
+    "statusFilter": {
+        "placeholder": "Job Post Status",
+        "APPLIED": {
+            "text": "Applied",
+            "label": "Applied ({{count}})"
+        },
+        "SAVED_FOR_LATER": {
+            "text": "Saved for later",
+            "label": "Saved for later ({{count}})"
+        },
+        "DECLINED": {
+            "text": "Declined",
+            "label": "Declined ({{count}})"
+        },
+        "AUTO_APPLIED": {
+            "text": "Auto Applied",
+            "label": "Auto Applied ({{count}})"
+        },
+        "TOTAL": {
+            "text": "Total",
+            "label": "Total ({{count}})"
+        }
+    }
+
+  
+}

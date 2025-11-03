@@ -1,0 +1,130 @@
+{
+    "editProfile_main": {
+    "title": "Profile",
+    "sections": {
+        "personalInformation": {
+        "title": "Personal Information",
+        "fields": {
+            "fullName": "Full Name:",
+            "address": "Address:",
+            "authorization": "Authorization to work in the country?",
+            "educationLevel": "Education level:",
+            "industry": "Industry:",
+            "profession": "Profession:",
+            "experienceLevel": "Experience Level:"
+        },
+        "values": {
+            "yes": "Yes",
+            "no": "No",
+            "notSpecified": "Not Specified",
+            "present": "Present"
+        }
+        },
+        "education": {
+        "title": "Education"
+        },
+        "workExperience": {
+        "title": "Work Experience"
+        },
+        "skills": {
+        "title": "Skills",
+        "technicalSkills": "Technical Skills",
+        "softSkills": "Soft Skills"
+        },
+        "additionalInformation": {
+        "title": "Additional Information",
+        "certifications": "Certifications",
+        "languages": "Languages",
+        "linksAndProfiles": "Links and Profiles",
+        "accomplishments": "Accomplishments"
+        },
+        "preferences": {
+        "title": "Preferences",
+        "benefits": "Benefits",
+        "compensation": "Compensation/Salary",
+        "jobType": "Job Type:",
+        "workSchedule": "Work Schedule:",
+        "positionLevel": "Position Level:",
+        "locationType": "Location Type:",
+        "countryTimeZone": "Country and Time Zone:",
+        "companyCulture": "Company Culture:",
+        "discoverability": "Discoverability:"
+        },
+        "cvPreview": {
+        "title": "CV Template {{number}} Preview",
+        "preview": "Preview",
+        "levels": {
+            "basic": "Basic",
+            "native": "Native"
+        }
+        }
+    },
+    "buttons": {
+        "edit": "Edit",
+        "preview": "Preview",
+        "close": "Close"
+    }
+    },
+
+    "personalInformationPage": {
+        "title": "Personal Information",
+        "navigation": {
+        "back": "Back"
+        }
+    },
+
+    "education": {
+      "title": "Education",
+      "navigation": {
+        "back": "Back"
+      }
+    },
+
+    "workExperience": {
+      "title": "Work Experience",
+      "navigation": {
+        "back": "Back"
+      }
+    },
+
+    "skills": {
+      "title": "Skills",
+      "navigation": {
+        "back": "Back"
+      }
+    },
+
+    "additionalInformation": {
+        "title": "Additional Information",
+        "description": "Include relevant certifications, languages, or other key accomplishments.",
+        "navigation": {
+        "back": "Back"
+        },
+        "buttons": {
+        "cancel": "Cancel",
+        "save": "Save Changes"
+        },
+        "notifications": {
+        "success": {
+            "title": "Additional Information Updated",
+            "description": "Your additional information has been updated successfully."
+        },
+        "error": {
+            "title": "Error Updating Information",
+            "description": "An unexpected error occurred. Please try again later"
+        }
+        }
+    },
+    "preferences": {
+        "title": "Preferences",
+        "navigation": {
+        "back": "Back"
+        },
+        "buttons": {
+        "cancel": "Cancel",
+        "save": "Save changes"
+        }
+    }
+
+
+}

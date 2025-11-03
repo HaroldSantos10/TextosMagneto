@@ -1,0 +1,190 @@
+ {
+    "help": {
+        "common": {
+        "back": "Back",
+        "needFurtherAssistance": "Need further assistance?",
+        "contactSupport": "Contact Support",
+        "navigation": {
+            "contact": "/jobseeker/help/contact"
+        }
+        },
+        "gettingStarted": {
+        "title": "Getting Started",
+        "sections": {
+            "accountSetup": "Account Setup",
+            "profileCreation": "Profile Creation",
+            "jobSearch": "Job Search",
+            "applications": "Applications"
+        }
+        },
+        "accountSetup": {
+        "title": "Account Setup",
+        "faqs": {
+            "howToCreateAccount": {
+            "title": "How to Create an Account",
+            "description": "Step-by-step guide to creating your job seeker account"
+            },
+            "verificationProcess": {
+            "title": "Verification Process",
+            "description": "Learn about the email verification and account activation process"
+            },
+            "passwordReset": {
+            "title": "Password Reset",
+            "description": "How to reset your password if you forget it"
+            },
+            "profileCompletion": {
+            "title": "Profile Completion",
+            "description": "Completing your profile for better job matches"
+            },
+            "privacySettings": {
+            "title": "Privacy Settings",
+            "description": "Managing your privacy and visibility settings"
+            }
+        }
+        },
+        "profileCreation": {
+        "title": "Profile Creation",
+        "faqs": {
+            "personalInformation": {
+            "title": "Personal Information",
+            "description": "Adding and updating your personal details"
+            },
+            "workExperience": {
+            "title": "Work Experience",
+            "description": "How to add and manage your work experience"
+            },
+            "education": {
+            "title": "Education",
+            "description": "Adding your educational background"
+            },
+            "skills": {
+            "title": "Skills",
+            "description": "Listing your professional skills and competencies"
+            },
+            "resumeUpload": {
+            "title": "Resume Upload",
+            "description": "Uploading and managing your resume"
+            }
+        }
+        },
+        "jobSearch": {
+        "title": "Job Search",
+        "faqs": {
+            "searchFilters": {
+            "title": "Search Filters",
+            "description": "Using filters to find relevant job opportunities"
+            },
+            "savedJobs": {
+            "title": "Saved Jobs",
+            "description": "How to save jobs for later application"
+            },
+            "jobAlerts": {
+            "title": "Job Alerts",
+            "description": "Setting up notifications for new job postings"
+            },
+            "companyResearch": {
+            "title": "Company Research",
+            "description": "Researching companies before applying"
+            }
+        }
+        },
+        "applications": {
+        "title": "Applications",
+        "faqs": {
+            "applicationProcess": {
+            "title": "Application Process",
+            "description": "Step-by-step guide to applying for jobs"
+            },
+            "applicationStatus": {
+            "title": "Application Status",
+            "description": "Tracking your job application status"
+            },
+            "interviewPreparation": {
+            "title": "Interview Preparation",
+            "description": "Preparing for job interviews"
+            },
+            "offerManagement": {
+            "title": "Offer Management",
+            "description": "Managing job offers and negotiations"
+            }
+        }
+        }
+    },
+
+    
+    "help_contact": {
+        "contact": {
+        "title": "Contact Us",
+        "emailSupport": {
+            "title": "Email Support",
+            "form": {
+            "reasons": {
+                "label": "Reasons *",
+                "placeholder": "Select your reason",
+                "options": {
+                "none": "None",
+                "cancelPaidAccount": "Cancel Paid Account",
+                "cancelTrialAccount": "Cancel Trial Account",
+                "customerSupport": "Customer Support",
+                "jobPostingQuestions": "Job Posting Questions",
+                "other": "Other",
+                "productFeedback": "Product Feedback or Suggestion",
+                "refundRequest": "Refund Request"
+                },
+                "errors": {
+                "required": "Reasons is required"
+                }
+            },
+            "subject": {
+                "label": "Subject *",
+                "characterLimit": "{{current}}/70 characters",
+                "limitReached": "Character limit, only up to 70 characters allowed.",
+                "errors": {
+                "required": "Subject is required",
+                "minLength": "Subject must be at least 4 characters long",
+                "maxLength": "Maximum 70 characters allowed",
+                "pattern": "Subject can only contain letters and spaces, no special characters or numbers"
+                }
+            },
+            "email": {
+                "label": "Email Address *",
+                "errors": {
+                "required": "Email is required",
+                "pattern": "Enter a valid email address"
+                }
+            },
+            "description": {
+                "label": "Description *",
+                "characterLimit": "{{current}}/1000 characters",
+                "limitReached": "Character limit, only up to 1000 characters allowed.",
+                "errors": {
+                "required": "Description is required",
+                "minLength": "Description must be at least 10 characters long",
+                "maxLength": "Maximum 1000 characters allowed",
+                "pattern": "Description contains invalid characters. Only letters, numbers, spaces, and common punctuation are allowed"
+                }
+            },
+            "submit": "Submit"
+            },
+            "toast": {
+            "success": {
+                "title": "Request Submitted",
+                "description": "Your email support request has been successfully submitted. Our team will respond to you soon."
+            }
+            }
+        },
+        "callSupport": {
+            "title": "Call Support",
+            "bookCall": "Book a call"
+        }
+        },
+        "helpCenter": {
+        "title": "Help Center",
+        "description": "Find answers to common questions and explore detailed guides to make the most of Magneto HR. Whether you're just getting started or need help managing your account, we're here to support you every step of the way.",
+        "needFurtherAssistance": "Need further assistance?",
+        "contactSupport": "Contact Support"
+        }
+    }
+    
+
+}

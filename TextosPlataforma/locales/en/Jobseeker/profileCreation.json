@@ -1,0 +1,775 @@
+{
+    "profile": {
+        "personalInformation": {
+        "description": "This information will be shared with companies in the platform and anyone you share your profile with.",
+        "form": {
+            "firstName": {
+            "label": "First name",
+            "placeholder": "First Name",
+            "errors": {
+                "required": "First name is required",
+                "minLength": "First name must be at least {{min}} characters",
+                "maxLength": "First name cannot exceed {{max}} characters",
+                "pattern": "Enter a valid first name (letters, spaces, hyphens and apostrophes only)",
+                "noMultipleSpaces": "Multiple consecutive spaces are not allowed",
+                "noLeadingTrailingSpaces": "Name cannot start or end with spaces"
+            }
+            },
+            "lastName": {
+            "label": "Last name",
+            "placeholder": "Last Name",
+            "errors": {
+                "required": "Last name is required",
+                "minLength": "Last name must be at least {{min}} characters",
+                "maxLength": "Last name cannot exceed {{max}} characters",
+                "pattern": "Enter a valid last name (letters, spaces, hyphens and apostrophes only)",
+                "noMultipleSpaces": "Multiple consecutive spaces are not allowed",
+                "noLeadingTrailingSpaces": "Name cannot start or end with spaces"
+            }
+            },
+            "phone": {
+            "label": "Phone number",
+            "placeholder": "Phone Number",
+            "codePlaceholder": "Code",
+            "errors": {
+                "pattern": "Enter a valid phone number (7-15 digits)",
+                "minLength": "Phone number must be at least 7 digits",
+                "maxLength": "Phone number cannot exceed 15 digits"
+            }
+            },
+            "address": {
+            "title": "Address <0>*</0>",
+            "country": {
+                "label": "Country",
+                "placeholder": "Select a country",
+                "errors": {
+                "required": "Country is required"
+                }
+            },
+            "state": {
+                "label": "State",
+                "placeholder": "Select a state",
+                "errors": {
+                "required": "State / Province is required"
+                }
+            },
+            "street": {
+                "label": "Street",
+                "errors": {
+                "required": "Street Address is required",
+                "noMultipleSpaces": "Multiple consecutive spaces are not allowed",
+                "noLeadingTrailingSpaces": "Street Address cannot start or end with spaces"
+                }
+            },
+            "city": {
+                "label": "City",
+                "placeholder": "Select a city",
+                "errors": {
+                "required": "City is required"
+                }
+            },
+            "zipCode": {
+                "label": "ZIP / Postal code",
+                "errors": {
+                "required": "ZIP / Postal code is required",
+                "noMultipleSpaces": "Multiple consecutive spaces are not allowed",
+                "noLeadingTrailingSpaces": "ZIP / Postal code cannot start or end with spaces"
+                }
+            }
+            },
+            "workAuthorization": {
+            "title": "Are you authorized to work in this country? <0>*</0>",
+            "description": "Providing this detail ensures compliance with local labor regulations.",
+            "countryDisplay": "{{countryName}}",
+            "yes": "Yes",
+            "no": "No",
+            "errors": {
+                "required": "This field is required"
+            }
+            },
+            "avatar": {
+            "title": "Avatar",
+            "description": "Upload a profile image",
+            "uploadButton": "Upload a file",
+            "changeButton": "Change",
+            "dragDrop": "or drag and drop",
+            "fileTypes": "PNG, JPG, GIF up to 10MB",
+            "uploadSection": {
+                "title": "Upload a file",
+                "dragDrop": "or drag and drop<0></0><1>PNG, JPG, GIF up to 10MB</1>"
+            }
+            },
+            "education": {
+            "title": "Education level <0>*</0>",
+            "description": "Select the highest level of education you have completed.",
+            "placeholder": "Select educational level",
+            "errors": {
+                "required": "Educational level is required"
+            }
+            },
+            "industry": {
+            "title": "Industry <0>*</0>",
+            "description": "Select up to 2 Industries.",
+            "placeholder": "Select industry",
+            "loading": "Loading...",
+            "errors": {
+                "required": "Industry is required",
+                "maxSelection": "You can only select up to 2 industries"
+            }
+            },
+            "profession": {
+            "title": "Profession <0>*</0>",
+            "description": "Select up to 2 Professions.",
+            "placeholder": "Select profession",
+            "errors": {
+                "required": "Profession is required",
+                "maxSelection": "You can only select up to 2 professions"
+            }
+            },
+            "experience": {
+            "label": "Experience Level <0>*</0>",
+            "placeholder": "Select experience level",
+            "errors": {
+                "required": "Experience level is required"
+            }
+            }
+        },
+        "buttons": {
+            "cancel": "Cancel",
+            "saveChanges": "Save Changes",
+            "saveForLater": "Save for later",
+            "next": "Next"
+        },
+        "toast": {
+            "success": {
+            "title": "Success",
+            "description": "Your progress has been saved successfully"
+            },
+            "web3Error": {
+            "title": "No Web3 Provider",
+            "description": "Web3 provider is not available. Please connect your wallet."
+            },
+            "profileUpdated": {
+            "title": "Profile Updated",
+            "description": "You have successfully updated your profile."
+            },
+            "profileError": {
+            "title": "Profile Update Error",
+            "description": "An unexpected error occurred. Please try again later"
+            },
+            "saveError": {
+            "title": "Error",
+            "description": "Failed to save profile. Please try again."
+            },
+            "fileError": {
+            "title": "Company Profile",
+            "description": "PNG, JPG, GIF up to 10MB"
+            }
+        }
+        }
+    },
+    "common": {
+        "loading": "Loading...",
+        "requiredIndicator": "<0>*</0>",
+        "validation": {
+        "required": "This field is required"
+        }
+    },
+
+    "education": {
+        "title": "Education",
+        "header": {
+        "title": "Tell Us about your Education",
+        "description": "Enter your education experience so far, even if you are a current student or did not graduate."
+        },
+        "form": {
+        "schoolName": {
+            "title": "School name <0>*</0>",
+            "description": "You can add any School Name here.",
+            "placeholder": "School name (max 100 characters)",
+            "errors": {
+            "required": "School name is required",
+            "minLetters": "School name must have at least 2 letters",
+            "maxLetters": "School name cannot exceed 100 letters",
+            "validPattern": "Enter a valid School Name"
+            }
+        },
+        "degree": {
+            "title": "Degree",
+            "placeholder": "Select Degree",
+            "otherPlaceholder": "Please specify your degree (max 100 characters)",
+            "errors": {
+            "required": "Please specify your degree"
+            }
+        },
+        "fieldOfStudy": {
+            "title": "Field of study",
+            "placeholder": "Select field of study"
+        },
+        "schoolLocation": {
+            "title": "School Location",
+            "description": "You can add any School Location here.",
+            "placeholder": "Country, State/Province (max 100 characters)",
+            "errors": {
+            "minLetters": "School location must have at least 2 letters",
+            "maxLetters": "School location cannot exceed 100 letters",
+            "validPattern": "Enter a valid School Location"
+            }
+        },
+        "graduationDate": {
+            "title": "Graduation Date",
+            "description": "If pending, enter expected date",
+            "month": {
+            "label": "Month",
+            "placeholder": "MM"
+            },
+            "year": {
+            "label": "Year",
+            "placeholder": "YYYY"
+            }
+        },
+        "gpa": {
+            "title": "Grade Point Average",
+            "placeholder": "GPA",
+            "errors": {
+            "pattern": "Enter a valid GPA between 0 and 100 (up to 2 decimals)"
+            }
+        },
+        "honors": {
+            "title": "Graduation Honors",
+            "placeholder": "Select honors",
+            "options": {
+            "none": "None",
+            "summaCumLaude": "Summa Cum Laude",
+            "magnaCumLaude": "Magna Cum Laude",
+            "cumLaude": "Cum Laude",
+            "withDistinction": "With Distinction",
+            "topOnePercent": "Top 1% of Graduating Class",
+            "other": "Other*"
+            }
+        }
+        },
+        "summary": {
+        "title": "Education Summary",
+        "addButton": "Add Another Education"
+        },
+        "buttons": {
+        "cancel": "Cancel",
+        "save": "Save",
+        "next": "Next",
+        "saveForLater": "Save for Later",
+        "goToProfile": "Go to Profile",
+        "addEducation": "Add Another Education"
+        },
+        "modals": {
+        "delete": {
+            "title": "Delete Education",
+            "description": "Are you sure you want to delete this education entry? This action cannot be undone.",
+            "confirm": "Delete"
+        }
+        },
+        "toast": {
+        "success": {
+            "title": "Success",
+            "description": "Your progress has been saved successfully"
+        },
+        "educationUpdated": {
+            "title": "Education Updated",
+            "description": "You have successfully updated your profile."
+        },
+        "educationDeleted": {
+            "title": "Education Deleted",
+            "description": "Education has been removed successfully."
+        },
+        "educationRequired": {
+            "title": "Education Required",
+            "description": "Please add at least one education record to continue."
+        },
+        "validationError": {
+            "title": "Validation Error",
+            "description": "Please fill at least one field before saving"
+        },
+        "noEducation": {
+            "title": "No education to save",
+            "description": "Please add at least one education before saving for later."
+        },
+        "error": {
+            "title": "Error",
+            "description": "Failed to save education. Please try again."
+        },
+        "deleteError": {
+            "title": "Error",
+            "description": "Failed to delete education. Please try again."
+        },
+        "unexpectedError": {
+            "description": "An unexpected error occurred. Please try again later"
+        }
+        }
+    },
+
+       
+    "aiEditor": {
+        "aiSection": {
+        "title": "AI Generated Suggestions",
+        "regenerateSection": {
+            "description": "Let AI generate the {{contentType}} <0 /> for you<1></1>no need to type it yourself.",
+            "regenerateButton": "Regenerate"
+        }
+        },
+        "editorSection": {
+        "description": "{{description}}"
+        },
+        "buttons": {
+        "regenerate": "Regenerate",
+        "generateWithAI": "Generate with AI"
+        },
+        "contentTypes": {
+        "jobDescription": "job description",
+        "accomplishments": "accomplishments"
+        }
+    },
+
+    "workExperience": {
+        "header": {
+        "title": "Tell Us about your Work experience",
+        "description": "Enter work information to showcase your experience."
+        },
+        "form": {
+        "jobTitle": {
+            "title": "Job Title <0>*</0>",
+            "description": "You can add any Job Title here.",
+            "placeholder": "Enter job title",
+            "errors": {
+            "required": "Job Title is required",
+            "minLetters": "Job title must have at least 2 letters",
+            "maxLetters": "Job title cannot exceed 100 letters",
+            "validPattern": "Enter a valid Job Title"
+            }
+        },
+        "employer": {
+            "label": "Employer",
+            "errors": {
+            "required": "Employer is required",
+            "minLetters": "Employer name must have at least 2 letters",
+            "maxLetters": "Employer name cannot exceed 100 letters",
+            "validPattern": "Enter a valid Employer Name"
+            }
+        },
+        "location": {
+            "title": "Location",
+            "description": "You can add any Location here.",
+            "placeholder": "Country, State/Province",
+            "errors": {
+            "minLetters": "Location must have at least 2 letters",
+            "maxLetters": "Location cannot exceed 100 letters",
+            "validPattern": "Enter a valid Location"
+            }
+        },
+        "startDate": {
+            "title": "Start Date",
+            "month": {
+            "label": "Month",
+            "placeholder": "MM"
+            },
+            "year": {
+            "label": "Year",
+            "placeholder": "YYYY"
+            }
+        },
+        "endDate": {
+            "title": "End Date",
+            "month": {
+            "label": "Month",
+            "placeholder": "MM"
+            },
+            "year": {
+            "label": "Year",
+            "placeholder": "YYYY"
+            },
+            "currentJob": "This is my current job"
+        },
+        "jobDescription": {
+            "title": "What were your responsibilities as a {{jobTitle}}?",
+            "subtitle": "Enter work information to showcase your experience",
+            "editor": {
+            "title": "Job Description",
+            "description": "Explain your main duties and any notable accomplishments"
+            }
+        }
+        },
+        "summary": {
+        "title": "Work Experience Summary",
+        "addButton": "Add Another Work Experience"
+        },
+        "buttons": {
+        "cancel": "Cancel",
+        "save": "Save",
+        "next": "Next",
+        "saveForLater": "Save for Later",
+        "goToProfile": "Go to Profile",
+        "saveChanges": "Save Changes"
+        },
+        "modals": {
+        "delete": {
+            "title": "Delete Work Experience",
+            "description": "Are you sure you want to delete this work experience? This action cannot be undone.",
+            "confirm": "Delete"
+        }
+        },
+        "toast": {
+        "success": {
+            "title": "Success",
+            "description": "Your progress has been saved successfully"
+        },
+        "workExperienceUpdated": {
+            "title": "Work Experience",
+            "description": "You have successfully updated your profile."
+        },
+        "workExperienceDeleted": {
+            "title": "Work Experience Deleted",
+            "description": "Work experience has been removed successfully."
+        },
+        "workExperienceRequired": {
+            "title": "Work Experience Required",
+            "description": "Please add at least one work experience with job title and employer to continue."
+        },
+        "validationError": {
+            "title": "Please fill at least one field before saving",
+            "description": "Add some work experience details before saving for later."
+        },
+        "jobTitleRequired": {
+            "title": "Job title is required",
+            "description": "Please enter the job title before saving for later."
+        },
+        "employerRequired": {
+            "title": "Employer is required",
+            "description": "Please enter the employer name before saving for later."
+        },
+        "error": {
+            "title": "Error",
+            "description": "Failed to save work experience. Please try again."
+        },
+        "deleteError": {
+            "title": "Error",
+            "description": "Failed to delete work experience. Please try again."
+        },
+        "unexpectedError": {
+            "description": "An unexpected error occurred. Please try again later"
+        }
+        },
+        "validation": {
+        "dateError": "End date must be after start date"
+        },
+        "workExperience": {
+            "item": {
+            "date": {
+                "noDate": "No date specified",
+                "present": "Present",
+                "range": "{{startMonth}} {{startYear}} - {{endMonth}} {{endYear}}"
+            },
+            "actions": {
+                "edit": "Edit",
+                "delete": "Delete"
+            }
+            },
+            "alerts": {
+            "deleteDisabled": {
+                "title": "Work Experience"
+            }
+            }
+        }
+
+    },
+
+    "skills": {
+        "technicalSkills": {
+        "title": "Technical Skills <0>*</0>",
+        "description": "Add as many skills as you need to, marking at least 1 top skill to strengthen your matches.",
+        "placeholder": "Search technical skills"
+        },
+        "softSkills": {
+        "title": "Soft Skills <0>*</0>",
+        "description": "Add as many skills as you need to, marking at least 1 top skill to strengthen your matches.",
+        "placeholder": "Search soft skills"
+        },
+        "validation": {
+        "noSkills": "Please add at least 1 Technical Skill and 1 Soft Skill",
+        "noTechSkills": "Please add at least 1 Technical Skill",
+        "noSoftSkills": "Please add at least 1 Soft Skill",
+        "errorTitle": "Skills Required"
+        },
+        "buttons": {
+        "cancel": "Cancel",
+        "save": "Save",
+        "next": "Next",
+        "saveForLater": "Save for Later"
+        },
+        "toast": {
+        "success": {
+            "title": "Success",
+            "description": "Your progress has been saved successfully"
+        },
+        "skillsUpdated": {
+            "title": "Updated Skills",
+            "description": "Your skills have been updated successfully."
+        },
+        "error": {
+            "title": "Error updating skills",
+            "description": "An unexpected error occurred. Please try again later"
+        },
+        "updateError": {
+            "title": "Update Skills",
+            "description": "An unexpected error occurred. Please try again later"
+        }
+        }
+    },
+
+    "finalize": {
+        "additional_info_form": {
+            "header": {
+                "title": "Additional Information",
+                "description": "Include relevant certifications, languages, or other key accomplishments"
+            },
+            "certifications_section": {
+                "title": "Certifications",
+                "description": "Include relevant certifications.",
+                "placeholder": "Search Certifications"
+            },
+            "languages_section": {
+                "label": "Languages",
+                "description": "Show off your languages skills and your proficiency level.",
+                "placeholder": "Select Language",
+                "proficiency": {
+                    "label": "Level of proficiency",
+                    "basic": "Basic",
+                    "native": "Native"
+                }
+            },
+            "links_section": {
+                "label": "Links and Profiles",
+                "description": "Include links to your website or any relevant professional page.",
+                "placeholder": "Add Link",
+                "validation_error": "Please enter a valid link"
+            },
+
+            "accomplishments": {
+                "sectionTitle": "Accomplishments",
+                "description": "Showcase awards, successful projects, or career milestones. You can select from the options on your right"
+            },
+
+            "aiEditor": {
+                "title": "AI Generated Suggestions",
+                "suggestions": {
+                "description": "Let AI generate the {{content}} for you-no need to type it yourself.",
+                "regenerate": "Regenerate"
+                },
+                "editor": {
+                "descriptions": {
+                    "accomplishments": "Let AI suggest accomplishments for you based on your work experience — No need to type it yourself.",
+                    "jobDescription": "Let AI generate the job description for you—no need to type it yourself."
+                }
+                }
+            }
+            
+        },
+
+        "preferences": {
+            "title": "Preferences",
+            "description": "Share your preferences and what you're looking for in your next job",
+            
+            "benefits": {
+                "sectionTitle": "Benefits",
+                "buttons": {
+                "addBenefit": "Add benefit",
+                "add": "Add"
+                },
+                "placeholders": {
+                "additionalBenefit": "Enter additional benefit..."
+                },
+                "localBenefits": {
+                "dentalInsurance": "Dental Insurance",
+                "paidTimeOff": "Paid Time Off",
+                "lifeInsurance": "Life Insurance",
+                "retirement": "Retirement",
+                "medicalInsurance": "Medical Insurance",
+                "visionInsurance": "Vision Insurance",
+                "noneOfThese": "None of These"
+                }
+            },
+
+            "compensation_section": {
+                "label": "Compensation / Salary",
+                "pay_type": {
+                    "label": "Pay Type",
+                    "placeholder": "Select pay type",
+                    "options": {
+                        "pay_range": "Pay Range",
+                        "exact_pay": "Exact Pay"
+                    }
+                },
+                "salary_fields": {
+                    "minimum": "Minimum Pay",
+                    "maximum": "Maximum Pay",
+                    "exact": "Exact Pay",
+                    "placeholder": "00.00"
+                },
+                "frequency": {
+                    "currency": {
+                        "label": "Currency",
+                        "placeholder": "Select currency"
+                    },
+                    "frequency": {
+                        "label": "Frequency",
+                        "placeholder": "Select frequency"
+                    }
+                },
+                "additional_compensation": {
+                    "plus_commission": "Plus Commission",
+                    "plus_bonus": "Plus Bonus"
+                },
+                "display_texts": {
+                    "plus_commission": "Plus Commission",
+                    "plus_bonus": "Plus Bonus"
+                }
+            },
+            
+            "job_type_section": {
+                "label": "Job Type",
+                "description": "Let recruiters know the job type(s) you prefer.",
+                "placeholder": "Select Job Type"
+            },
+            
+            "work_schedule_section": {
+                "label": "Work Schedule",
+                "description": "Let employers know the work schedule(s) you prefer",
+                "placeholder": "Select Work Schedule"
+            },
+
+            "position_level_section": {
+                "label": "Position Level",
+                "description": "Indicate the seniority level of the position you're seeking",
+                "placeholder": "Search Position"
+            },
+
+            "locationType": {
+                "sectionTitle": "Location Type",
+                "options": {
+                "onSite": "On-Site",
+                "remote": "Remote",
+                "hybrid": "Hybrid"
+                }
+            },
+
+
+            "companyCulture": {
+                "sectionTitle": "Company Culture",
+                "description": "Select up to 2 company cultures that you prefer",
+                "searchPlaceholder": "Search Company Culture",
+                "tooltip": {
+                "traits": "Traits:",
+                "examples": "Examples:"
+                },
+                "validation": {
+                "maxSelection": "You can select up to 2 company cultures"
+                }
+            },
+            
+            "countryTimeZone": {
+                "sectionTitle": "Country and Time Zone",
+                "description": "Pick your timezone and country to align job alerts and deadlines with your location.",
+                "country": {
+                "label": "Country",
+                "placeholder": "Select country"
+                },
+                "timeZone": {
+                "label": "Time Zone",
+                "placeholder": "Select time zone"
+                }
+            },
+            
+            "discoverability": {
+                "sectionTitle": "Discoverability",
+                "description": "Select whether companies can find your profile or not.",
+                "switchLabel": "Allow employers to find me"
+            }
+             
+            
+        },
+
+        "resume_templates": {
+            "title": "Resume Templates",
+            "description": "Best templates for 3-5 years of experience | You can always change your template later."
+        },
+        "finalizing_modal": {
+            "text": "Finalizing your profile..."
+        },
+        "buttons": {
+            "save_for_later": "Save for Later",
+            "finalize": "Finalize"
+        },
+        "sections": {
+            "certifications": "certifications",
+            "languages": "languages",
+            "linksAndProfiles": "linksAndProfiles",
+            "accomplishments": "accomplishments",
+            "benefits": "benefits",
+            "compensation": "compensation",
+            "jobType": "jobType",
+            "workSchedule": "workSchedule",
+            "positionLevel": "positionLevel",
+            "locationType": "locationType",
+            "culture": "culture",
+            "timeZone": "timeZone",
+            "discoverability": "discoverability"
+        },
+
+        "finalize_texts_alerts": {
+            "titles": {
+            "additionalInformation": "Additional Information",
+            "preferences": "Preferences",
+            "resumeTemplates": "Resume Templates"
+            },
+            "descriptions": {
+            "additionalInfo": "Include relevant certifications, languages, or other key accomplishments",
+            "preferences": "Share your preferences and what you're looking for in your next job",
+            "resumeTemplates": "Best templates for 3-5 years of experience | You can always change your template later."
+            },
+            "buttons": {
+            "saveForLater": "Save for Later",
+            "finalize": "Finalize"
+            },
+            "notifications": {
+            "success": {
+                "title": "Success",
+                "description": "Your action was completed successfully"
+            },
+            "profileCompleted": {
+                "title": "Profile Completed",
+                "description": "Welcome to your professional dashboard!"
+            },
+            "error": {
+                "title": "Error creating profile",
+                "description": "Please try again later."
+            },
+            "web3": {
+                "connecting": {
+                "title": "Connecting Wallet",
+                "description": "Connecting to Web3 provider, please wait..."
+                },
+                "noProvider": {
+                "title": "No Web3 Provider",
+                "description": "Web3 provider is not available. This might be due to a connection issue. Please refresh the page and try again."
+                }
+            }
+            },
+            "loading": {
+            "finalizing": "Finalizing your profile..."
+            }
+        }
+
+
+    }
+
+
+
+}

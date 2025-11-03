@@ -1,0 +1,52 @@
+{
+  "analyticsPage": {
+    "title": "Analytics",
+    "dashboard": "Dashboard",
+    "navigation": {
+      "back": "Back"
+    },
+    "filters": {
+      "dateRange": {
+        "placeholder": "Date Range",
+        "options": {
+          "lastWeek": "Last Week",
+          "last30Days": "Last 30 Days",
+          "last60Days": "Last 60 Days",
+          "last90Days": "Last 90 Days",
+          "customRange": "Custom Range"
+        },
+        "custom": {
+          "placeholder": "Select date range",
+          "format": "From {{from}} to {{to}}",
+          "fromOnly": "From {{from}}"
+        }
+      }
+    },
+    "statistics": {
+      "jobsApplications": {
+        "title": {
+          "first": "Jobs",
+          "second": "Applications"
+        }
+      },
+      "interviewsScheduled": {
+        "title": {
+          "first": "Interviews",
+          "second": "Scheduled"
+        }
+      },
+      "turboFinder": {
+        "title": {
+          "first": "Opportunities",
+          "second": "by Turbo Finder"
+        }
+      },
+      "profileBooster": {
+        "title": {
+          "first": "Views by",
+          "second": "Profile Booster"
+        }
+      }
+    }
+  }
+}

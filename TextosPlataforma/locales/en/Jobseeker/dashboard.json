@@ -1,0 +1,233 @@
+{
+
+    "completeProfile": {
+        "title": "Complete your profile",
+        "description": "Finish your profile now to access all features!<0 /> Once completed, we’ll bring you curated opportunities where you’re a good fit.<1 /> <2>Get Started Today!</2>",
+        "button": "Complete your profile"
+    },
+    
+    "jobSearch": {
+        "search": {
+        "placeholder": "Search job",
+        "locationPlaceholder": "City, region or ZIP code",
+        "button": "Search for jobs",
+        "searching": "Searching..."
+        },
+        "filters": {
+        "allJobs": "All Jobs",
+        "turboFinder": "Turbo Finder",
+        "advancedFilters": "Advanced filters",
+        "dateRange": "Date Range",
+        "salary": "Salary",
+        "locationType": "Location Type",
+        "jobType": "Job Type",
+        "selectDateRange": "Select date range",
+        "apply": "Apply"
+        }
+    },
+    
+    "matchPercentage": {
+        "tooltip": {
+        "title": "These percentages show how well your profile aligns with the job:",
+        "techSkills": "<0>Tech Skills</0> reflect your technical fit.",
+        "softSkills": "<0>Soft Skills</0> cover interpersonal compatibility.",
+        "salary": "<0>Salary</0> compares expected vs. offered pay.",
+        "description": "The higher the number, the stronger the match."
+        },
+        "badges": {
+        "techSkills": "Tech Skills",
+        "softSkills": "Soft Skills",
+        "salary": "Salary"
+        }
+    },
+    
+    "skillsList": {
+        "tooltip": {
+        "techSkills": "Technical skills represent specific abilities and knowledge needed to perform job-related tasks.",
+        "softSkills": "Soft skills are interpersonal attributes that enhance individual interactions and job performance."
+        }
+    },
+
+    "turboFinder": {
+        "title": "Get Hired Faster with Turbo Finder",
+        "description": {
+        "part1": "Make your job search <0>effortless</0> and <1>automated.</1> Turbo Finder scans, ranks, and sorts the best job opportunities for you and even <2>applies automatically</2> when you <3>match 80% or more.</3>",
+        "part2": "No more time-consuming scrolling or missed chances, we do the heavylifting for you so you can focus on other tasks.",
+        "part3": "Landing your next job has never been easier. Start now!"
+        },
+        "button": "Get Turbo Finder"
+    },
+
+
+    "jobs": {
+        "loading": "No jobs found",
+        "emptyState": {
+        "title": "No jobs found",
+        "description": "Try adjusting your filters"
+        },
+        "header": {
+        "title": "Explore <0>{{count}}+</0> job opportunities that fit your profile"
+        },
+        "navigation": {
+        "back": "Back to jobs"
+        }
+    },
+    
+    "jobCard": {
+        "badges": {
+        "postBooster": "Post Booster",
+        "new": "NEW"
+        },
+        "buttons": {
+        "dislike": {
+            "title": "Not interested in this job",
+            "remove": "Remove dislike"
+        },
+        "save": {
+            "title": "Save job",
+            "remove": "Remove from saved"
+        }
+        },
+        "company": {
+        "anonymous": "Anonymous Company"
+        },
+        "counts": {
+        "benefits": "Benefit",
+        "benefits_plural": "Benefits",
+        "certifications": "Certification",
+        "certifications_plural": "Certifications",
+        "openRoles": "Open Roles"
+        },
+        "match": {
+        "title": "Overall Match percentage",
+        "techSkills": "Tech Skills",
+        "softSkills": "Soft Skills",
+        "salary": "Salary"
+        },
+        "salary": {
+        "exact": "USD ${{amount}}/{{period}}",
+        "range": "USD ${{min}}-USD ${{max}}/{{period}}"
+        }
+    },
+    
+    "jobDetail": {
+        "buttons": {
+        "dislike": {
+            "title": "Not interested in this job",
+            "remove": "Remove dislike"
+        },
+        "save": {
+            "title": "Save job",
+            "remove": "Remove from saved"
+        },
+        "apply": "Apply Now",
+        "applied": "Applied",
+        "viewCoverVideo": "View Cover Video"
+        },
+        "titles": {
+        "requirements": "Requirements",
+        "fullDetails": "Full Details",
+        "jobDescription": "Job Description",
+        "jobRequirements": "Job Requirements",
+        "jobResponsibilities": "Job Responsibilities",
+        "compensation": "Compensation/Salary",
+        "companyBenefits": "Company Benefits"
+        },
+        "labels": {
+        "overallMatch": "Overall Match percentage",
+        "profession": "Profession",
+        "educationLevel": "Education Level",
+        "experienceLevel": "Experience Level",
+        "workSchedule": "Work Schedule",
+        "technicalSkills": "Technical Skills",
+        "softSkills": "Soft Skills",
+        "certifications": "Certifications",
+        "industry": "Industry",
+        "preferredLanguage": "Preferred Language",
+        "positionLevel": "Position Level"
+        },
+        "company": {
+        "anonymous": "Anonymous Company"
+        },
+        "status": {
+        "alreadyApplied": "You've already applied to this job",
+        "noNeedToSave": "Job already applied - no need to save"
+        },
+        "tooltips": {
+        "certifications": "Certifications validate your formal expertise and industry recognition."
+        },
+        "values": {
+        "notSpecified": "Not Specified",
+        "resume": "Resume",
+        "coverLetter": "Cover Letter",
+        "plusCommission": "Plus Commission",
+        "plusBonus": "Plus Bonus"
+        },
+        "videoModal": {
+        "title": "Cover Video",
+        "unsupported": "Tu navegador no soporta el elemento de video."
+        }
+    },
+
+    "pagination": {
+        "previous": "Previous page",
+        "next": "Next page",
+        "ellipsis": "..."
+    },
+
+    "Job_application": {
+        "loading": {
+        "title": "Loading..."
+        },
+        "error": {
+        "title": "Error: {{message}}",
+        "default": "An error occurred"
+        },
+        "navigation": {
+        "back": "Back"
+        },
+        "titles": {
+        "completeApplication": "Complete Your Application",
+        "screeningQuestions": "Screening Questions",
+        "description": "Complete all fields thoroughly to move forward with your application process."
+        },
+        "questions": {
+        "dealBreaker": {
+            "label": "Deal-Breaker Question: The platform will automatically exclude candidates who fail to respond to this question."
+        },
+        "placeholders": {
+            "number": "Number",
+            "text": "Response question...",
+            "date": "Pick a date"
+        },
+        "buttons": {
+            "yes": "Yes",
+            "no": "No"
+        }
+        },
+        "attachments": {
+        "coverLetter": {
+            "title": "Upload Cover Letter",
+            "required": "(Required)",
+            "optional": "(Optional)"
+        },
+        "coverVideo": {
+            "title": "Upload Cover Video (Optional)",
+            "supportTypes": ".mp4 up to 20MB - 2 minutes max."
+        },
+        "additionalDocuments": {
+            "title": "Upload Additional Documents (Optional)",
+            "supportTypes": ".pdf up to 5MB"
+        },
+        "common": {
+            "supportTypes": ".pdf up to 5MB"
+        }
+        },
+        "actions": {
+        "cancel": "Cancel",
+        "submit": "Send Application",
+        "submitting": "Submitting..."
+        }
+    }    
+
+}

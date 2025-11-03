@@ -1,0 +1,64 @@
+{
+    "auth": {
+        "jobseeker": {
+            "sign_in": {
+                "title": "Welcome back <0 />to Magneto HR!",
+                "subtitle": "Your next opportunity<0 />is just a click away.",
+                "switch_text": "No account yet?",
+                "switch_button": "Sign up to get started"
+            },
+            "sign_up": {
+                "title": "Find better <0 />opportunities,<1 />faster.",
+                "subtitle": "Create your Magneto HR <0 />account and get matched <1 />with the right roles.",
+                "switch_text": "Existing user?",
+                "switch_button": "Log in"
+            }
+        }
+    },
+    
+    "sign_up_form": {
+        "title": "Sign up for free",
+        "subtitle": "Create your account without a credit card",
+        "social_buttons": {
+            "google": "Sign {action} with Google",
+            "facebook": "Sign up with Facebook"
+        },
+        "divider": "OR",
+        "links": {
+            "existing_user": "Existing user?",
+            "log_in": "Log in",
+            "looking_to_hire": "Looking to Hire?",
+            "hire_sign_in": "Sign in",
+            "hire_sign_up": "Sign up here"
+        },
+        "footer": {
+            "terms": "By signing up, you agree to our {0} and acknowledge our {1}",
+            "terms_of_service": "Terms of Service",
+            "privacy_policy": "Privacy Policy"
+        }
+    },
+    "sign_in_form": {
+        "title": "Great to see you again!",
+        "subtitle": "Sign in to your account",
+        "social_buttons": {
+            "google": "Sign {action} with Google",
+            "facebook": "Sign in with Facebook"
+        },
+        "divider": "OR",
+        "links": {
+            "no_account": "No account yet?",
+            "register_here": "Register here",
+            "looking_to_hire": "Looking to Hire?",
+            "hire_sign_in": "Sign in",
+            "hire_sign_up": "Sign up here"
+        },
+        "footer": {
+            "terms": "By signing in, you agree to our {0} and acknowledge our {1}",
+            "terms_of_service": "Terms of Service",
+            "privacy_policy": "Privacy Policy"
+        }
+    }
+    
+}
+
+

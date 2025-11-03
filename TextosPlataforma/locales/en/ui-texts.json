@@ -1,0 +1,164 @@
+{
+    "social-auth": {
+        "errors": {
+        "fetchUserData": "Error fetching user data. Please try again later.",
+        "web3AuthInitialization": "Web3Auth initialization failed:",
+        "web3AuthConnection": "Web3Auth connected successfully for email/password user",
+        "companyEmailDomain": "For companies, business email domains are required.",
+        "jobseekerEmailDomain": "For job seekers, only personal email domains are allowed (gmail.com, outlook.com, etc.)."
+        },
+        "modals": {
+        "deleteUser": {
+            "companyTitle": "For companies, business email domains are required.",
+            "jobseekerTitle": "For job seekers, only personal email domains are allowed (gmail.com, outlook.com, etc.)."
+        },
+        "approvalPending": {
+            "title": "Approval Pending"
+        }
+        }
+
+    },
+    "verify-email": {
+        "title": "Email Verification",
+        "subtitle": "Look for the verification code in your inbox",
+        "messages": {
+        "codeResent": "Code has been resent",
+        "resendingCode": "Resending code...",
+        "resendCountdown": "You can resend the code in {{seconds}} seconds",
+        "resendButton": "Click Here to Resend",
+        "didntReceive": "Didn't receive the code?",
+        "backToRegister": "Back to Register"
+        },
+        "toast": {
+        "success": {
+            "title": "Verification Code Sent",
+            "description": "A new verification code has been sent to your email address."
+        },
+        "error": {
+            "title": "Error Resending Code",
+            "description": "Failed to resend verification code. Please try again later."
+        }
+        },
+        "errors": {
+        "initialSendFailed": "Failed to send initial verification code",
+        "resendFailed": "Failed to resend verification code"
+        },
+        "footer": {
+        "terms": {
+            "text": "By signing in you agree to our",
+            "link": "terms of service"
+
+        },
+        "privacy": {
+            "text": "and acknowledge our",
+            "link": "privacy policy"        
+        }
+        }
+    },
+
+    "common": {
+        "roles": {
+        "jobSeeker": "job seeker"
+        },
+        "actions": {
+        "resend": "Resend",
+        "back": "Back"
+        }
+    },
+
+    "alerts": {
+        "deleteDisabled": {
+        "title": "<0></0><1>You cannot delete this item</1>",
+        "description": "You must have at least <0>one item</0> in your {{title}}. To delete this one, please create another item first.",
+        "cancel": "Understood"
+        }
+    },
+
+    "filters": {
+        "popover": {
+        "trigger": {
+            "label": "<0>Search and Filter Posts</0>"
+        },
+        "content": {
+            "inputs": {
+            "job_title": {
+                "label": "Job Title",
+                "placeholder": "Search title"
+            },
+            "publication_date": {
+                "label": "Publication Date",
+                "display": {
+                "with_date": "<0>{{formattedDate}}</0>",
+                "empty": "<0>Date Posted</0>"
+                },
+                "clear_button_aria": "Clear date"
+            }
+            },
+            "actions": {
+            "see_results": "See (<0>{{count}}</0>) results",
+            "see_results_disabled": "See (0) results"
+            }
+        }
+        },
+        "badges": {
+        "option": {
+            "text_with_count": "<0>{{optionText}}</0> (<1>{{count}}</1)",
+            "aria_label": "<0>{{optionText}}</0> - {{count}}"
+        },
+        "premium_button": "Premium (<0>{{count}}</0>)"
+        },
+        "status_popover": {
+        "trigger": {
+            "label": "<0>Search by Status</0>"
+        },
+        "options": {
+            "option_item": {
+            "label": "<0>{{optionText}}</0>",
+            "premium_label": "<0>Premium</0> (<1>{{count}}</1>)"
+            },
+            "no_selection": "<0>Search by Status</0>"
+        }
+        }
+    },
+    "labels": {
+        "job_title": "Job Title",
+        "publication_date": "Publication Date",
+        "date_posted": "<0>Date Posted</0>",
+        "search_by_status": "<0>Search by Status</0>"
+    },
+    "buttons": {
+        "open_filters": "<0>Search and Filter Posts</0>",
+        "toggle_chevron_open": "Close filters",
+        "toggle_chevron_closed": "Open filters",
+        "premium": "Premium (<0>{{count}}</0>)",
+        "status_option": "<0>{{optionText}}</0>"
+    },
+    "dynamic_texts": {
+        "counts": {
+        "all": "<0>All</0> (<1>{{count}}</1)",
+        "active": "<0>Active</0> (<1>{{count}}</1)",
+        "paused": "<0>Paused</0> (<1>{{count}}</1)",
+        "draft": "<0>Draft</0> (<1>{{count}}</1)",
+        "closed": "<0>Closed</0> (<1>{{count}}</1)",
+        "reviewing": "<0>Reviewing</0> (<1>{{count}}</1)",
+        "nft_active": "<0>NFT Active</0> (<1>{{count}}</1)"
+        },
+        "results_count": "See (<0>{{count}}</0>) results",
+        "premium_count": "Premium (<0>{{count}}</0>)"
+    },
+    "placeholders": {
+        "search_title": "Search title",
+        "date_posted": "<0>Date Posted</0>"
+    },
+    "messages": {
+        "no_results": "No results",
+        "fetch_error": "An error occurred while fetching the posts. Please try again later."
+    },
+    "accessibility": {
+        "open_filters_button": "Open filters",
+        "close_filters_button": "Close filters",
+        "clear_date_button": "Clear date"
+    }
+
+
+}

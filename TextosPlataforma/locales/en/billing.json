@@ -1,0 +1,105 @@
+{
+  "billing": {
+    "title": "Billing and Invoice",
+    "sections": {
+      "invoiceAndPayment": {
+        "title": "Invoice and Payment history",
+        "tabs": {
+          "invoices": "Invoices",
+          "paymentHistory": "Payment History"
+        },
+        "table": {
+          "invoices": {
+            "headers": {
+              "invoiceId": "Invoice ID",
+              "date": "Date",
+              "amount": "Amount",
+              "action": "Action"
+            },
+            "actions": {
+              "view": "View",
+              "download": "Download"
+            }
+          },
+          "paymentHistory": {
+            "headers": {
+              "transactionId": "Transaction ID",
+              "date": "Date",
+              "paymentMethod": "Payment method",
+              "amount": "Amount",
+              "viewInvoice": "View Invoice"
+            }
+          }
+        }
+      },
+      "managePaymentMethods": {
+        "title": "Manage Payment Methods",
+        "addButton": "Add Payment Method",
+        "paymentMethodsHeader": "Payment Methods",
+        "table": {
+          "headers": {
+            "paymentMethod": "Payment Method",
+            "cardDetails": "Card/Crypto Details",
+            "expirationDate": "Expiration date",
+            "default": "Default",
+            "status": "Status",
+            "action": "Action"
+          },
+          "status": {
+            "yes": "Yes",
+            "no": "No",
+            "active": "Active",
+            "expired": "Expired",
+            "na": "N/A"
+          },
+          "actions": {
+            "edit": "Edit",
+            "delete": "Delete",
+            "setDefault": "Set as Default"
+          }
+        }
+      }
+    },
+    "modals": {
+      "addPaymentMethod": {
+        "title": "Add Payment Method"
+      },
+      "deletePaymentMethod": {
+        "title": "Delete Payment Method"
+      }
+    },
+    "toast": {
+      "defaultPaymentSet": {
+        "title": "Default Payment Method Set",
+        "description": "You have set {{last4}} as your default payment method."
+      },
+      "pdf": {
+        "error": {
+          "title": "PDF Error",
+          "description": "Failed to generate PDF. Please try again."
+        },
+        "downloadError": {
+          "title": "Download Error",
+          "description": "Failed to download PDF. Please try again."
+        }
+      }
+    },
+    "buttons": {
+      "view": "View",
+      "download": "Download",
+      "add": "Add Payment Method"
+    },
+    "loading": {
+      "downloading": "Downloading..."
+    },
+    "fileNames": {
+      "invoice": "Invoice #{{id}}.pdf",
+      "payment": "Payment #{{id}}.pdf"
+    },
+    "errors": {
+      "pdfGeneration": "PDF generation error:",
+      "pdfDownload": "PDF download error:",
+      "update": "Update Error"
+    }
+  }
+}
