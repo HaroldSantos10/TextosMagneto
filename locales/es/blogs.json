@@ -1,0 +1,28 @@
+{
+    "blogs": {
+        "header": {
+            "tagline": "El futuro del reclutamiento impulsado por IA y DePIN"
+        },
+        "article": {
+            "share": "Compartir",
+            "more_posts": "Más publicaciones",
+            "read_more": "LEER MÁS »",
+            "no_comments": "Sin comentarios",
+            "ai_badge": "IA"
+        },
+        "comments": {
+            "responses": "Respuestas",
+            "moderation_notice": "Tu comentario está pendiente de moderación. Esto es una vista previa; tu comentario será visible después de ser aprobado.",
+            "leave_reply": "Deja una respuesta",
+            "email_notice": "Tu dirección de correo electrónico no será publicada. Los campos obligatorios están marcados con *",
+            "form": {
+                "comment_label": "Comentario *",
+                "name_label": "Nombre *",
+                "email_label": "Correo electrónico *",
+                "post_comment": "Publicar comentario",
+                "loading": "Cargando...",
+                "validation_errors": "Mensajes de error dinámicos"
+            }
+        }
+    }
+}

@@ -1,0 +1,195 @@
+{
+    
+    "home": {
+        "section1" : {
+            "title": "Connecting <0>Talent</0><1 />and <2>Opportunity</2><3 />Smarter than ever.",
+            "subtitle": "Skip the search - Connect with great job <0 />opportunities fast. Join now, it’s FREE.",
+            "button_join": "Coming soon",
+            "button_hire": "Looking to hire?"
+        },
+        "section2": {
+            "title": "Get hired.<0 />Fast and smart.",
+            "subtitle": "Start getting job matches tailored to your unique profile - No more guessing. Start now, it’s free.",
+            "button_signup": "Sign up free",
+            "card1": "Land interviews sooner – Our AI connects you with the right job opportunities in days instead of weeks, so you can start moving forward faster.",
+            "card2": "You're matched with jobs you’ll actually thrive in – The AI looks beyond keywords, matching you to roles that fit your skills, experience, and even your work style.",
+            "card3": "Spend less time searching, more time choosing – With instant, accurate matches, you focus on the best opportunities instead of scrolling endlessly through job boards."
+            
+        },
+        "section3": {
+            "title_desktop": "<0>Our AI agent Polaris</0><1 />is working for you!",
+            "title_mobile": "<0>Our AI</0><1 /><2>agent Polaris</2><3 />is working<4 /><5>for you!</5>",
+            "card1_title": "The process is smooth and supportive",
+            "card1_text": "From application to offer, our AI assists every step, helping you stand out and move forward without all the guesswork.",
+            "card2_title": "You get noticed faster",
+            "card2_text": "Our AI agent Polaris makes sure your profile is matched with the right opportunities instantly, so you’re not stuck waiting for weeks to hear back."
+        },
+        "section4": {
+            "headline": "We Do The Heavy Lifting. <0 />You Focus on <1>Growing.</1>",
+            "description": "Your job hunt on auto-pilot - We match, apply and update you every step of the way while you focus on personal growth.",
+            "cta": "Sign up free"
+        },
+        "section5": {
+            "title": "<0>Premium Features</0>",
+            "description": "Unlock advanced tools and enjoy enhanced visibility, faster connections and more support with Magneto HR’s fully transferable premium features.",
+            "profile_booster": {
+                "title": "Profile Booster:",
+                "description": "Profile Booster is your competitive edge in today's crowded job market. It pushes your profile to the top of recruiter searches, making sure you're seen first by companies actively looking for talent like you. <0>Learn more</0>"
+            },
+            "turbo_finder": {
+                "title": "Turbo Finder:",
+                "description": "Turbo Finder does the work, scanning thousands of job openings, matching you with curated roles that fit your skills and even applying for you. No more guesswork, no more spam jobs — just real, relevant openings. <0>Learn more</0>"
+            }
+        },
+        "section6": {
+            "title": "Access to millions of <0>Job Opportunities</0> in the US.",
+            "description": "Whether you’re in the US or Latin America, Magneto HR connects you to the right jobs in the right places. Access to 25+ million companies in the US looking for both remote and in-office talent just like you — all from a single dashboard.",
+            "button": "Sign up free"
+        }
+
+
+    },
+    "whymagneto" : {
+        "section1": {
+            "main_title": "AI-driven job search with <0 />real results and no subscriptions",
+            "block1": {
+                "title": "Magneto HR gives job seekers real power—with no strings <0 />attached.",
+                "description": "Gain lifetime access to AI-driven tools that help you find better jobs, faster. From automated job matching to profile boosting, every feature is designed to give you a real advantage in today’s competitive market."
+            },
+            "block2": {
+                "title": "No subscriptions. No lock-ins. Just full control over your career journey.",
+                "description": "Even Better? It’s not a rental. It’s yours to keep and fully transferable. Whether you’re actively searching or taking a break, your premium access stays flexible."
+            },
+            "highlight_title": "No more endless scrolling,",
+            "highlight_subtitle": "let AI find <0 />the right role for you."
+        },
+        "section2": {
+            "turbo_finder": {
+                "title": "Turbo Finder",
+                "subtitle": "Your cutting-edge solution to better job opportunities.",
+                "description1": "Say goodbye to manual searches and scrolling through job boards. Powered by an advanced AI algorithm, Turbo Finder does the work, scanning thousands of job openings and matching you with curated roles that fit your skills. No more guesswork, no more spam jobs — just real, relevant openings.",
+                "description2": "Designed for maximum time efficiency, Turbo Finder and its auto apply feature help you to get hired in no time by applying to top positions for you — all while maintaining control over your choices.",
+                "what_you_get": "What You Get:",
+                "features": {
+                    "curated_matches": {
+                        "title": "Curated Matches",
+                        "description": "Get job opportunities tailored to your skills, goals, and experience."
+                    },
+                    "time_saving": {
+                        "title": "Time-Saving",
+                        "description": "Skip the endless scrolling and reduce the time it takes to land interviews."
+                    },
+                    "auto_apply": {
+                        "title": "Auto-Apply",
+                        "description": "Automatically apply to top-matching roles so you never miss a chance."
+                    },
+                    "smart_ai": {
+                        "title": "Smart AI",
+                        "description": "Let powerful, cutting-edge tech do the heavy lifting and find roles that truly fit."
+                    }
+                },
+                "stand_out": {
+                    "title1": "Here's what makes Turbo Finder stand out:",
+                    "title2": "it's a Transferable Premium Feature.",
+                    "description": "Not job hunting right now? No problem. Sell it or pass it on. Turn your premium access into real value instead of letting it sit unused."
+                },
+                "banner": {
+                    "description": "Smarter. Sharper. More flexible job searching.",
+                    "button": "Get Turbo Finder Today"
+                }
+            },
+            "profile_booster": {
+                "intro": "Want to make your profile stand out?",
+                "title": "Meet Profile Booster",
+                "subtitle": "Your competitive edge in today's crowded job market.",
+                "description1": "It pushes your profile to the top of recruiter searches, making sure you're seen first by companies actively looking for talent like you. Whether you're applying daily or just keeping an eye out for the right opportunity.",
+                "description2": "No more sitting at the bottom of the pile. With boosted visibility and front-row placement, your profile stands out and draws attention from top recruiters.",
+                "what_you_get": "What You Get:",
+                "features": {
+                    "top_placement": {
+                        "title": "Top placement",
+                        "description": "in recruiter dashboards and searches."
+                    },
+                    "weekly_insights": {
+                        "title": "Weekly insights",
+                        "description": "showing profile views and engagement."
+                    },
+                    "faster_recruiter": {
+                        "title": "Faster recruiter outreach",
+                        "description": "and increased interview opportunities."
+                    },
+                    "better_matches": {
+                        "title": "Better matches",
+                        "description": "from companies actively hiring."
+                    }
+                },
+                "flexibility": {
+                    "title1": "And it's not just powerful, it's flexible.",
+                    "title2": "Profile Booster is a Transferable Premium Feature.",
+                    "description": "Meaning if you're not job hunting at the moment, you can sell it or pass it on. Don't let your visibility go to waste — turn it into real value or save it for when you're ready."
+                },
+                "banner": {
+                    "description": "Make sure the right people see you boost your visibility with Profile Booster.",
+                    "button": "Get Profile Booster Now"
+                }
+            },
+            "one_year": {
+                "title1": "No time to look for a job?",
+                "title2": "We heard you!",
+                "highlighted_title": "Job search fully automated",
+                "intro": "Get 12 months of smarter job searching with",
+                "main_title": "One-Year Full Feature",
+                "subtitle": "Turbo Finder + Profile Booster",
+                "subtitle2": "the ultimate duo for landing the right job, faster.",
+                "description1": "Let AI find and auto-apply to top-matching roles, while your profile gets boosted to the top of recruiter searches for maximum visibility.",
+                "description2": "With this full-feature bundle, your job search is on autopilot for 12 full months — making it the right choice for any job seeker who wants to save time, get noticed faster, and land better opportunities with the power of AI and premium visibility working on their side.",
+                "what_you_get": "What You Get:",
+                "features": {
+                    "unlimited_use": "Unlimited use of Turbo Finder & Profile Booster",
+                    "unlimited_auto_apply": "Unlimited auto-apply to top opportunities",
+                    "weekly_insights": "Weekly insights to track progress",
+                    "faster_responses": "Faster responses from hiring teams",
+                    "priority_visibility": "Priority visibility in recruiter searches",
+                    "one_year_coverage": "1-year coverage for long-term job search power"
+                },
+                "best_part": {
+                    "title1": "And the best part?",
+                    "title2": "This is a Transferable Premium Feature.",
+                    "description": "meaning you can re-sell it or transfer it if you land your dream job early."
+                },
+                "banner": {
+                    "description": "One year of premium job-hunting power. No limits, just opportunities.",
+                    "button": "Buy Now"
+                }
+            },
+            "lifetime": {
+                "title1": "How does unlimited for life sound?",
+                "title2": "Yes, One-Time Investment.",
+                "highlighted_title": "Lifetime Advantage.",
+                "intro": "Unlock unlimited access for life with the ultimate job search toolkit",
+                "main_title": "Lifetime Full Feature",
+                "subtitle": "Combining the AI-powered precision of Turbo Finder with the unmatched visibility of Profile Booster.",
+                "description1": "With this full-feature package, you'll always be ready for your next big opportunity — whether it's tomorrow or five years from now.",
+                "description2": "From auto-applying to curated job matches on your behalf to getting priority placement in recruiter searches with no expiration — this becomes the ideal tool for every job seeker looking to have an edge and be on top of other candidates forever.",
+                "what_you_get": "What You Get:",
+                "features": {
+                    "lifetime_matching": "Lifetime AI-Powered Job Matching",
+                    "unlimited_features": "Unlimited Turbo Finder + Profile Booster for life",
+                    "no_fees": "No monthly fees, no renewals, no subscription",
+                    "time_saving": "Unlimited time saving for the rest of your career",
+                    "ongoing_insights": "Ongoing performance insights to track your progress"
+                },
+                "good_news": {
+                    "title1": "Good news!",
+                    "title2": "it's a Transferable Premium Feature",
+                    "description": "And because it's lifetime access, there's no pressure — use it when you need it, and even transfer, share, or re-sell it if your job search slows down."
+                },
+                "banner": {
+                    "description": "Invest once. Stay visible. Get hired — on your terms, for life.",
+                    "button": "Buy Now"
+                }
+            }
+        }        
+    
+    }
+}

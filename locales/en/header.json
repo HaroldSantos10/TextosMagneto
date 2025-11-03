@@ -1,0 +1,28 @@
+{
+    "header":{
+        "nav": {
+        "links": {
+            "career_tips": "Career tips",
+            "why_magneto": "Why Magneto HR?",
+            "node_operators": "Node Operators"
+        },
+        "buttons": {
+            "sign_in": "Sign in",
+            "looking_to_hire": "Looking to hire?",
+            "looking_for_job": "Looking for a job?"
+        }
+        },
+        "mobile_menu": {
+        "links": {
+            "career_tips": "Career tips",
+            "why_magneto": "Why Magneto HR?",
+            "node_operators": "Node Operators"
+        },
+        "buttons": {
+            "sign_in": "Sign in",
+            "looking_to_hire": "Looking to hire?",
+            "looking_for_job": "Looking for a job?"
+        }
+        }
+    }
+}

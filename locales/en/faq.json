@@ -1,0 +1,58 @@
+{
+  "faq": {
+    "button": {
+      "showMore": "Show more",
+      "showLess": "Show less"
+    },
+    "questions": {
+      "1": {
+        "label": "What makes Magneto HR different?",
+        "answer": "Our job board is designed to connect job seekers and employers faster and smarter. Unlike traditional boards, Magneto HR uses AI-driven matching to ensure relevant, high-quality job matches instead of generic listings. In addition, Magneto HR provides companies with access to top US and Latam talent; as well as job opportunities from companies in the US to Latam and US professionals."
+      },
+      "2": {
+        "label": "Is Magneto HR free to use?",
+        "answer": "Yes! Job seekers can browse and apply for jobs at no cost. Employers can post unlimited job openings for free and access premium features for better visibility and applicant matching."
+      },
+      "3": {
+        "label": "How do I apply for a job?",
+        "answer": "Simply create a free account, create a profile assisted by AI, and apply with one click. Our AI will also suggest jobs that best fit your skills and preferences."
+      },
+      "4": {
+        "label": "Can I track my applications?",
+        "answer": "Absolutely. You can track application statuses, interview invitations, and more."
+      },
+      "5": {
+        "label": "How do Magneto HR’s AI tools reduce hiring time and cost?",
+        "answer": "Our AI automates time-consuming steps like resume screening, candidate ranking, and interview scheduling. This cuts hiring time by up to 60% and reduces recruitment costs significantly."
+      },
+      "6": {
+        "label": "Do I need technical skills to use these AI tools?",
+        "answer": "Not at all. The tools are fully integrated and user-friendly. Employers just post a job, and AI handles the initial screening and shortlisting."
+      },
+      "7": {
+        "label": "Are the AI recommendations reliable?",
+        "answer": "Yes. Our algorithms are trained on real-world hiring data to prioritize quality matches based on skills, experience, and cultural fit—not just keywords."
+      },
+      "8": {
+        "label": "What are transferable premium services?",
+        "answer": "They are premium features—like AI-powered automated talent-scouting tool, AI-powered post boosts and AI-powered automated job application tool—that you can transfer or sell to others. This turns your recruiting spending into an investment as these tools could even increase their value as the platform grows."
+      },
+      "9": {
+        "label": "Is my data safe?",
+        "answer": "Yes. We use enterprise-grade data encryption."
+      },
+      "10": {
+        "label": "What are the benefits of owning a Magneto HR node?",
+        "answer": "Owning a node provides several benefits, including participating in the platform's decentralized network, supporting data integrity, data processing, and gaining access to rewards through the platform's tokenomics (40% of all daily emissions are distributed among all node operators). In addition, some node owners receive exclusive service NFT airdrops, access to exclusive and early project insights, and more. Node operators play a crucial role in the overall success of the Magneto HR ecosystem."
+      },
+      "11": {
+        "label": "How many nodes are available?",
+        "answer": "Right now there are only 2,068 nodes available."
+      },
+      "12": {
+        "label": "Where can I find more information about Magneto HR?",
+        "answer": "For more detailed information, including the litepaper, join our <0>Discord</0> and other community channels for the latest updates and announcements."
+      }
+    }
+  }
+}

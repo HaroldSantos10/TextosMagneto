@@ -1,0 +1,36 @@
+{
+  "footer": {
+    "sections": {
+      "social_media": {
+        "discord": "Discord",
+        "x": "X",
+        "instagram": "Instagram",
+        "tiktok": "TikTok"
+      },
+      "legal": {
+        "title": "Legal",
+        "terms_and_conditions": "Términos y condiciones",
+        "privacy_policy": "Política de privacidad"
+      },
+      "links": {
+        "title": "Enlaces",
+        "career_tips": "Consejos de carrera",
+        "why_magneto": "¿Por qué Magneto HR?",
+        "node_operators": "Operadores de nodos"
+      },
+      "contact": {
+        "title": "Contacto",
+        "address": "611 S Dupont Hwy, Suite 102, Dover, DE 19901",
+        "email": "contactus@magnetohr.com"
+      },
+      "jobseeker_section": {
+        "image_alt": "Polaris"
+      },
+      "company_section": {
+        "title": "Contrata de forma más inteligente y rápida con IA — Vive la experiencia de Magneto HR en acción",
+        "subtitle": "¡Agenda tu demostración gratuita ahora!",
+        "button_book_demo": "Agendar demostración"
+      }
+    }
+  }
+}

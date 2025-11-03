@@ -1,0 +1,226 @@
+{
+    "header": {
+        "navigation": {
+            "market_insight": "Perspectiva de mercado",
+            "cerebro_nodes": "Nodos Cerebro",
+            "node_owners": "Para propietarios de nodos",
+            "our_team": "Nuestro equipo",
+            "roadmap": "Hoja de ruta",
+            "faq": "Preguntas frecuentes"
+        },
+        "cta_button": "Obtener un nodo",
+        "mobile_menu": {
+            "sr_only": "menú"
+        }
+    },
+    "main": {
+        "section1": {
+            "main_title": "Únete a <0>Magneto HR</0> mientras redefinimos la contratación con eficiencia impulsada por IA y seguridad blockchain",
+            "subtitle": "Contribuye a la próxima generación de conexiones de talento uniéndote a nuestra misión hoy"
+        },
+        "section2": {
+            "market_insight": {
+                "title": "Perspectiva de mercado",
+                "description": "Explora la combinación revolucionaria de tecnología y tokenómica de Magneto HR, reduciendo costos y tiempos de contratación en un 50%. Consulta nuestro litepaper para obtener información sobre cómo transformar un mercado de $2,21 billones."
+            },
+            "key_market_data": {
+                "title": "Datos clave del mercado",
+                "cards": {
+                    "global_job_market": {
+                        "title": "Valor global del mercado laboral",
+                        "value": "2,21 billones"
+                    },
+                    "active_openings": {
+                        "title": "Vacantes activas",
+                        "value": "Más de 200 millones"
+                    },
+                    "registered_companies": {
+                        "title": "Empresas registradas a nivel mundial",
+                        "value": "Más de 400 millones"
+                    },
+                    "workforce_size": {
+                        "title": "Tamaño de la fuerza laboral global",
+                        "value": "Más de 3,4 mil millones de empleados"
+                    }
+                }
+            },
+            "job_market_state": {
+                "title": "Estado del mercado laboral",
+                "issues": {
+                    "long_hiring": {
+                        "title": "Proceso de contratación largo",
+                        "description": "Actualmente <0>12 semanas</0> en <1>promedio.</1>"
+                    },
+                    "high_rehiring": {
+                        "title": "Alto costo de recontratación",
+                        "description": "Actualmente <0>300-400%</0> del <1>salario anual del puesto.</1>"
+                    },
+                    "expensive_hiring": {
+                        "title": "Costos de contratación elevados",
+                        "description": "Actualmente más del <0>20%</0> del <1>salario anual del puesto.</1>"
+                    },
+                    "inefficient_process": {
+                        "title": "Proceso de reclutamiento ineficiente",
+                        "description": "Aplicaciones manuales basadas en búsqueda por palabras clave."
+                    }
+                }
+            },
+            "cta_buttons": {
+                "pitchdeck": "Acceder a nuestro Pitchdeck",
+                "litepaper": "Leer nuestro Litepaper"
+            }
+        },
+        "section3": {
+            "main_title": "Los Nodos Cerebro elevan la eficiencia y seguridad de nuestra plataforma.",
+            "cta_text": "Sé parte de la revolución en HR y reclutamiento, obtén tus nodos Cerebro hoy y conviértete en un Omega.",
+            "what_are_nodes": {
+                "title": "¿Qué son exactamente los Nodos Cerebro?",
+                "description": "Los Nodos Cerebro son computadoras individuales dentro de la red Magneto HR. Habilitan algunas funciones de IA y permiten almacenamiento de datos seguro y descentralizado. Haz clic <0>aquí</0> para aprender más."
+            },
+            "stats": {
+                "nodes_online": {
+                    "value": "503",
+                    "label": "Nodos en línea"
+                },
+                "daily_rewards": {
+                    "value": "3,980 $MAGNET",
+                    "label": "Recompensas diarias estimadas por nodo*"
+                },
+                "tier_price": {
+                    "value": "Nivel 3 - $400",
+                    "label": "por nodo",
+                    "subtitle": "Nivel de precio actual"
+                },
+                "note": "*Las recompensas diarias por nodo varían según la cantidad de nodos en línea."
+            },
+            "benefits": {
+                "title": "Beneficios para los seguidores Omega",
+                "items": [
+                    {
+                        "title": "Incentivos en tokens para operadores de nodos",
+                        "description": "Se distribuyen 2 millones de tokens de manera equitativa cada día como recompensa para todos los operadores de nodos."
+                    },
+                    {
+                        "title": "Airdrops de Service NFTs",
+                        "description": "Recibe NFTs de servicios exclusivos que desbloquean funciones premium dentro de la plataforma Magneto HR."
+                    },
+                    {
+                        "title": "Acceso anticipado y exclusivo a información del proyecto",
+                        "description": "Obtén actualizaciones internas y conocimientos clave del proyecto antes de que se compartan públicamente."
+                    }
+                ],
+                "footer_note": "Hay más beneficios por ser seguidor Omega y muchos más por venir..."
+            },
+            "cta_button": "Obtener un nodo"
+        },
+        "section4": {
+            "main_title": "¿Posees un Nodo Cerebro?",
+            "subtitle": "Activa tu nodo hoy y forma parte integral de nuestra red descentralizada",
+            "links": [
+                {
+                    "title": "Sitio de reclamación de recompensas",
+                    "url": "https://claim.magnetohr.com/"
+                },
+                {
+                    "title": "Guía de configuración de nodos",
+                    "url": "https://medium.com/@magnetohr/step-by-step-guide-to-setting-up-and-earning-with-cerebro-nodes-c612927ed63a"
+                },
+                {
+                    "title": "Guía de resolución de problemas",
+                    "url": "https://medium.com/@magnetohr/cerebro-node-troubleshooting-guide-b13c459f1f96"
+                },
+                {
+                    "title": "Panel de nodos LFG",
+                    "url": "https://node.lfg.inc/"
+                }
+            ]
+        },
+        "section5": {
+            "title": "Conoce a los creadores <0 />que están revolucionando la conexión de talento con <2>Magneto HR.</2>",
+            "description": "Con años de experiencia en innovación tecnológica, nuestro <0 />equipo se especializa en desarrollo full-stack, bases de datos, <1>IA</1>, <2 />Recursos Humanos y blockchain."
+        },
+        "experts": {
+            "title": "Los expertos detrás de <0>Magneto HR.</0>",
+            "members": {
+                "julio_sanchez": {
+                    "name": "Julio Sanchez",
+                    "role": "CEO – Co-fundador",
+                    "description": "Experto en gestión de ingeniería con más de 15 años de experiencia, Julio lidera la transformación del reclutamiento mediante la innovación empresarial."
+                },
+                "cesar_figuereo": {
+                    "name": "Cesar Figuereo",
+                    "role": "CTO – Co-fundador",
+                    "description": "Desarrollador de software altamente experimentado con una maestría en Tecnologías de la Información, Cesar lidera soluciones técnicas enfocadas en eficiencia y excelencia."
+                },
+                "vladimir_reynoso": {
+                    "name": "Vladimir Reynoso",
+                    "role": "Asesor senior",
+                    "description": "Profesional corporativo experimentado y apasionado defensor del blockchain, aportando las <0 />estrategias esenciales para el éxito de Magneto HR en distintas industrias."
+                }
+            }
+        },
+        "development_team": {
+            "title": "Equipo de desarrollo",
+            "composition": {
+                "title": "Composición:",
+                "description": "Nuestro equipo de desarrollo cuenta con cinco profesionales talentosos, cada uno ofreciendo una perspectiva única y experiencia especializada."
+            },
+            "expertise": {
+                "title": "Especialización:",
+                "description": "Nos especializamos en soluciones blockchain de vanguardia, así como en desarrollo full-stack, IA y bases de datos."
+            }
+        },
+        "rd_gestion": {
+            "title": "RD Gestión Talento",
+            "background": {
+                "title": "Experiencia:",
+                "description": "RD Talent Management ha brindado servicios excepcionales de consultoría HR durante más de una década."
+            },
+            "expertise": {
+                "title": "Especialización:",
+                "description": "Con enfoque en reclutamiento, gestión de talento y consultoría empresarial, RD Talent Management es un socio estratégico vital."
+            },
+            "reputation": {
+                "title": "Reputación:",
+                "description": "Reconocida por brindar soluciones HR premium, RD Talent Management aporta profundidad estratégica a nuestras iniciativas."
+            }
+        },
+        "section6": {
+            "title": "Nuestro recorrido y visión a futuro",
+            "description": "Sigue nuestros hitos y descubre hacia dónde nos dirigimos a continuación."
+        }
+    },
+    "footer": {
+        "logo_section": {
+            "description": "Toma control de tu contratación o búsqueda de empleo<0 />—únete a Magneto HR para las mejores oportunidades."
+        },
+        "links_section": {
+            "title": "Enlaces",
+            "menu_items": "Elementos dinámicos del menú desde menuItems?.list"
+        },
+        "contact_section": {
+            "title": "Contacto",
+            "address": "611 S Dupont Hwy, Suite 102, Dover, DE 19901",
+            "email": "contactus@magnetohr.com"
+        },
+        "legal_section": {
+            "title": "Legal",
+            "terms": "Términos y condiciones",
+            "privacy": "Política de privacidad"
+        },
+        "subscribe_section": {
+            "title": "Únete a la lista de espera de Magneto HR",
+            "subtitle": "¡Regístrate ahora y obtén acceso anticipado!",
+            "question": "Cuéntanos para qué estás aquí:",
+            "options": {
+                "job_seeker": "Buscando empleo",
+                "hirer": "Buscando contratar"
+            },
+            "email_placeholder": "Ingresa tu correo electrónico",
+            "success_message": "Gracias por unirte a la lista de espera. ¡Tu próxima contratación o empleo comienza aquí!",
+            "button_text": "Obtener acceso anticipado",
+            "loading_text": "Cargando..."
+        },
+        "copyright": "Copyright MAGNETOHR ©{currentYear}"
+    }
+}

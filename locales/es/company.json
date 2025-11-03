@@ -1,0 +1,217 @@
+{
+    "home": {
+        "banner_company": {
+            "title": "Encontrar el <0>Talento</0><1 />adecuado ahora es <2>más fácil</2> para <3 />empresas de todos los tamaños.",
+            "subtitle": "Omite la búsqueda: contrata talento de calidad en EE. UU. y Latinoamérica rápidamente. Únete ahora, es GRATIS.",
+            "button_hire_free": "Contrata gratis"
+        },
+        "twoSection": {
+            "title": {
+                "part1": "Contrata",
+                "highlight": "Gran Talento",
+                "part2": "Rápidamente."
+            },
+            "subtitle": "Empieza a recibir candidatos preseleccionados según tus necesidades específicas. Sin filtros tediosos. Empieza ahora, es gratis.",
+            "button": "Regístrate gratis",
+            "cards": {
+                "card1": "Reduce drásticamente el tiempo de contratación: nuestra IA identifica a los mejores candidatos en días, no semanas, manteniendo tus vacantes cubiertas y tu negocio en marcha.",
+                "card2": "Contrata al perfil adecuado desde el principio: el emparejamiento inteligente va más allá de los currículums y evalúa habilidades, experiencia y afinidad cultural, reduciendo la rotación costosa.",
+                "card3": "Optimiza cada etapa del reclutamiento: nuestra IA automatiza la búsqueda, evaluación y seguimiento, para que tu equipo se enfoque en entrevistar y contratar al mejor talento."
+            }
+        },
+        "matchingSection": {
+            "title": {
+                "part1": "Nuestro agente de IA Polaris",
+                "part2": "trabaja para ti.",
+                "mobile": {
+                    "part1": "Nuestro agente de",
+                    "highlight": "IA Polaris",
+                    "part2": "trabaja para ti."
+                }
+            },
+            "cards": {
+                "card1": {
+                    "title": "Cazatalentos activo 24/7",
+                    "text": "Polaris busca talento constantemente, encontrando y conectándote con los mejores candidatos antes que tu competencia."
+                },
+                "card2": {
+                    "title": "Proactivo, no reactivo",
+                    "text": "En lugar de esperar postulaciones, Polaris busca y contacta de forma activa al talento ideal para tus necesidades."
+                }
+            }
+        },
+        "applySection": {
+            "title": "¡Nosotros hacemos el <0>trabajo pesado</0> por ti!",
+            "subtitle": "Tu proceso de contratación en piloto automático: buscamos, filtramos y te entregamos los mejores candidatos con reportes claros y procesables. Todo lo que necesitas para contratar de forma más inteligente, en una sola plataforma con base de datos de talento, entrevistas integradas, videollamadas y chat.",
+            "buttons": {
+                "database": "Base de Talento",
+                "panel": "Panel de Entrevistas",
+                "video": "Videoconferencia",
+                "chat": "Chat",
+                "more": "y más…"
+            },
+            "cta": "Regístrate gratis"
+        },
+        "premium_features": {
+            "section1": {
+                "title": "<0>Funciones</0> Premium",
+                "subtitle": "Desbloquea herramientas avanzadas y reduce el tiempo de contratación, mejora las conexiones y obtén más soporte con las funciones premium totalmente transferibles de Magneto HR."
+            },
+            "feature1": {
+                "title": "Post Booster:",
+                "description": "Tu arma secreta para posicionar tus ofertas laborales al frente: aumenta la visibilidad y lleva tus publicaciones a la parte superior del panel de los candidatos. Ya sea que necesites contratar rápido o planificar con anticipación, Post Booster garantiza que las personas adecuadas vean tus vacantes primero. <0>Más información</0>"
+            },
+            "feature2": {
+                "title": "Turbo Recruiter:",
+                "description": "Tu motor de reclutamiento impulsado por IA, diseñado para ofrecer candidatos perfectamente alineados con tus vacantes en segundos. En lugar de revisar cientos de solicitudes, recibe una lista curada con los mejores talentos listos para contactar. <0>Más información</0>"
+            },
+            "buttons": {
+                "learn_more": "Más información"
+            }
+        },
+        "magneto_section": {
+            "title": "Encuentra <0>Talento de Primer Nivel</0> en EE. UU. y Latinoamérica.",
+            "subtitle": "Accede a millones de profesionales calificados — ya sea que necesites expertos remotos o personal presencial. Magneto HR te conecta con una amplia base de talento en ambos territorios, facilitando más que nunca contratar a las personas correctas, en el lugar y momento adecuados.",
+            "button_join": "Únete gratis"
+        }
+    },
+    "whymagneto": {
+        "section1": {
+            "title": "Funciones premium impulsadas por IA que son tuyas. <0>Inteligencia que se mueve contigo.</0>",
+            "cards": {
+                "card1": {
+                    "title": "Con Magneto HR, lo premium significa poder — y es tuyo para conservarlo.",
+                    "description": "Obtén acceso a herramientas exclusivas impulsadas por IA que potencian tu proceso de contratación, desde la puntuación inteligente de candidatos hasta el emparejamiento automatizado."
+                },
+                "card2": {
+                    "title": "Y aquí está el cambio de juego: estas funciones no están bloqueadas a una cuenta.",
+                    "description": "Son tuyas para conservar y transferir a medida que tu empresa crece o tu equipo cambia. Sin suscripciones. Sin restricciones. Solo acceso permanente y portátil a inteligencia de contratación de nueva generación."
+                }
+            },
+            "ai_agent": {
+                "line1": "Deja que nuestro agente de IA <0>Polaris</0>",
+                "line2": "<0>haga la búsqueda</0> por ti"
+            }
+        },
+        "section2": {
+            "turbo_recruiter": {
+                "title": "Turbo Recruiter",
+                "subtitle": "es tu motor personal de reclutamiento con IA",
+                "description1": "Diseñado para entregar candidatos perfectamente alineados con tus vacantes en segundos. En lugar de invertir horas revisando aplicaciones, obtén una lista curada de talentos listos para contactar.",
+                "description2": "Ya sea que contrates a un desarrollador o a un líder de ventas, nuestro algoritmo avanzado hace el trabajo pesado, analizando miles de perfiles para encontrar la coincidencia perfecta según tus criterios.",
+                "what_you_get": "Lo que obtienes:",
+                "features": {
+                    "hyper_targeted": {
+                        "title": "Coincidencias altamente precisas",
+                        "description": "impulsadas por IA avanzada"
+                    },
+                    "smart_reports": {
+                        "title": "Reportes inteligentes",
+                        "description": "con los mejores candidatos para cada puesto"
+                    },
+                    "time_savings": {
+                        "title": "Ahorro de tiempo masivo",
+                        "description": "con listas instantáneas"
+                    },
+                    "quality_hires": {
+                        "title": "Contrataciones de calidad",
+                        "description": "que permanecen y rinden mejor"
+                    }
+                },
+                "game_changer": {
+                    "title1": "Y aquí está el cambio de juego:",
+                    "title2": "Turbo Recruiter es una Función Premium Transferible.",
+                    "description": "¿No estás contratando este mes? Véndela o transfiérela, convirtiendo tu poder de contratación no usado en un activo valioso."
+                },
+                "banner": {
+                    "description": "Haz que cada contratación sea más inteligente. Empieza con Turbo Recruiter.",
+                    "button": "Obtén Turbo Recruiter ahora"
+                }
+            },
+            "post_booster": {
+                "title": "Post Booster",
+                "subtitle": "Tu arma secreta para posicionar tus ofertas laborales al frente",
+                "description1": "Aumenta la visibilidad y lleva tus publicaciones a la parte superior del panel de los candidatos. Ya sea que necesites contratar rápido o planificar con anticipación, Post Booster asegura que las personas adecuadas vean tus vacantes primero.",
+                "description2": "Sin más esperas. Con ubicación destacada y mayor exposición, tus ofertas generan más interacción de candidatos calificados, en horas, no días.",
+                "what_you_get": "Lo que obtienes:",
+                "features": {
+                    "top_tier_visibility": {
+                        "title": "Visibilidad de primer nivel",
+                        "description": "en los paneles de candidatos"
+                    },
+                    "weekly_reports": {
+                        "title": "Reportes semanales de rendimiento",
+                        "description": "que muestran tu posición"
+                    },
+                    "accelerated_applications": {
+                        "title": "Aplicaciones aceleradas",
+                        "description": "para puestos con alta demanda"
+                    },
+                    "higher_quality_matches": {
+                        "title": "Coincidencias de mayor calidad",
+                        "description": "de candidatos proactivos"
+                    }
+                },
+                "bonus": {
+                    "title1": "Bonus:",
+                    "title2": "Post Booster es una Función Premium Transferible.",
+                    "description": "¿No estás contratando hoy? Véndela o regálala. Mantén la flexibilidad y convierte la visibilidad en valor real — bajo tus propios términos."
+                },
+                "banner": {
+                    "description": "No te pierdas entre la multitud. Destaca con Post Booster.",
+                    "button": "Obtén Post Booster ahora"
+                }
+            },
+            "one_year": {
+                "title1": "¿Contrataciones estacionales o alta demanda?",
+                "title2": "<0>¡Tenemos la solución!</0>",
+                "intro": "Con el paquete",
+                "main_title": "Full Feature de Un Año",
+                "subtitle": "obtén acceso ilimitado a nuestras herramientas de contratación más potentes.",
+                "description1": "Incluye <0>Turbo Recruiter, Post Booster,</0> publicaciones ilimitadas y reportes semanales. Con el acceso Full Feature de Un Año, tu equipo obtiene todo lo necesario para contratar más rápido, con mejor calidad y sin límites.",
+                "description2": "Perfecto para equipos en crecimiento o planes de reclutamiento a largo plazo. Este paquete todo en uno ofrece candidatos impulsados por IA, visibilidad superior e información basada en datos para tomar decisiones seguras.",
+                "what_you_get": "Lo que obtienes:",
+                "features": {
+                    "unlimited_use": "Uso ilimitado de Turbo Recruiter y Post Booster",
+                    "unlimited_listings": "Publicaciones ilimitadas para todos los roles",
+                    "weekly_reports": "Reportes semanales sobre calidad y rendimiento",
+                    "data_insights": "Análisis de datos para mejorar tu estrategia de contratación"
+                },
+                "transferable": {
+                    "title1": "¿Necesitas pausar? Sin problema.",
+                    "title2": "Es una Función Premium Transferible.",
+                    "description": "Puedes vender o regalar el tiempo restante, ideal para contrataciones estacionales o necesidades cambiantes del equipo."
+                },
+                "banner": {
+                    "description": "Escala con confianza. Contrata sin límites. Un año, acceso total.",
+                    "button": "Consíguelo ahora"
+                }
+            },
+            "lifetime": {
+                "title": "¿Buscas una <0>solución escalable</0> con valor permanente? Aquí la tienes.",
+                "intro": "Con el paquete",
+                "main_title": "Full Feature de por Vida",
+                "subtitle": "obtén acceso ilimitado y permanente a todas nuestras herramientas premium de reclutamiento.",
+                "description1": "Incluye <0>Turbo Recruiter, Post Booster,</0> publicaciones ilimitadas y reportes detallados. <1>Sin renovaciones ni límites de funciones,</1> tendrás todas las herramientas de contratación al alcance de tu mano, para siempre.",
+                "description2": "Ideal para empresas que contratan durante todo el año. Full Feature de por Vida elimina los costos recurrentes y te da una ventaja constante en cada proceso de contratación, hoy y en el futuro.",
+                "what_you_get": "Lo que obtienes:",
+                "features": {
+                    "unlimited_access": "Acceso ilimitado a todas las herramientas premium",
+                    "no_fees": "Sin tarifas mensuales ni renovaciones",
+                    "long_term_savings": "Ahorros a largo plazo con máxima flexibilidad",
+                    "ongoing_insights": "Reportes continuos para mantener la ventaja"
+                },
+                "transferable": {
+                    "title1": "Y sí,",
+                    "title2": "es una Función Premium Transferible",
+                    "description": "Si tus necesidades cambian, puedes transferirla o venderla, convirtiendo tu compra única en un activo valioso a largo plazo.*"
+                },
+                "banner": {
+                    "description": "Invierte una vez. Contrata para siempre. Asegura tu futuro de reclutamiento.",
+                    "button": "Consíguelo ahora"
+                },
+                "disclaimer": "*Este paquete tiene disponibilidad limitada cada 3 meses. El precio aumenta trimestralmente."
+            }
+        }
+    }
+}

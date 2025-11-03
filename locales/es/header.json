@@ -1,0 +1,28 @@
+{
+    "header": {
+        "nav": {
+            "links": {
+                "career_tips": "Consejos de carrera",
+                "why_magneto": "¿Por qué Magneto HR?",
+                "node_operators": "Operadores de nodos"
+            },
+            "buttons": {
+                "sign_in": "Iniciar sesión",
+                "looking_to_hire": "¿Buscas contratar?",
+                "looking_for_job": "¿Buscas empleo?"
+            }
+        },
+        "mobile_menu": {
+            "links": {
+                "career_tips": "Consejos de carrera",
+                "why_magneto": "¿Por qué Magneto HR?",
+                "node_operators": "Operadores de nodos"
+            },
+            "buttons": {
+                "sign_in": "Iniciar sesión",
+                "looking_to_hire": "¿Buscas contratar?",
+                "looking_for_job": "¿Buscas empleo?"
+            }
+        }
+    }
+}

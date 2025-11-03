@@ -1,0 +1,28 @@
+{
+    "blogs": {
+        "header": {
+            "tagline": "The future of recruiting powered by AI and DePIN"
+        },
+        "article": {
+            "share": "Share",
+            "more_posts": "More Post",
+            "read_more": "READ MORE »",
+            "no_comments": "No Comments",
+            "ai_badge": "AI"
+        },
+        "comments": {
+            "responses": "Responses",
+            "moderation_notice": "Your comment is awaiting moderation. This is a preview; your comment will be visible after it has been approved.",
+            "leave_reply": "Leave a Reply",
+            "email_notice": "Your email address will not be published. Required fields are marked *",
+            "form": {
+                "comment_label": "Comment *",
+                "name_label": "Name *",
+                "email_label": "Email *",
+                "post_comment": "Post Comment",
+                "loading": "Loading...",
+                "validation_errors": "Dynamic error messages"
+            }
+        }
+    }
+}

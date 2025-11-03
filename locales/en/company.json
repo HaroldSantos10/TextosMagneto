@@ -1,0 +1,222 @@
+{
+    "home": {
+        "banner_company": {
+        "title": "Finding the right <0>Talent</0><1 />made <2>Easier</2> for <3 />businesses of every size.",
+        "subtitle": "Skip the search — Hire great talent in the U.S. and LatAm fast. Join now, it’s FREE.",
+        "button_hire_free": "Hire for Free"
+        },
+        "twoSection": {
+            "title": {
+            "part1": "Hire",
+            "highlight": "Great Talent",
+            "part2": "Fast."
+            },
+            "subtitle": "Start receiving pre-qualified candidates tailored to your unique needs - No more tedious screening. Start now, it’s free.",
+            "button": "Sign up free",
+            "cards": {
+            "card1": "Cut Hiring Time Dramatically - Our AI pinpoints top candidates in days, not weeks, keeping your roles filled and your business moving.",
+            "card2": "Hire the Right Fit the First Time - Smart matching goes beyond resumes to assess skills, experience, and cultural alignment, reducing costly turnover.",
+            "card3": "Optimize Every Step of Recruitment - Our AI automates sourcing, screening, and follow-ups, freeing your team to focus on interviewing and onboarding the best talent."
+            }
+        },
+        
+        "matchingSection": {
+            "title": {
+            "part1": "Our AI agent Polaris",
+            "part2": "is working for you!",
+            "mobile": {
+                "part1": "Our AI",
+                "highlight": "agent Polaris",
+                "part2": "is working for you!"
+            }
+            },
+            "cards": {
+            "card1": {
+                "title": "Always-On Talent Scout",
+                "text": "Polaris searches 24/7, finding and connecting you with the best candidates before your competition does."
+            },
+            "card2": {
+                "title": "Proactive, Not Reactive",
+                "text": "Instead of waiting for applicants, Polaris actively sources and engages top talent that fits your exact needs."
+            }
+            }
+        },
+        
+        "applySection": {
+            "title": "We Do The <0>Heavy Lifting</0> For You!",
+            "subtitle": "Your hiring on auto-pilot — We Search, Source, and Deliver Top Candidates With Clear Reports You Can Act On. Everything You Need to Hire Smarter — From a powerful talent database to built-in interviews, video calls, and chat, all in one seamless platform.",
+            "buttons": {
+            "database": "Talent Database",
+            "panel": "Interview Panel",
+            "video": "Video Conference",
+            "chat": "Chat",
+            "more": "and More…"
+            },
+            "cta": "Sign up free"
+        },
+        "premium_features": {
+            "section1": {
+                "title": "<0>Premium</0> Features",
+                "subtitle": "Unlock advanced tools and enjoy reducing hiring time, faster connections and more support with Magneto HR’s fully transferable premium features."
+            },
+            "feature1": {
+                "title": "Post Booster:",
+                "description": "Your secret weapon to get job listings front and center — boosting visibility and pushing your posts to the top of candidate dashboards. Whether you’re hiring fast or planning ahead, Post Booster ensures the right people see your roles first. <0>Learn more</0>"
+            },
+            "feature2": {
+                "title": "Turbo Recruiter:",
+                "description": "Your personal AI recruiting engine built to deliver precision-matched candidates for your open roles in seconds. Instead of wasting hours sorting through endless applications, get a curated shortlist of top talent ready to review and contact. <0>Learn more</0>"
+            },
+            "buttons": {
+                "learn_more": "Learn more"
+            }
+        },
+
+        "magneto_section": {
+            "title": "Find <0>Top Talent</0> in US and Latam.",
+            "subtitle": "Access millions of skilled professionals—whether you need remote experts or in-office team members. Magneto HR connects you to a vast talent pool spanning diverse industries in both regions, making it easier than ever to hire the right people, in the right place, at the right time.",
+            "button_join": "Join free"
+        }
+
+    },
+    "whymagneto": {
+        "section1": {
+            "title": "AI-powered Premium Features That You Own. <0>Intelligence That Moves With You.</0>",
+            "cards": {
+                "card1": {
+                    "title": "With Magneto HR, premium means power—and it's yours to keep.",
+                    "description": "Gain access to exclusive AI-driven tools that supercharge your hiring process, from intelligent candidate scoring to automated job matching."
+                },
+                "card2": {
+                    "title": "But here's the game-changer: these features aren't locked to an account",
+                    "description": "They're yours to own and yours to transfer as your business grows or team shifts. No subscriptions. No restrictions. Just permanent, portable access to next-gen hiring intelligence."
+                }
+            },
+            "ai_agent": {
+                "line1": "Let our AI Agent <0>Polaris</0>",
+                "line2": "<0>do the search</0> for you"
+            }
+        },
+        "section2": {
+            "turbo_recruiter": {
+                "title": "Turbo Recruiter",
+                "subtitle": "is your personal AI recruiting engine",
+                "description1": "Built to deliver precision-matched candidates for your open roles in seconds. Instead of wasting hours sorting through endless applications, get a curated shortlist of top talent ready to review and contact.",
+                "description2": "Whether you're hiring a mid-level developer or a sales lead, our advanced algorithm does the heavy lifting — scanning thousands of profiles to find the perfect match based on your criteria.",
+                "what_you_get": "What You Get:",
+                "features": {
+                    "hyper_targeted": {
+                        "title": "Hyper-targeted matches",
+                        "description": "powered by cutting-edge AI"
+                    },
+                    "smart_reports": {
+                        "title": "Smart reports",
+                        "description": "summarizing top candidates for each role."
+                    },
+                    "time_savings": {
+                        "title": "Massive time savings",
+                        "description": "with instant shortlists."
+                    },
+                    "quality_hires": {
+                        "title": "Quality hires",
+                        "description": "that stick and perform."
+                    }
+                },
+                "game_changer": {
+                    "title1": "And here's the game-changer:",
+                    "title2": "Turbo Recruiter is a Transferable Premium Feature.",
+                    "description": "Not hiring this month? Sell it or pass it on — turning unused hiring power into a valuable, tradeable asset."
+                },
+                "banner": {
+                    "description": "Make every hire smarter. Start with Turbo Recruiter.",
+                    "button": "Get Turbo Recruiter Now"
+                }
+            },
+            "post_booster": {
+                "title": "Post Booster",
+                "subtitle": "Is your secret weapon to get job listings front and center",
+                "description1": "boosting visibility and pushing your posts to the top of candidate dashboards. Whether you're hiring fast or planning ahead, Post Booster ensures the right people see your roles first.",
+                "description2": "No more waiting around. With prime placement and increased exposure, your listings drive faster engagement from more qualified candidates — often within hours, not days.",
+                "what_you_get": "What You Get:",
+                "features": {
+                    "top_tier_visibility": {
+                        "title": "Top-tier visibility",
+                        "description": "in candidate dashboards."
+                    },
+                    "weekly_reports": {
+                        "title": "Weekly performance reports",
+                        "description": "howing where you ranked."
+                    },
+                    "accelerated_applications": {
+                        "title": "Accelerated applications",
+                        "description": "for in-demand roles."
+                    },
+                    "higher_quality_matches": {
+                        "title": "Higher-quality matches",
+                        "description": "from proactive job seekers."
+                    }
+                },
+                "bonus": {
+                    "title1": "Bonus:",
+                    "title2": "Post Booster is a Transferable Premium Feature.",
+                    "description": "Not hiring today? Sell it or gift it. Stay flexible and turn visibility into real value — on your terms."
+                },
+                "banner": {
+                    "description": "Don't get buried in the pile. Rise to the top with Post Booster.",
+                    "button": "Get Post Booster Now"
+                }
+            },
+            "one_year": {
+                "title1": "Hiring for a season or have",
+                "title2": "<0>high hiring demands?</0> We've got you covered!",
+                "intro": "With the",
+                "main_title": "One-Year Full Feature",
+                "subtitle": "package, unlock unlimited access to our most powerful hiring tools.",
+                "description1": "Including <0>Turbo Recruiter, Post Booster,</0> unlimited job postings, and weekly performance reports. With One-Year Full Feature Access, your team gets everything needed to hire smarter, faster, and more efficiently — without limits.",
+                "description2": "Perfect for scaling teams or long-term recruiting plans, this all-in-one package equips you with AI-matched candidates, top-tier visibility, and data insights that drive confident hiring decisions.",
+                "what_you_get": "What You Get:",
+                "features": {
+                    "unlimited_use": "Unlimited use of Turbo Recruiter & Post Booster",
+                    "unlimited_listings": "Unlimited job listings across roles and teams",
+                    "weekly_reports": "Weekly reports on match quality and post performance",
+                    "data_insights": "Data-driven insights to improve hiring strategy"
+                },
+                "transferable": {
+                    "title1": "Need to pause? No problem.",
+                    "title2": "This is a Transferable Premium Feature.",
+                    "description": "so you can gift or sell the remaining time making it ideal for seasonal hiring or shifting team needs."
+                },
+                "banner": {
+                    "description": "Scale confidently. Hire without limits. One year, all access.",
+                    "button": "Get it Now"
+                }
+            },
+            "lifetime": {
+                "title": "Looking for a <0>scalable hiring solution</0> with permanent value? Look no further.",
+                "intro": "With the",
+                "main_title": "Lifetime Full Feature",
+                "subtitle": "package, unlock permanent, unlimited access to all our premium recruitment tools.",
+                "description1": "Including <0>Turbo Recruiter, Post Booster,</0> unlimited job listings, and detailed performance reports. With <1>no renewals and no feature caps,</1> you get the full hiring arsenal at your fingertips for life.",
+                "description2": "Ideal for growing teams or businesses that hire year-round, Lifetime Full Feature Access eliminates recurring costs while giving you a consistent edge in every hiring cycle — now and in the future.",
+                "what_you_get": "What You Get:",
+                "features": {
+                    "unlimited_access": "Unlimited premium access to every hiring tool",
+                    "no_fees": "No monthly fees, no renewals, ever",
+                    "long_term_savings": "Long-term savings with maximum hiring flexibility",
+                    "ongoing_insights": "Ongoing performance insights to stay ahead"
+                },
+                "transferable": {
+                    "title1": "And yes",
+                    "title2": "it's a Transferable Premium Feature",
+                    "description": "If your needs shift, you can pass it on or sell it, turning your one-time purchase into a valuable, long-term asset.*"
+                },
+                "banner": {
+                    "description": "Invest once. Hire forever. Own your recruitment future.",
+                    "button": "Get it Now"
+                },
+                "disclaimer": "*A limited amount of this package will be available every 3 months. Price increases every quarter."
+            }
+        } 
+    }
+    
+}
