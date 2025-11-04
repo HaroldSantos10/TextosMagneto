@@ -210,19 +210,7 @@
             "terms": "Terms and conditions",
             "privacy": "Privacy policy"
         },
-        "subscribe_section": {
-            "title": "Join the Magneto HR Waitlist",
-            "subtitle": "Sign up now and get early access!",
-            "question": "Tell us what you're here for:",
-            "options": {
-                "job_seeker": "Looking for a Job",
-                "hirer": "Looking to Hire"
-            },
-            "email_placeholder": "Enter your email address",
-            "success_message": "Thank you for joining the waitlist. Your next hire—or next job—starts here!",
-            "button_text": "Get Early Access",
-            "loading_text": "Loading..."
-        },
+
         "copyright": "Copyright MAGNETOHR ©{currentYear}"
     }
 
