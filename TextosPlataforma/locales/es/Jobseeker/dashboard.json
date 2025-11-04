@@ -1,0 +1,230 @@
+{
+  "completeProfile": {
+    "title": "Completa tu perfil",
+    "description": "¡Finaliza tu perfil ahora para acceder a todas las funciones!<0 /> Una vez completado, te mostraremos oportunidades seleccionadas donde encajes mejor.<1 /> <2>¡Comienza hoy!</2>",
+    "button": "Completar perfil"
+  },
+
+  "jobSearch": {
+    "search": {
+      "placeholder": "Buscar empleo",
+      "locationPlaceholder": "Ciudad, región o código postal",
+      "button": "Buscar empleos",
+      "searching": "Buscando..."
+    },
+    "filters": {
+      "allJobs": "Todos los empleos",
+      "turboFinder": "Turbo Finder",
+      "advancedFilters": "Filtros avanzados",
+      "dateRange": "Rango de fechas",
+      "salary": "Salario",
+      "locationType": "Tipo de ubicación",
+      "jobType": "Tipo de empleo",
+      "selectDateRange": "Seleccionar rango de fechas",
+      "apply": "Aplicar"
+    }
+  },
+
+  "matchPercentage": {
+    "tooltip": {
+      "title": "Estos porcentajes muestran qué tan bien tu perfil se alinea con el empleo:",
+      "techSkills": "<0>Habilidades técnicas</0> reflejan tu adecuación técnica.",
+      "softSkills": "<0>Habilidades blandas</0> cubren la compatibilidad interpersonal.",
+      "salary": "<0>Salario</0> compara el salario esperado con el ofrecido.",
+      "description": "Cuanto mayor sea el número, mejor es la coincidencia."
+    },
+    "badges": {
+      "techSkills": "Habilidades técnicas",
+      "softSkills": "Habilidades blandas",
+      "salary": "Salario"
+    }
+  },
+
+  "skillsList": {
+    "tooltip": {
+      "techSkills": "Las habilidades técnicas representan conocimientos y competencias específicas necesarias para realizar tareas relacionadas con el trabajo.",
+      "softSkills": "Las habilidades blandas son atributos interpersonales que mejoran las relaciones y el rendimiento laboral."
+    }
+  },
+
+  "turboFinder": {
+    "title": "Consigue empleo más rápido con Turbo Finder",
+    "description": {
+      "part1": "Haz que tu búsqueda de empleo sea <0>sin esfuerzo</0> y <1>automática.</1> Turbo Finder analiza, clasifica y ordena las mejores oportunidades para ti, e incluso <2>postula automáticamente</2> cuando <3>coincides en un 80% o más.</3>",
+      "part2": "No más desplazamientos interminables ni oportunidades perdidas, nosotros hacemos el trabajo pesado por ti para que puedas enfocarte en otras tareas.",
+      "part3": "Conseguir tu próximo empleo nunca ha sido tan fácil. ¡Empieza ahora!"
+    },
+    "button": "Obtener Turbo Finder"
+  },
+
+  "jobs": {
+    "loading": "No se encontraron empleos",
+    "emptyState": {
+      "title": "No se encontraron empleos",
+      "description": "Intenta ajustar tus filtros"
+    },
+    "header": {
+      "title": "Explora <0>{{count}}+</0> oportunidades laborales que se ajustan a tu perfil"
+    },
+    "navigation": {
+      "back": "Volver a empleos"
+    }
+  },
+
+  "jobCard": {
+    "badges": {
+      "postBooster": "Publicación destacada",
+      "new": "NUEVO"
+    },
+    "buttons": {
+      "dislike": {
+        "title": "No estoy interesado en este empleo",
+        "remove": "Quitar no me interesa"
+      },
+      "save": {
+        "title": "Guardar empleo",
+        "remove": "Quitar de guardados"
+      }
+    },
+    "company": {
+      "anonymous": "Empresa anónima"
+    },
+    "counts": {
+      "benefits": "Beneficio",
+      "benefits_plural": "Beneficios",
+      "certifications": "Certificación",
+      "certifications_plural": "Certificaciones",
+      "openRoles": "Puestos disponibles"
+    },
+    "match": {
+      "title": "Porcentaje total de coincidencia",
+      "techSkills": "Habilidades técnicas",
+      "softSkills": "Habilidades blandas",
+      "salary": "Salario"
+    },
+    "salary": {
+      "exact": "USD ${{amount}}/{{period}}",
+      "range": "USD ${{min}}-USD ${{max}}/{{period}}"
+    }
+  },
+
+  "jobDetail": {
+    "buttons": {
+      "dislike": {
+        "title": "No estoy interesado en este empleo",
+        "remove": "Quitar no me interesa"
+      },
+      "save": {
+        "title": "Guardar empleo",
+        "remove": "Quitar de guardados"
+      },
+      "apply": "Postular ahora",
+      "applied": "Postulado",
+      "viewCoverVideo": "Ver video de presentación"
+    },
+    "titles": {
+      "requirements": "Requisitos",
+      "fullDetails": "Detalles completos",
+      "jobDescription": "Descripción del empleo",
+      "jobRequirements": "Requisitos del empleo",
+      "jobResponsibilities": "Responsabilidades del empleo",
+      "compensation": "Compensación/Salario",
+      "companyBenefits": "Beneficios de la empresa"
+    },
+    "labels": {
+      "overallMatch": "Porcentaje total de coincidencia",
+      "profession": "Profesión",
+      "educationLevel": "Nivel educativo",
+      "experienceLevel": "Nivel de experiencia",
+      "workSchedule": "Horario laboral",
+      "technicalSkills": "Habilidades técnicas",
+      "softSkills": "Habilidades blandas",
+      "certifications": "Certificaciones",
+      "industry": "Industria",
+      "preferredLanguage": "Idioma preferido",
+      "positionLevel": "Nivel del puesto"
+    },
+    "company": {
+      "anonymous": "Empresa anónima"
+    },
+    "status": {
+      "alreadyApplied": "Ya te has postulado a este empleo",
+      "noNeedToSave": "Empleo ya postulado - no es necesario guardarlo"
+    },
+    "tooltips": {
+      "certifications": "Las certificaciones validan tu experiencia formal y reconocimiento en la industria."
+    },
+    "values": {
+      "notSpecified": "No especificado",
+      "resume": "Currículum",
+      "coverLetter": "Carta de presentación",
+      "plusCommission": "Más comisión",
+      "plusBonus": "Más bono"
+    },
+    "videoModal": {
+      "title": "Video de presentación",
+      "unsupported": "Tu navegador no soporta el elemento de video."
+    }
+  },
+
+  "pagination": {
+    "previous": "Página anterior",
+    "next": "Página siguiente",
+    "ellipsis": "..."
+  },
+
+  "Job_application": {
+    "loading": {
+      "title": "Cargando..."
+    },
+    "error": {
+      "title": "Error: {{message}}",
+      "default": "Ocurrió un error"
+    },
+    "navigation": {
+      "back": "Volver"
+    },
+    "titles": {
+      "completeApplication": "Completa tu postulación",
+      "screeningQuestions": "Preguntas de selección",
+      "description": "Completa todos los campos cuidadosamente para avanzar en tu proceso de postulación."
+    },
+    "questions": {
+      "dealBreaker": {
+        "label": "Pregunta eliminatoria: la plataforma excluirá automáticamente a los candidatos que no respondan esta pregunta."
+      },
+      "placeholders": {
+        "number": "Número",
+        "text": "Respuesta a la pregunta...",
+        "date": "Selecciona una fecha"
+      },
+      "buttons": {
+        "yes": "Sí",
+        "no": "No"
+      }
+    },
+    "attachments": {
+      "coverLetter": {
+        "title": "Subir carta de presentación",
+        "required": "(Obligatorio)",
+        "optional": "(Opcional)"
+      },
+      "coverVideo": {
+        "title": "Subir video de presentación (opcional)",
+        "supportTypes": ".mp4 hasta 20MB - máximo 2 minutos."
+      },
+      "additionalDocuments": {
+        "title": "Subir documentos adicionales (opcional)",
+        "supportTypes": ".pdf hasta 5MB"
+      },
+      "common": {
+        "supportTypes": ".pdf hasta 5MB"
+      }
+    },
+    "actions": {
+      "cancel": "Cancelar",
+      "submit": "Enviar postulación",
+      "submitting": "Enviando..."
+    }
+  }
+}

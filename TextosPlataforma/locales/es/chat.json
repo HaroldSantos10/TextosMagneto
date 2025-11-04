@@ -1,0 +1,115 @@
+{
+  "chatChannel": {
+    "badges": {
+      "turboRecruiter": "Reclutador Turbo",
+      "postBooster": "Impulsor de Publicaciones",
+      "status": {
+        "pending": "Nuevo",
+        "other": "{{status}}"
+      }
+    },
+    "labels": {
+      "relatedTo": "Relacionado con {{jobTitle}}",
+      "notAvailable": "Nombre no disponible",
+      "yesterday": "Ayer"
+    },
+    "dropdown": {
+      "markAsUnread": "Marcar como no leído",
+      "delete": "Eliminar"
+    },
+    "deleteDialog": {
+      "title": "Eliminar Chat",
+      "warning": {
+        "title": "¿Estás seguro de que deseas eliminar esta conversación?",
+        "description": "Esta acción es permanente y el historial del chat con el candidato se perderá de forma irreversible."
+      },
+      "buttons": {
+        "cancel": "Cancelar",
+        "delete": "Eliminar Chat"
+      }
+    },
+    "search": {
+      "candidates": "Buscar candidatos",
+      "company": "Buscar empresa"
+    }
+  },
+  
+  "searchEntities": {
+    "search": {
+      "placeholder": "Buscar",
+      "candidates": "Buscar candidatos",
+      "company": "Buscar empresa"
+    },
+    "filters": {
+      "status": {
+        "all": "Todos",
+        "reviewing": "En revisión",
+        "contacting": "Contactando",
+        "interviewing": "Entrevistando",
+        "decline": "Rechazado",
+        "hired": "Contratado",
+        "saved": "Guardado"
+      },
+      "readStatus": {
+        "all": "Todos",
+        "unread": "No leído",
+        "read": "Leído"
+      }
+    },
+    "emptyState": "Candidato no encontrado"
+  },
+
+  "chatSearch": {
+    "placeholder": "Buscar categoría",
+    "noResults": "No se encontraron resultados",
+    "selected": {
+      "remove": "Eliminar opción seleccionada"
+    }
+  },
+
+  "chatInput": {
+    "reply": {
+      "you": "Tú"
+    },
+    "placeholder": "Escribe un mensaje a {{user}}...",
+    "buttons": {
+      "attach": "Adjuntar archivo",
+      "send": "Enviar mensaje"
+    },
+    "attachment": {
+      "remove": "Eliminar archivo adjunto"
+    }
+  },
+
+  "messageList": {
+    "emptyState": {
+      "title": "No hay chats de candidatos por el momento",
+      "description": "Todos los chats con candidatos se mostrarán aquí"
+    },
+    "header": {
+      "noName": "Nombre no disponible"
+    }
+  },
+
+  "messageItem": {
+    "sender": {
+      "you": "Tú"
+    },
+    "reply": {
+      "you": "Tú"
+    },
+    "attachment": {
+      "open": "Abrir"
+    },
+    "timestamp": {
+      "format": "DD MMM, hh:mm A"
+    }
+  },
+
+  "pageChat": {
+    "title": {
+      "jobSeeker": "Chat",
+      "employer": "Chat de Candidatos"
+    }
+  }
+}

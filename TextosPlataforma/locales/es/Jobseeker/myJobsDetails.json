@@ -1,0 +1,277 @@
+{
+  "job_header": {
+    "back": "Back",
+    "title": "Job Details",
+    "button": {
+      "get_turbo_finder": "Get Turbo Finder"
+    },
+    "routes": {
+      "back_to_list": "/jobseeker/jobs",
+      "get_turbo_finder": "/jobseeker/premium-features"
+    },
+    "aria": {
+      "back_button": "Go back to job list",
+      "turbo_finder_button": "Access Turbo Finder premium feature"
+    }
+  },
+  
+  "job_navigation": {
+    "previous": "Previous",
+    "next": "Next"
+  }, 
+ 
+
+  "job_details": {
+    "actions": {
+      "not_interested": "Mark as not interested",
+      "delete_application": "Delete application",
+      "save_job": "Save this job for later",
+      "applied": "Applied",
+      "apply_now": "Apply Now",
+      "already_applied": "You've already applied to this job",
+      "cannot_apply": "Cannot apply from this section",
+      "already_saved": "Job is already saved",
+      "cannot_save": "Cannot save a job you've already applied to",
+      "already_declined": "This job is already declined"
+    },
+    "modal": {
+      "title": "Remove Job Post",
+      "confirmation_title": "Are you sure you want to remove this job post?",
+      "confirmation_message": "This action cannot be undone. Once deleted, the job post will no longer appear in your jobs section.",
+      "cancel": "Cancel",
+      "remove": "Remove",
+      "removing": "Removing..."
+    },
+    "labels": {
+      "company_name_not_available": "Company name not available",
+      "anonymous_company": "Anonymous Company",
+      "location_not_available": "Location not available",
+      "overall_match": "Overall Match percentage",
+      "tech_skills": "Tech Skills",
+      "soft_skills": "Soft Skills",
+      "salary": "Salary",
+      "cover_video": "Cover Video",
+      "video_not_available": "Video not available"
+    },
+    "tooltips": {
+      "score_explanation_title": "These percentages show how well your profile aligns with the job:",
+      "tech_skills": "<0>Tech Skills</0> reflect your technical fit.",
+      "soft_skills": "<0>Soft Skills</0> cover interpersonal compatibility.",
+      "salary": "<0>Salary</0> compares expected vs. offered pay.",
+      "final_message": "The higher the number, the stronger the match."
+    },
+    "buttons": {
+      "view_cover_video": "View Cover Video"
+    },
+    "job_compensation": {
+      "section_title": "Compensation/Salary",
+      "not_specified": "Not Specified",
+      "plus": {
+        "commission": "Plus Commission",
+        "bonus": "Plus Bonus"
+      },
+      "company_benefits": {
+        "section_title": "Company Benefits",
+        "benefit_item": "{{benefit}}"
+    }
+
+
+  },
+  
+  "job_description": {
+    "section": {
+      "full_details": "Full Details",
+      "industry": "Industry",
+      "preferred_language": "Preferred Language",
+      "position_level": "Position Level",
+      "job_description": "Job Description",
+      "job_requirements": "Job Requirements",
+      "job_responsibilities": "Job Responsibilities"
+    },
+    "labels": {
+      "not_specified": "Not Specified"
+    },
+    "messages": {
+      "no_industry": "No industry information available",
+      "no_language": "No language specified",
+      "no_position_level": "No position level provided",
+      "no_description": "No job description provided",
+      "no_requirements": "No requirements provided",
+      "no_responsibilities": "No responsibilities provided"
+    }
+  },
+
+  
+  "job_meta_info": {
+    "labels": {
+      "workplace": "Workplace",
+      "job_type": "Job Type",
+      "salary": "Salary",
+      "open_roles": "Open Roles"
+    },
+    "tooltips": {
+      "click_to_expand": "Click to see full text"
+    },
+    "salary_formats": {
+      "exact_pay": "USD ${{amount}} / {{frequency}}",
+      "range": "USD ${{min}} - USD ${{max}} / {{frequency}}"
+    }
+  }, 
+
+  
+  "job_requirements": {
+    "title": "Requirements",
+    "sections": {
+      "profession": "Profession",
+      "education_level": "Education Level",
+      "experience_level": "Experience Level",
+      "work_schedule": "Work Schedule",
+      "resume": "Resume",
+      "cover_letter": "Cover Letter",
+      "technical_skills": "Technical Skills",
+      "soft_skills": "Soft Skills",
+      "certifications": "Certifications",
+      "not_specified": "Not Specified"
+    },
+    "tooltips": {
+      "technical_skills_info": "Information about required technical skills",
+      "soft_skills_info": "Information about required soft skills",
+      "certifications_info": "Information about certifications"
+    }
+  },
+
+  
+  "job_skills": {
+    "title": "Skills",
+    "tooltip_info": "Information about this skill",
+    "no_skills": "No skills available"
+  },
+
+  
+  "job_details_states": {
+    "back": "Back",
+    "title": "Job Details",
+    "get_turbo_finder": "Get Turbo Finder",
+    "loading_message": "Loading job details...",
+    "error_message": "Failed to load job details"
+  },
+
+    "job_details_actions": {
+    "toasts": {
+      "dislike_success": {
+        "title": "Job Status Updated",
+        "description": "Job marked as not interested successfully."
+      },
+      "dislike_error": {
+        "title": "Action Failed",
+        "description": "Failed to update job status. Please try again."
+      },
+      "delete_success": {
+        "title": "Application Deleted",
+        "description": "Your application has been successfully removed."
+      },
+      "delete_error": {
+        "title": "Action Failed",
+        "description": "Failed to delete application. Please try again."
+      },
+      "save_success": {
+        "title": "Job Saved",
+        "description": "Job has been saved for later review."
+      },
+      "save_error": {
+        "title": "Action Failed",
+        "description": "Failed to save job. Please try again."
+      }
+    },
+    "confirm_delete": {
+      "title": "Confirm Delete",
+      "message": "Are you sure you want to delete this application?",
+      "confirm_button": "Delete",
+      "cancel_button": "Cancel"
+    },
+    "error_fetching": "Failed to load job details. Please try again."
+  },
+
+
+
+  
+  "job_interviews": {
+    "toast": {
+      "cancel_success": "Interview cancelled successfully",
+      "cancel_error": "Failed to cancel the interview. Please try again."
+    },
+    "error_fetching_meetings": "Failed to load interview meetings. Please try again."
+  },
+
+
+  
+  "job_notes": {
+    "toast": {
+      "save_success": "Note saved successfully!",
+      "save_error": "Failed to save note. Please try again."
+    },
+    "error_fetching_notes": "Failed to load notes. Please try again."
+  },
+
+
+  
+  "job_sidebar": {
+    "interviews_panel": {
+      "title": "Interviews",
+      "no_interviews": "No interviews scheduled",
+      "cancel_button": "Cancel Interview",
+      "cancel_confirmation": "Are you sure you want to cancel this interview?"
+    },
+    "notes_panel": {
+      "title": "Notes",
+      "placeholder": "Write your note here...",
+      "save_button": "Save Note",
+      "saving": "Saving...",
+      "no_notes": "No notes yet"
+    }
+  },
+
+  
+  
+  "interviews_panel": {
+    "title": "Interviews",
+    "loading": "Loading meetings...",
+    "no_interviews": "No Interviews Scheduled",
+    "no_interviews_description": "You don't have any scheduled interviews for this job yet",
+    "cancelled": "Interview Cancelled",
+    "cancelled_description": "This interview was previously cancelled",
+    "meeting_type": {
+      "video": "Video Interview",
+      "phone": "Phone Interview",
+      "in_person": "In-person Interview"
+    },
+    "participants": "Participants<0 />",
+    "no_additional_participants": "No additional participants",
+    "cancel_button": "Cancel Interview",
+    "cancelling": "Cancelling...",
+    "cancel_modal": {
+      "title": "Cancel Interview",
+      "confirm_text": "Are you sure you want to cancel this interview?",
+      "description": "This action cannot be undone. The recruiter will be notified of the cancellation.",
+      "keep_button": "Keep Interview",
+      "confirm_button": "Cancel Interview"
+    },
+    "address": "Address"
+  },
+
+  
+  "notes_panel": {
+    "title": "Notes",
+    "loading": "Loading notes...",
+    "error": "Error loading notes",
+    "no_notes": "No notes yet",
+    "note_prefix":  "<0>Note {{number}}:</0> {{content}}",
+    "show_more": "Show more",
+    "textarea_placeholder": "Write private note here...",
+    "save_button": "Save Note",
+    "saving": "Saving...",
+    "tooltip": "All notes left here are private"
+  }
+}
+
+}

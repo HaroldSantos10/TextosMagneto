@@ -1,0 +1,187 @@
+{
+  "help": {
+    "common": {
+      "back": "Volver",
+      "needFurtherAssistance": "¿Necesitas más ayuda?",
+      "contactSupport": "Contactar Soporte",
+      "navigation": {
+        "contact": "/jobseeker/help/contact"
+      }
+    },
+    "gettingStarted": {
+      "title": "Primeros Pasos",
+      "sections": {
+        "accountSetup": "Configuración de Cuenta",
+        "profileCreation": "Creación de Perfil",
+        "jobSearch": "Búsqueda de Empleo",
+        "applications": "Aplicaciones"
+      }
+    },
+    "accountSetup": {
+      "title": "Configuración de Cuenta",
+      "faqs": {
+        "howToCreateAccount": {
+          "title": "Cómo Crear una Cuenta",
+          "description": "Guía paso a paso para crear tu cuenta de buscador de empleo"
+        },
+        "verificationProcess": {
+          "title": "Proceso de Verificación",
+          "description": "Aprende sobre el proceso de verificación por correo y activación de cuenta"
+        },
+        "passwordReset": {
+          "title": "Restablecer Contraseña",
+          "description": "Cómo restablecer tu contraseña si la olvidas"
+        },
+        "profileCompletion": {
+          "title": "Completar Perfil",
+          "description": "Completa tu perfil para obtener mejores coincidencias laborales"
+        },
+        "privacySettings": {
+          "title": "Configuraciones de Privacidad",
+          "description": "Gestiona tu privacidad y configuraciones de visibilidad"
+        }
+      }
+    },
+    "profileCreation": {
+      "title": "Creación de Perfil",
+      "faqs": {
+        "personalInformation": {
+          "title": "Información Personal",
+          "description": "Agregar y actualizar tus datos personales"
+        },
+        "workExperience": {
+          "title": "Experiencia Laboral",
+          "description": "Cómo agregar y administrar tu experiencia laboral"
+        },
+        "education": {
+          "title": "Educación",
+          "description": "Agrega tu formación académica"
+        },
+        "skills": {
+          "title": "Habilidades",
+          "description": "Lista tus habilidades profesionales y competencias"
+        },
+        "resumeUpload": {
+          "title": "Subir Currículum",
+          "description": "Sube y gestiona tu currículum vitae"
+        }
+      }
+    },
+    "jobSearch": {
+      "title": "Búsqueda de Empleo",
+      "faqs": {
+        "searchFilters": {
+          "title": "Filtros de Búsqueda",
+          "description": "Usa filtros para encontrar oportunidades laborales relevantes"
+        },
+        "savedJobs": {
+          "title": "Empleos Guardados",
+          "description": "Cómo guardar empleos para postularte más tarde"
+        },
+        "jobAlerts": {
+          "title": "Alertas de Empleo",
+          "description": "Configura notificaciones para nuevas ofertas laborales"
+        },
+        "companyResearch": {
+          "title": "Investigación de Empresas",
+          "description": "Investiga empresas antes de postularte"
+        }
+      }
+    },
+    "applications": {
+      "title": "Aplicaciones",
+      "faqs": {
+        "applicationProcess": {
+          "title": "Proceso de Aplicación",
+          "description": "Guía paso a paso para aplicar a empleos"
+        },
+        "applicationStatus": {
+          "title": "Estado de Aplicación",
+          "description": "Sigue el estado de tus postulaciones laborales"
+        },
+        "interviewPreparation": {
+          "title": "Preparación de Entrevistas",
+          "description": "Prepárate para tus entrevistas laborales"
+        },
+        "offerManagement": {
+          "title": "Gestión de Ofertas",
+          "description": "Gestiona ofertas laborales y negociaciones"
+        }
+      }
+    }
+  },
+
+  "help_contact": {
+    "contact": {
+      "title": "Contáctanos",
+      "emailSupport": {
+        "title": "Soporte por Correo Electrónico",
+        "form": {
+          "reasons": {
+            "label": "Motivos *",
+            "placeholder": "Selecciona tu motivo",
+            "options": {
+              "none": "Ninguno",
+              "cancelPaidAccount": "Cancelar Cuenta de Pago",
+              "cancelTrialAccount": "Cancelar Cuenta de Prueba",
+              "customerSupport": "Soporte al Cliente",
+              "jobPostingQuestions": "Preguntas sobre Publicaciones de Empleo",
+              "other": "Otro",
+              "productFeedback": "Comentarios o Sugerencias sobre el Producto",
+              "refundRequest": "Solicitud de Reembolso"
+            },
+            "errors": {
+              "required": "El motivo es obligatorio"
+            }
+          },
+          "subject": {
+            "label": "Asunto *",
+            "characterLimit": "{{current}}/70 caracteres",
+            "limitReached": "Límite alcanzado, solo se permiten hasta 70 caracteres.",
+            "errors": {
+              "required": "El asunto es obligatorio",
+              "minLength": "El asunto debe tener al menos 4 caracteres",
+              "maxLength": "Máximo 70 caracteres permitidos",
+              "pattern": "El asunto solo puede contener letras y espacios, sin caracteres especiales ni números"
+            }
+          },
+          "email": {
+            "label": "Correo Electrónico *",
+            "errors": {
+              "required": "El correo electrónico es obligatorio",
+              "pattern": "Introduce una dirección de correo válida"
+            }
+          },
+          "description": {
+            "label": "Descripción *",
+            "characterLimit": "{{current}}/1000 caracteres",
+            "limitReached": "Límite alcanzado, solo se permiten hasta 1000 caracteres.",
+            "errors": {
+              "required": "La descripción es obligatoria",
+              "minLength": "La descripción debe tener al menos 10 caracteres",
+              "maxLength": "Máximo 1000 caracteres permitidos",
+              "pattern": "La descripción contiene caracteres no válidos. Solo se permiten letras, números, espacios y puntuación común"
+            }
+          },
+          "submit": "Enviar"
+        },
+        "toast": {
+          "success": {
+            "title": "Solicitud Enviada",
+            "description": "Tu solicitud de soporte por correo ha sido enviada correctamente. Nuestro equipo responderá pronto."
+          }
+        }
+      },
+      "callSupport": {
+        "title": "Soporte Telefónico",
+        "bookCall": "Agendar una llamada"
+      }
+    },
+    "helpCenter": {
+      "title": "Centro de Ayuda",
+      "description": "Encuentra respuestas a preguntas frecuentes y explora guías detalladas para aprovechar al máximo Magneto HR. Ya sea que estés comenzando o necesites ayuda para gestionar tu cuenta, estamos aquí para apoyarte en cada paso.",
+      "needFurtherAssistance": "¿Necesitas más ayuda?",
+      "contactSupport": "Contactar Soporte"
+    }
+  }
+}

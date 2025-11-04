@@ -1,0 +1,62 @@
+{
+  "ambassador": {
+    "title": "Embajador",
+    "reports": {
+      "title": "Reportes",
+      "copyLink": {
+        "button": "Copiar enlace",
+        "tooltip": "Copia tu enlace de referido",
+        "toast": {
+          "title": "Enlace copiado"
+        }
+      },
+      "filters": {
+        "dateRange": {
+          "placeholder": "Rango de fechas",
+          "tooltip": "Filtra los registros por rango de fechas",
+          "selectPlaceholder": "Seleccionar rango de fechas",
+          "options": {
+            "lastWeek": "Última semana",
+            "last30Days": "Últimos 30 días",
+            "last60Days": "Últimos 60 días",
+            "last90Days": "Últimos 90 días",
+            "customRange": "Rango personalizado"
+          }
+        }
+      },
+      "downloadReport": {
+        "button": "Descargar reporte",
+        "tooltip": "Descarga la lista de usuarios registrados en formato CSV",
+        "toast": {
+          "success": {
+            "title": "Reporte generado",
+            "description": "El reporte se ha generado correctamente."
+          },
+          "error": {
+            "title": "Error al generar el reporte",
+            "description": "Ocurrió un error inesperado. Por favor, intenta nuevamente más tarde."
+          }
+        }
+      },
+      "metrics": {
+        "totalSignups": {
+          "title": "Registros totales",
+          "tooltip": "Número total de usuarios registrados con tu enlace de referido"
+        }
+      }
+    },
+    "table": {
+      "headers": {
+        "name": "Nombre",
+        "userType": "Tipo de usuario",
+        "email": "Correo electrónico",
+        "signUpDate": "Fecha de registro"
+      },
+      "emptyState": "No hay datos disponibles",
+      "loading": "Cargando..."
+    },
+    "errors": {
+      "invalidCsvResponse": "Respuesta CSV inválida"
+    }
+  }
+}

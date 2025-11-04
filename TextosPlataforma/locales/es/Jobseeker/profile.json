@@ -1,0 +1,129 @@
+{
+  "editProfile_main": {
+    "title": "Perfil",
+    "sections": {
+      "personalInformation": {
+        "title": "Información Personal",
+        "fields": {
+          "fullName": "Nombre Completo:",
+          "address": "Dirección:",
+          "authorization": "¿Autorización para trabajar en el país?",
+          "educationLevel": "Nivel educativo:",
+          "industry": "Industria:",
+          "profession": "Profesión:",
+          "experienceLevel": "Nivel de experiencia:"
+        },
+        "values": {
+          "yes": "Sí",
+          "no": "No",
+          "notSpecified": "No especificado",
+          "present": "Presente"
+        }
+      },
+      "education": {
+        "title": "Educación"
+      },
+      "workExperience": {
+        "title": "Experiencia Laboral"
+      },
+      "skills": {
+        "title": "Habilidades",
+        "technicalSkills": "Habilidades Técnicas",
+        "softSkills": "Habilidades Blandas"
+      },
+      "additionalInformation": {
+        "title": "Información Adicional",
+        "certifications": "Certificaciones",
+        "languages": "Idiomas",
+        "linksAndProfiles": "Enlaces y Perfiles",
+        "accomplishments": "Logros"
+      },
+      "preferences": {
+        "title": "Preferencias",
+        "benefits": "Beneficios",
+        "compensation": "Compensación/Salario",
+        "jobType": "Tipo de empleo:",
+        "workSchedule": "Horario de trabajo:",
+        "positionLevel": "Nivel del puesto:",
+        "locationType": "Tipo de ubicación:",
+        "countryTimeZone": "País y zona horaria:",
+        "companyCulture": "Cultura empresarial:",
+        "discoverability": "Visibilidad:"
+      },
+      "cvPreview": {
+        "title": "Vista previa de la plantilla de CV {{number}}",
+        "preview": "Vista previa",
+        "levels": {
+          "basic": "Básico",
+          "native": "Nativo"
+        }
+      }
+    },
+    "buttons": {
+      "edit": "Editar",
+      "preview": "Vista previa",
+      "close": "Cerrar"
+    }
+  },
+
+  "personalInformationPage": {
+    "title": "Información Personal",
+    "navigation": {
+      "back": "Volver"
+    }
+  },
+
+  "education": {
+    "title": "Educación",
+    "navigation": {
+      "back": "Volver"
+    }
+  },
+
+  "workExperience": {
+    "title": "Experiencia Laboral",
+    "navigation": {
+      "back": "Volver"
+    }
+  },
+
+  "skills": {
+    "title": "Habilidades",
+    "navigation": {
+      "back": "Volver"
+    }
+  },
+
+  "additionalInformation": {
+    "title": "Información Adicional",
+    "description": "Incluye certificaciones relevantes, idiomas u otros logros clave.",
+    "navigation": {
+      "back": "Volver"
+    },
+    "buttons": {
+      "cancel": "Cancelar",
+      "save": "Guardar cambios"
+    },
+    "notifications": {
+      "success": {
+        "title": "Información adicional actualizada",
+        "description": "Tu información adicional se ha actualizado correctamente."
+      },
+      "error": {
+        "title": "Error al actualizar la información",
+        "description": "Ocurrió un error inesperado. Por favor, inténtalo nuevamente más tarde."
+      }
+    }
+  },
+
+  "preferences": {
+    "title": "Preferencias",
+    "navigation": {
+      "back": "Volver"
+    },
+    "buttons": {
+      "cancel": "Cancelar",
+      "save": "Guardar cambios"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "accountSettings": {
+    "title": "Configuración de la cuenta",
+    "description": "Administra todo lo relacionado con tu cuenta. Desde aquí puedes actualizar tu contraseña, ajustar las preferencias de notificación y revisar la configuración de privacidad y datos. Mantén tu experiencia segura y adaptada a tu búsqueda de empleo.",
+    "sections": {
+      "securityAndLogin": "Seguridad e inicio de sesión",
+      "notifications": "Notificaciones",
+      "privacyAndData": "Privacidad y datos"
+    },
+    "deleteAccount": {
+      "title": "Eliminar cuenta",
+      "description": "Eliminar tu cuenta borrará toda tu información de nuestra base de datos. Esta acción no se puede deshacer.",
+      "password": {
+        "placeholder": "Ingresar contraseña",
+        "error": "Por favor, ingresa tu contraseña para continuar."
+      },
+      "button": "Eliminar cuenta"
+    }
+  }
+}

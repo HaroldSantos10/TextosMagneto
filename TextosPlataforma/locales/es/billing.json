@@ -1,0 +1,105 @@
+{
+  "billing": {
+    "title": "Facturación y Comprobantes",
+    "sections": {
+      "invoiceAndPayment": {
+        "title": "Historial de facturas y pagos",
+        "tabs": {
+          "invoices": "Facturas",
+          "paymentHistory": "Historial de pagos"
+        },
+        "table": {
+          "invoices": {
+            "headers": {
+              "invoiceId": "ID de factura",
+              "date": "Fecha",
+              "amount": "Monto",
+              "action": "Acción"
+            },
+            "actions": {
+              "view": "Ver",
+              "download": "Descargar"
+            }
+          },
+          "paymentHistory": {
+            "headers": {
+              "transactionId": "ID de transacción",
+              "date": "Fecha",
+              "paymentMethod": "Método de pago",
+              "amount": "Monto",
+              "viewInvoice": "Ver factura"
+            }
+          }
+        }
+      },
+      "managePaymentMethods": {
+        "title": "Gestionar métodos de pago",
+        "addButton": "Agregar método de pago",
+        "paymentMethodsHeader": "Métodos de pago",
+        "table": {
+          "headers": {
+            "paymentMethod": "Método de pago",
+            "cardDetails": "Detalles de tarjeta/cripto",
+            "expirationDate": "Fecha de expiración",
+            "default": "Predeterminado",
+            "status": "Estado",
+            "action": "Acción"
+          },
+          "status": {
+            "yes": "Sí",
+            "no": "No",
+            "active": "Activo",
+            "expired": "Expirado",
+            "na": "N/A"
+          },
+          "actions": {
+            "edit": "Editar",
+            "delete": "Eliminar",
+            "setDefault": "Establecer como predeterminado"
+          }
+        }
+      }
+    },
+    "modals": {
+      "addPaymentMethod": {
+        "title": "Agregar método de pago"
+      },
+      "deletePaymentMethod": {
+        "title": "Eliminar método de pago"
+      }
+    },
+    "toast": {
+      "defaultPaymentSet": {
+        "title": "Método de pago predeterminado establecido",
+        "description": "Has establecido {{last4}} como tu método de pago predeterminado."
+      },
+      "pdf": {
+        "error": {
+          "title": "Error de PDF",
+          "description": "No se pudo generar el PDF. Por favor, inténtalo nuevamente."
+        },
+        "downloadError": {
+          "title": "Error de descarga",
+          "description": "No se pudo descargar el PDF. Por favor, inténtalo nuevamente."
+        }
+      }
+    },
+    "buttons": {
+      "view": "Ver",
+      "download": "Descargar",
+      "add": "Agregar método de pago"
+    },
+    "loading": {
+      "downloading": "Descargando..."
+    },
+    "fileNames": {
+      "invoice": "Factura #{{id}}.pdf",
+      "payment": "Pago #{{id}}.pdf"
+    },
+    "errors": {
+      "pdfGeneration": "Error al generar el PDF:",
+      "pdfDownload": "Error al descargar el PDF:",
+      "update": "Error de actualización"
+    }
+  }
+}

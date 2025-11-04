@@ -1,0 +1,218 @@
+{
+  "jobs": {
+    "title": "Mis empleos",
+    "search_placeholder": "Buscar empleos",
+    "clear_search": "Limpiar búsqueda",
+    "get_turbo_finder": "Obtener Turbo Finder",
+    "status": {
+      "applied": "Postulado",
+      "saved_for_later": "Guardado para más tarde",
+      "declined": "Rechazado",
+      "auto_applied": "Postulado automáticamente"
+    }
+  },
+
+  "applicationsTable": {
+    "headers": {
+      "jobInformation": "Información del empleo",
+      "matchToPosition": "Coincidencia con el puesto",
+      "salary": "Salario",
+      "locationType": "Tipo de ubicación",
+      "jobType": "Tipo de empleo",
+      "appliedDate": "Fecha de postulación",
+      "actions": ""
+    },
+    "states": {
+      "loading": "Cargando tus postulaciones...",
+      "error": "Error al cargar las postulaciones. Por favor, inténtalo nuevamente.",
+      "empty": {
+        "title": "No se encontraron empleos",
+        "description": "Prueba ajustando tus filtros"
+      }
+    }
+  },
+
+  "jobsList": {
+    "loading": "Cargando tus postulaciones...",
+    "error": "Error al cargar las postulaciones. Por favor, inténtalo nuevamente.",
+    "empty": {
+      "title": "No se encontraron empleos",
+      "description": "Prueba ajustando tus filtros"
+    }
+  },
+
+  "jobActionsMenu": {
+    "buttons": {
+      "apply": "Postular",
+      "saveForLater": "Guardar para más tarde",
+      "decline": "Rechazar",
+      "remove": "Eliminar"
+    },
+    "ariaLabels": {
+      "applyIcon": "Ícono de postular",
+      "saveForLaterIcon": "Ícono de guardar para más tarde",
+      "declineIcon": "Ícono de rechazar",
+      "removeIcon": "Ícono de eliminar"
+    },
+    "disabledMessages": {
+      "apply": "La acción de postular está deshabilitada",
+      "saveForLater": "La acción de guardar para más tarde está deshabilitada",
+      "decline": "La acción de rechazar está deshabilitada",
+      "remove": "La acción de eliminar está deshabilitada"
+    }
+  },
+
+  "jobCard": {
+    "anonymousCompany": "Empresa anónima",
+    "notSpecified": "No especificado",
+    "salaryLabel": "<0>Salario:</0> {{salary}}",
+    "locationLabel": "<0>Ubicación:</0> {{location}}",
+    "jobTypeLabel": "<0>Tipo de empleo:</0> {{jobType}}",
+    "appliedDateLabel": "<0>Fecha de postulación:</0> {{appliedDate}}",
+    "matchTooltip": {
+      "salaryScore": "Puntaje de salario",
+      "softScore": "Puntaje de habilidades blandas",
+      "technicalScore": "Puntaje de habilidades técnicas",
+      "totalScore": "Puntaje total"
+    },
+    "jobActionsMenu": {
+      "buttons": {
+        "apply": "Postular",
+        "saveForLater": "Guardar para más tarde",
+        "decline": "Rechazar",
+        "remove": "Eliminar"
+      },
+      "disabledMessages": {
+        "apply": "La acción de postular está deshabilitada",
+        "saveForLater": "La acción de guardar para más tarde está deshabilitada",
+        "decline": "La acción de rechazar está deshabilitada",
+        "remove": "La acción de eliminar está deshabilitada"
+      }
+    },
+    "removeModal": {
+      "title": "Eliminar publicación de empleo",
+      "confirmationMessage": "¿Estás seguro de que deseas eliminar esta publicación de empleo?",
+      "warningMessage": "Esta acción no se puede deshacer. Una vez eliminada, la publicación ya no aparecerá en tu sección de empleos.",
+      "buttons": {
+        "cancel": "Cancelar",
+        "remove": "Eliminar",
+        "removing": "Eliminando..."
+      }
+    },
+    "toastMessages": {
+      "applicationReactivated": {
+        "title": "Postulación reactivada",
+        "description": "Tu postulación para \"{{jobTitle}}\" ha sido reactivada."
+      },
+      "jobSaved": {
+        "title": "Empleo guardado",
+        "description": "Has guardado exitosamente el empleo \"{{jobTitle}}\" para revisarlo más tarde."
+      },
+      "jobDeclined": {
+        "title": "Empleo rechazado",
+        "description": "Has marcado el empleo \"{{jobTitle}}\" como no interesado."
+      },
+      "applicationRemoved": {
+        "title": "Postulación eliminada",
+        "description": "Tu postulación para \"{{jobTitle}}\" se eliminó correctamente."
+      },
+      "actionFailed": {
+        "title": "Acción fallida",
+        "description": "No pudimos completar esta acción. Por favor, inténtalo más tarde."
+      },
+      "cannotDecline": {
+        "title": "Acción fallida",
+        "description": "No se puede rechazar este empleo en su estado actual."
+      }
+    },
+    "tooltips": {
+      "pendingDataRequired": "Esta es una fuerte coincidencia con tu perfil. Para completar el proceso de postulación, responde algunas preguntas adicionales."
+    }
+  },
+
+  "jobCardsList": {
+    "loading": {
+      "message": "Cargando tus postulaciones..."
+    },
+    "error": {
+      "message": "Error al cargar las postulaciones. Por favor, inténtalo nuevamente."
+    },
+    "emptyState": {
+      "title": "No se encontraron empleos",
+      "subtitle": "Prueba ajustando tus filtros"
+    }
+  },
+
+  "jobFilters": {
+    "placeholders": {
+      "jobType": "Tipo de empleo",
+      "locationType": "Tipo de ubicación",
+      "positionLevel": "Nivel del puesto",
+      "sortBy": "Ordenar por"
+    }
+  },
+
+  "jobRow": {
+    "notSpecified": "No especificado",
+    "removeModal": {
+      "title": "Eliminar publicación de empleo",
+      "confirmation": "¿Estás seguro de que deseas eliminar esta publicación de empleo?",
+      "description": "Esta acción no se puede deshacer. Una vez eliminada, la publicación ya no aparecerá en tu sección de empleos.",
+      "buttons": {
+        "cancel": "Cancelar",
+        "remove": "Eliminar",
+        "removing": "Eliminando..."
+      }
+    }
+  },
+
+  "matchTooltip": {
+    "title": "Desglose de coincidencia:",
+    "technicalSkills": "Habilidades técnicas",
+    "softSkills": "Habilidades blandas",
+    "salary": "Salario"
+  },
+
+  "myJobsStatusSelect": {
+    "placeholder": "Seleccionar estado",
+    "search": "Buscar...",
+    "noOptions": "No se encontraron opciones."
+  },
+
+  "pagination": {
+    "ellipsis": "..."
+  },
+
+  "pendingDataNotification": {
+    "message": "Esta es una fuerte coincidencia con tu perfil. Para completar el proceso de postulación, responde algunas preguntas adicionales."
+  },
+
+  "progressRing": {
+    "label": "Progreso de coincidencia: {{percentage}} por ciento",
+    "imageAlt": "Progreso de coincidencia"
+  },
+
+  "statusFilter": {
+    "placeholder": "Estado de la publicación",
+    "APPLIED": {
+      "text": "Postulado",
+      "label": "Postulado ({{count}})"
+    },
+    "SAVED_FOR_LATER": {
+      "text": "Guardado para más tarde",
+      "label": "Guardado para más tarde ({{count}})"
+    },
+    "DECLINED": {
+      "text": "Rechazado",
+      "label": "Rechazado ({{count}})"
+    },
+    "AUTO_APPLIED": {
+      "text": "Postulado automáticamente",
+      "label": "Postulado automáticamente ({{count}})"
+    },
+    "TOTAL": {
+      "text": "Total",
+      "label": "Total ({{count}})"
+    }
+  }
+}

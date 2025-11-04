@@ -1,0 +1,52 @@
+{
+  "analyticsPage": {
+    "title": "Analítica",
+    "dashboard": "Panel de control",
+    "navigation": {
+      "back": "Volver"
+    },
+    "filters": {
+      "dateRange": {
+        "placeholder": "Rango de fechas",
+        "options": {
+          "lastWeek": "Última semana",
+          "last30Days": "Últimos 30 días",
+          "last60Days": "Últimos 60 días",
+          "last90Days": "Últimos 90 días",
+          "customRange": "Rango personalizado"
+        },
+        "custom": {
+          "placeholder": "Seleccionar rango de fechas",
+          "format": "Del {{from}} al {{to}}",
+          "fromOnly": "Desde {{from}}"
+        }
+      }
+    },
+    "statistics": {
+      "jobsApplications": {
+        "title": {
+          "first": "Empleos",
+          "second": "Postulaciones"
+        }
+      },
+      "interviewsScheduled": {
+        "title": {
+          "first": "Entrevistas",
+          "second": "Programadas"
+        }
+      },
+      "turboFinder": {
+        "title": {
+          "first": "Oportunidades",
+          "second": "por Turbo Finder"
+        }
+      },
+      "profileBooster": {
+        "title": {
+          "first": "Vistas por",
+          "second": "Profile Booster"
+        }
+      }
+    }
+  }
+}

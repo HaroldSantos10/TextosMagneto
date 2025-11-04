@@ -1,0 +1,62 @@
+{
+  "auth": {
+    "jobseeker": {
+      "sign_in": {
+        "title": "¡Bienvenido de nuevo <0 />a Magneto HR!",
+        "subtitle": "Tu próxima oportunidad<0 />está a solo un clic.",
+        "switch_text": "¿Aún no tienes una cuenta?",
+        "switch_button": "Regístrate para comenzar"
+      },
+      "sign_up": {
+        "title": "Encuentra mejores <0 />oportunidades,<1 />más rápido.",
+        "subtitle": "Crea tu cuenta en Magneto HR <0 />y encuentra <1 />los roles ideales para ti.",
+        "switch_text": "¿Ya tienes una cuenta?",
+        "switch_button": "Inicia sesión"
+      }
+    }
+  },
+
+  "sign_up_form": {
+    "title": "Regístrate gratis",
+    "subtitle": "Crea tu cuenta sin necesidad de tarjeta de crédito",
+    "social_buttons": {
+      "google": "Registrarte {action} con Google",
+      "facebook": "Registrarte con Facebook"
+    },
+    "divider": "O",
+    "links": {
+      "existing_user": "¿Ya tienes una cuenta?",
+      "log_in": "Inicia sesión",
+      "looking_to_hire": "¿Buscas contratar?",
+      "hire_sign_in": "Inicia sesión",
+      "hire_sign_up": "Regístrate aquí"
+    },
+    "footer": {
+      "terms": "Al registrarte, aceptas nuestros {0} y reconoces nuestra {1}",
+      "terms_of_service": "Condiciones del servicio",
+      "privacy_policy": "Política de privacidad"
+    }
+  },
+
+  "sign_in_form": {
+    "title": "¡Qué gusto verte de nuevo!",
+    "subtitle": "Inicia sesión en tu cuenta",
+    "social_buttons": {
+      "google": "Iniciar sesión {action} con Google",
+      "facebook": "Iniciar sesión con Facebook"
+    },
+    "divider": "O",
+    "links": {
+      "no_account": "¿Aún no tienes una cuenta?",
+      "register_here": "Regístrate aquí",
+      "looking_to_hire": "¿Buscas contratar?",
+      "hire_sign_in": "Inicia sesión",
+      "hire_sign_up": "Regístrate aquí"
+    },
+    "footer": {
+      "terms": "Al iniciar sesión, aceptas nuestros {0} y reconoces nuestra {1}",
+      "terms_of_service": "Condiciones del servicio",
+      "privacy_policy": "Política de privacidad"
+    }
+  }
+}
