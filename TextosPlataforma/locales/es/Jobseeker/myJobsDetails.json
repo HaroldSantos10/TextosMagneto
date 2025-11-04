@@ -1,277 +1,246 @@
 {
   "job_header": {
-    "back": "Back",
-    "title": "Job Details",
+    "back": "Atrás",
+    "title": "Detalles del Empleo",
     "button": {
-      "get_turbo_finder": "Get Turbo Finder"
+      "get_turbo_finder": "Obtener Turbo Finder"
     },
     "routes": {
       "back_to_list": "/jobseeker/jobs",
       "get_turbo_finder": "/jobseeker/premium-features"
     },
     "aria": {
-      "back_button": "Go back to job list",
-      "turbo_finder_button": "Access Turbo Finder premium feature"
+      "back_button": "Volver a la lista de empleos",
+      "turbo_finder_button": "Acceder a la función premium Turbo Finder"
     }
   },
-  
   "job_navigation": {
-    "previous": "Previous",
-    "next": "Next"
-  }, 
- 
-
+    "previous": "Anterior",
+    "next": "Siguiente"
+  },
   "job_details": {
     "actions": {
-      "not_interested": "Mark as not interested",
-      "delete_application": "Delete application",
-      "save_job": "Save this job for later",
-      "applied": "Applied",
-      "apply_now": "Apply Now",
-      "already_applied": "You've already applied to this job",
-      "cannot_apply": "Cannot apply from this section",
-      "already_saved": "Job is already saved",
-      "cannot_save": "Cannot save a job you've already applied to",
-      "already_declined": "This job is already declined"
+      "not_interested": "Marcar como no interesado",
+      "delete_application": "Eliminar postulación",
+      "save_job": "Guardar este empleo para más tarde",
+      "applied": "Postulado",
+      "apply_now": "Postular ahora",
+      "already_applied": "Ya te has postulado a este empleo",
+      "cannot_apply": "No se puede postular desde esta sección",
+      "already_saved": "El empleo ya está guardado",
+      "cannot_save": "No se puede guardar un empleo al que ya te postulaste",
+      "already_declined": "Este empleo ya ha sido rechazado"
     },
     "modal": {
-      "title": "Remove Job Post",
-      "confirmation_title": "Are you sure you want to remove this job post?",
-      "confirmation_message": "This action cannot be undone. Once deleted, the job post will no longer appear in your jobs section.",
-      "cancel": "Cancel",
-      "remove": "Remove",
-      "removing": "Removing..."
+      "title": "Eliminar Publicación de Empleo",
+      "confirmation_title": "¿Estás seguro de que deseas eliminar esta publicación?",
+      "confirmation_message": "Esta acción no se puede deshacer. Una vez eliminada, la publicación ya no aparecerá en tu sección de empleos.",
+      "cancel": "Cancelar",
+      "remove": "Eliminar",
+      "removing": "Eliminando..."
     },
     "labels": {
-      "company_name_not_available": "Company name not available",
-      "anonymous_company": "Anonymous Company",
-      "location_not_available": "Location not available",
-      "overall_match": "Overall Match percentage",
-      "tech_skills": "Tech Skills",
-      "soft_skills": "Soft Skills",
-      "salary": "Salary",
-      "cover_video": "Cover Video",
-      "video_not_available": "Video not available"
+      "company_name_not_available": "Nombre de la empresa no disponible",
+      "anonymous_company": "Empresa Anónima",
+      "location_not_available": "Ubicación no disponible",
+      "overall_match": "Porcentaje de coincidencia total",
+      "tech_skills": "Habilidades Técnicas",
+      "soft_skills": "Habilidades Blandas",
+      "salary": "Salario",
+      "cover_video": "Video de Presentación",
+      "video_not_available": "Video no disponible"
     },
     "tooltips": {
-      "score_explanation_title": "These percentages show how well your profile aligns with the job:",
-      "tech_skills": "<0>Tech Skills</0> reflect your technical fit.",
-      "soft_skills": "<0>Soft Skills</0> cover interpersonal compatibility.",
-      "salary": "<0>Salary</0> compares expected vs. offered pay.",
-      "final_message": "The higher the number, the stronger the match."
+      "score_explanation_title": "Estos porcentajes muestran qué tan bien se alinea tu perfil con el empleo:",
+      "tech_skills": "<0>Habilidades Técnicas</0> reflejan tu adecuación técnica.",
+      "soft_skills": "<0>Habilidades Blandas</0> cubren la compatibilidad interpersonal.",
+      "salary": "<0>Salario</0> compara el salario esperado con el ofrecido.",
+      "final_message": "Mientras mayor sea el número, más fuerte es la coincidencia."
     },
     "buttons": {
-      "view_cover_video": "View Cover Video"
+      "view_cover_video": "Ver Video de Presentación"
     },
     "job_compensation": {
-      "section_title": "Compensation/Salary",
-      "not_specified": "Not Specified",
+      "section_title": "Compensación/Salario",
+      "not_specified": "No especificado",
       "plus": {
-        "commission": "Plus Commission",
-        "bonus": "Plus Bonus"
+        "commission": "Más Comisión",
+        "bonus": "Más Bono"
       },
       "company_benefits": {
-        "section_title": "Company Benefits",
+        "section_title": "Beneficios de la Empresa",
         "benefit_item": "{{benefit}}"
+      }
     }
-
-
   },
-  
   "job_description": {
     "section": {
-      "full_details": "Full Details",
-      "industry": "Industry",
-      "preferred_language": "Preferred Language",
-      "position_level": "Position Level",
-      "job_description": "Job Description",
-      "job_requirements": "Job Requirements",
-      "job_responsibilities": "Job Responsibilities"
+      "full_details": "Detalles Completos",
+      "industry": "Industria",
+      "preferred_language": "Idioma Preferido",
+      "position_level": "Nivel del Puesto",
+      "job_description": "Descripción del Empleo",
+      "job_requirements": "Requisitos del Empleo",
+      "job_responsibilities": "Responsabilidades del Empleo"
     },
     "labels": {
-      "not_specified": "Not Specified"
+      "not_specified": "No especificado"
     },
     "messages": {
-      "no_industry": "No industry information available",
-      "no_language": "No language specified",
-      "no_position_level": "No position level provided",
-      "no_description": "No job description provided",
-      "no_requirements": "No requirements provided",
-      "no_responsibilities": "No responsibilities provided"
+      "no_industry": "No hay información de la industria disponible",
+      "no_language": "No se especificó idioma",
+      "no_position_level": "No se proporcionó nivel del puesto",
+      "no_description": "No se proporcionó descripción del empleo",
+      "no_requirements": "No se proporcionaron requisitos",
+      "no_responsibilities": "No se proporcionaron responsabilidades"
     }
   },
-
-  
   "job_meta_info": {
     "labels": {
-      "workplace": "Workplace",
-      "job_type": "Job Type",
-      "salary": "Salary",
-      "open_roles": "Open Roles"
+      "workplace": "Lugar de Trabajo",
+      "job_type": "Tipo de Empleo",
+      "salary": "Salario",
+      "open_roles": "Puestos Abiertos"
     },
     "tooltips": {
-      "click_to_expand": "Click to see full text"
+      "click_to_expand": "Haz clic para ver el texto completo"
     },
     "salary_formats": {
       "exact_pay": "USD ${{amount}} / {{frequency}}",
       "range": "USD ${{min}} - USD ${{max}} / {{frequency}}"
     }
-  }, 
-
-  
+  },
   "job_requirements": {
-    "title": "Requirements",
+    "title": "Requisitos",
     "sections": {
-      "profession": "Profession",
-      "education_level": "Education Level",
-      "experience_level": "Experience Level",
-      "work_schedule": "Work Schedule",
-      "resume": "Resume",
-      "cover_letter": "Cover Letter",
-      "technical_skills": "Technical Skills",
-      "soft_skills": "Soft Skills",
-      "certifications": "Certifications",
-      "not_specified": "Not Specified"
+      "profession": "Profesión",
+      "education_level": "Nivel Educativo",
+      "experience_level": "Nivel de Experiencia",
+      "work_schedule": "Horario Laboral",
+      "resume": "Currículum",
+      "cover_letter": "Carta de Presentación",
+      "technical_skills": "Habilidades Técnicas",
+      "soft_skills": "Habilidades Blandas",
+      "certifications": "Certificaciones",
+      "not_specified": "No especificado"
     },
     "tooltips": {
-      "technical_skills_info": "Information about required technical skills",
-      "soft_skills_info": "Information about required soft skills",
-      "certifications_info": "Information about certifications"
+      "technical_skills_info": "Información sobre las habilidades técnicas requeridas",
+      "soft_skills_info": "Información sobre las habilidades blandas requeridas",
+      "certifications_info": "Información sobre certificaciones"
     }
   },
-
-  
   "job_skills": {
-    "title": "Skills",
-    "tooltip_info": "Information about this skill",
-    "no_skills": "No skills available"
+    "title": "Habilidades",
+    "tooltip_info": "Información sobre esta habilidad",
+    "no_skills": "No hay habilidades disponibles"
   },
-
-  
   "job_details_states": {
-    "back": "Back",
-    "title": "Job Details",
-    "get_turbo_finder": "Get Turbo Finder",
-    "loading_message": "Loading job details...",
-    "error_message": "Failed to load job details"
+    "back": "Atrás",
+    "title": "Detalles del Empleo",
+    "get_turbo_finder": "Obtener Turbo Finder",
+    "loading_message": "Cargando detalles del empleo...",
+    "error_message": "Error al cargar los detalles del empleo"
   },
-
-    "job_details_actions": {
+  "job_details_actions": {
     "toasts": {
       "dislike_success": {
-        "title": "Job Status Updated",
-        "description": "Job marked as not interested successfully."
+        "title": "Estado del Empleo Actualizado",
+        "description": "El empleo se marcó como no interesado correctamente."
       },
       "dislike_error": {
-        "title": "Action Failed",
-        "description": "Failed to update job status. Please try again."
+        "title": "Acción Fallida",
+        "description": "No se pudo actualizar el estado del empleo. Intenta nuevamente."
       },
       "delete_success": {
-        "title": "Application Deleted",
-        "description": "Your application has been successfully removed."
+        "title": "Postulación Eliminada",
+        "description": "Tu postulación se eliminó correctamente."
       },
       "delete_error": {
-        "title": "Action Failed",
-        "description": "Failed to delete application. Please try again."
+        "title": "Acción Fallida",
+        "description": "No se pudo eliminar la postulación. Intenta nuevamente."
       },
       "save_success": {
-        "title": "Job Saved",
-        "description": "Job has been saved for later review."
+        "title": "Empleo Guardado",
+        "description": "El empleo se guardó para revisión posterior."
       },
       "save_error": {
-        "title": "Action Failed",
-        "description": "Failed to save job. Please try again."
+        "title": "Acción Fallida",
+        "description": "No se pudo guardar el empleo. Intenta nuevamente."
       }
     },
     "confirm_delete": {
-      "title": "Confirm Delete",
-      "message": "Are you sure you want to delete this application?",
-      "confirm_button": "Delete",
-      "cancel_button": "Cancel"
+      "title": "Confirmar Eliminación",
+      "message": "¿Estás seguro de que deseas eliminar esta postulación?",
+      "confirm_button": "Eliminar",
+      "cancel_button": "Cancelar"
     },
-    "error_fetching": "Failed to load job details. Please try again."
+    "error_fetching": "No se pudieron cargar los detalles del empleo. Intenta nuevamente."
   },
-
-
-
-  
   "job_interviews": {
     "toast": {
-      "cancel_success": "Interview cancelled successfully",
-      "cancel_error": "Failed to cancel the interview. Please try again."
+      "cancel_success": "Entrevista cancelada correctamente",
+      "cancel_error": "No se pudo cancelar la entrevista. Intenta nuevamente."
     },
-    "error_fetching_meetings": "Failed to load interview meetings. Please try again."
+    "error_fetching_meetings": "No se pudieron cargar las entrevistas. Intenta nuevamente."
   },
-
-
-  
   "job_notes": {
     "toast": {
-      "save_success": "Note saved successfully!",
-      "save_error": "Failed to save note. Please try again."
+      "save_success": "Nota guardada correctamente",
+      "save_error": "No se pudo guardar la nota. Intenta nuevamente."
     },
-    "error_fetching_notes": "Failed to load notes. Please try again."
+    "error_fetching_notes": "No se pudieron cargar las notas. Intenta nuevamente."
   },
-
-
-  
   "job_sidebar": {
     "interviews_panel": {
-      "title": "Interviews",
-      "no_interviews": "No interviews scheduled",
-      "cancel_button": "Cancel Interview",
-      "cancel_confirmation": "Are you sure you want to cancel this interview?"
+      "title": "Entrevistas",
+      "no_interviews": "No hay entrevistas programadas",
+      "cancel_button": "Cancelar Entrevista",
+      "cancel_confirmation": "¿Estás seguro de que deseas cancelar esta entrevista?"
     },
     "notes_panel": {
-      "title": "Notes",
-      "placeholder": "Write your note here...",
-      "save_button": "Save Note",
-      "saving": "Saving...",
-      "no_notes": "No notes yet"
+      "title": "Notas",
+      "placeholder": "Escribe tu nota aquí...",
+      "save_button": "Guardar Nota",
+      "saving": "Guardando...",
+      "no_notes": "Aún no hay notas"
     }
   },
-
-  
-  
   "interviews_panel": {
-    "title": "Interviews",
-    "loading": "Loading meetings...",
-    "no_interviews": "No Interviews Scheduled",
-    "no_interviews_description": "You don't have any scheduled interviews for this job yet",
-    "cancelled": "Interview Cancelled",
-    "cancelled_description": "This interview was previously cancelled",
+    "title": "Entrevistas",
+    "loading": "Cargando reuniones...",
+    "no_interviews": "No hay entrevistas programadas",
+    "no_interviews_description": "Aún no tienes entrevistas programadas para este empleo",
+    "cancelled": "Entrevista Cancelada",
+    "cancelled_description": "Esta entrevista fue cancelada previamente",
     "meeting_type": {
-      "video": "Video Interview",
-      "phone": "Phone Interview",
-      "in_person": "In-person Interview"
+      "video": "Entrevista por Video",
+      "phone": "Entrevista Telefónica",
+      "in_person": "Entrevista Presencial"
     },
-    "participants": "Participants<0 />",
-    "no_additional_participants": "No additional participants",
-    "cancel_button": "Cancel Interview",
-    "cancelling": "Cancelling...",
+    "participants": "Participantes<0 />",
+    "no_additional_participants": "No hay participantes adicionales",
+    "cancel_button": "Cancelar Entrevista",
+    "cancelling": "Cancelando...",
     "cancel_modal": {
-      "title": "Cancel Interview",
-      "confirm_text": "Are you sure you want to cancel this interview?",
-      "description": "This action cannot be undone. The recruiter will be notified of the cancellation.",
-      "keep_button": "Keep Interview",
-      "confirm_button": "Cancel Interview"
+      "title": "Cancelar Entrevista",
+      "confirm_text": "¿Estás seguro de que deseas cancelar esta entrevista?",
+      "description": "Esta acción no se puede deshacer. El reclutador será notificado de la cancelación.",
+      "keep_button": "Mantener Entrevista",
+      "confirm_button": "Cancelar Entrevista"
     },
-    "address": "Address"
+    "address": "Dirección"
   },
-
-  
   "notes_panel": {
-    "title": "Notes",
-    "loading": "Loading notes...",
-    "error": "Error loading notes",
-    "no_notes": "No notes yet",
-    "note_prefix":  "<0>Note {{number}}:</0> {{content}}",
-    "show_more": "Show more",
-    "textarea_placeholder": "Write private note here...",
-    "save_button": "Save Note",
-    "saving": "Saving...",
-    "tooltip": "All notes left here are private"
+    "title": "Notas",
+    "loading": "Cargando notas...",
+    "error": "Error al cargar las notas",
+    "no_notes": "Aún no hay notas",
+    "note_prefix": "<0>Nota {{number}}:</0> {{content}}",
+    "show_more": "Mostrar más",
+    "textarea_placeholder": "Escribe nota privada aquí...",
+    "save_button": "Guardar Nota",
+    "saving": "Guardando...",
+    "tooltip": "Todas las notas aquí son privadas"
   }
-}
-
 }

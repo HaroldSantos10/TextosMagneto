@@ -95,20 +95,20 @@
             },
             "benefits": {
                 "title": "Benefits for Omega Supporters",
-                "items": [
-                {
+                "items": {
+                "0": {
                     "title": "Token Incentives for Node Operators",
                     "description": "2 million tokens are distributed evenly every day as a reward to all node operators."
                 },
-                {
+                "1":{
                     "title": "Service NFTs Airdrops",
                     "description": "Receive exclusive Service NFTs that unlock premium features within the Magneto HR platform."
                 },
-                {
+                "2":{
                     "title": "Early and Exclusive Access to Project Insights",
                     "description": "Access insider updates and key project insights before they’re shared publicly."
                 }
-                ],
+            },
                 "footer_note": "There are more benefits to being an Omega supporter and many more to come..."
             },
             "cta_button": "Get a Node"
@@ -116,24 +116,24 @@
         "section4": {
             "main_title": "Own a Cerebro Node?",
             "subtitle": "Activate your node today and become an integral part of our decentralized network",
-            "links": [
-                {
+            "links": {
+                "0":{
                 "title": "Rewards claim site",
                 "url": "https://claim.magnetohr.com/"
                 },
-                {
+                "1":{
                 "title": "Node Setup Guide",
                 "url": "https://medium.com/@magnetohr/step-by-step-guide-to-setting-up-and-earning-with-cerebro-nodes-c612927ed63a"
                 },
-                {
+                "2":{
                 "title": "Troubleshooting Guide",
                 "url": "https://medium.com/@magnetohr/cerebro-node-troubleshooting-guide-b13c459f1f96"
                 },
-                {
+                "3":{
                 "title": "LFG Node Dashboard",
                 "url": "https://node.lfg.inc/"
                 }
-            ]
+            }
         },
         "section5": {
                 "title": "Meet the creators <0 />revolutionizing talent <1 />connection with <2>Magneto HR.</2>",

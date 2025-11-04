@@ -1,27 +1,27 @@
 {
     "header": {
         "navigation": {
-            "market_insight": "Perspectiva de mercado",
+            "market_insight": "Oportunidad de mercado",
             "cerebro_nodes": "Nodos Cerebro",
             "node_owners": "Para propietarios de nodos",
             "our_team": "Nuestro equipo",
-            "roadmap": "Hoja de ruta",
+            "roadmap": "Cronograma",
             "faq": "Preguntas frecuentes"
         },
         "cta_button": "Obtener un nodo",
         "mobile_menu": {
-            "sr_only": "menú"
+            "sr_only": "Menú"
         }
     },
     "main": {
         "section1": {
-            "main_title": "Únete a <0>Magneto HR</0> mientras redefinimos la contratación con eficiencia impulsada por IA y seguridad blockchain",
-            "subtitle": "Contribuye a la próxima generación de conexiones de talento uniéndote a nuestra misión hoy"
+            "main_title": "Únete a <0>Magneto HR</0> mientras revolucionamos las contratación con eficiencia impulsada por IA y seguridad blockchain",
+            "subtitle": "Contribuye a la próxima generación de conexiones laborales uniéndote a nuestra misión hoy"
         },
         "section2": {
             "market_insight": {
-                "title": "Perspectiva de mercado",
-                "description": "Explora la combinación revolucionaria de tecnología y tokenómica de Magneto HR, reduciendo costos y tiempos de contratación en un 50%. Consulta nuestro litepaper para obtener información sobre cómo transformar un mercado de $2,21 billones."
+                "title": "Oportunidad de mercado",
+                "description": "Explora la combinación revolucionaria de tecnología y tokenómica de Magneto HR, reduciendo costos y tiempos de contratación en un 50%. Consulta nuestro litepaper para obtener información sobre cómo transformaremos un mercado de $2,21 billones."
             },
             "key_market_data": {
                 "title": "Datos clave del mercado",
@@ -95,20 +95,20 @@
             },
             "benefits": {
                 "title": "Beneficios para los seguidores Omega",
-                "items": [
-                    {
+                "items": {
+                    "0": {
                         "title": "Incentivos en tokens para operadores de nodos",
                         "description": "Se distribuyen 2 millones de tokens de manera equitativa cada día como recompensa para todos los operadores de nodos."
                     },
-                    {
+                    "1": {
                         "title": "Airdrops de Service NFTs",
                         "description": "Recibe NFTs de servicios exclusivos que desbloquean funciones premium dentro de la plataforma Magneto HR."
                     },
-                    {
+                    "2": {
                         "title": "Acceso anticipado y exclusivo a información del proyecto",
                         "description": "Obtén actualizaciones internas y conocimientos clave del proyecto antes de que se compartan públicamente."
                     }
-                ],
+                },
                 "footer_note": "Hay más beneficios por ser seguidor Omega y muchos más por venir..."
             },
             "cta_button": "Obtener un nodo"
@@ -116,24 +116,24 @@
         "section4": {
             "main_title": "¿Posees un Nodo Cerebro?",
             "subtitle": "Activa tu nodo hoy y forma parte integral de nuestra red descentralizada",
-            "links": [
-                {
+            "links": {
+                "0": {
                     "title": "Sitio de reclamación de recompensas",
                     "url": "https://claim.magnetohr.com/"
                 },
-                {
+                "1": {
                     "title": "Guía de configuración de nodos",
                     "url": "https://medium.com/@magnetohr/step-by-step-guide-to-setting-up-and-earning-with-cerebro-nodes-c612927ed63a"
                 },
-                {
+                "2": {
                     "title": "Guía de resolución de problemas",
                     "url": "https://medium.com/@magnetohr/cerebro-node-troubleshooting-guide-b13c459f1f96"
                 },
-                {
+                "3": {
                     "title": "Panel de nodos LFG",
                     "url": "https://node.lfg.inc/"
                 }
-            ]
+            }
         },
         "section5": {
             "title": "Conoce a los creadores <0 />que están revolucionando la conexión de talento con <2>Magneto HR.</2>",
@@ -144,12 +144,12 @@
             "members": {
                 "julio_sanchez": {
                     "name": "Julio Sanchez",
-                    "role": "CEO – Co-fundador",
+                    "role": "CEO  Co-fundador",
                     "description": "Experto en gestión de ingeniería con más de 15 años de experiencia, Julio lidera la transformación del reclutamiento mediante la innovación empresarial."
                 },
                 "cesar_figuereo": {
                     "name": "Cesar Figuereo",
-                    "role": "CTO – Co-fundador",
+                    "role": "CTO  Co-fundador",
                     "description": "Desarrollador de software altamente experimentado con una maestría en Tecnologías de la Información, Cesar lidera soluciones técnicas enfocadas en eficiencia y excelencia."
                 },
                 "vladimir_reynoso": {
@@ -174,15 +174,15 @@
             "title": "RD Gestión Talento",
             "background": {
                 "title": "Experiencia:",
-                "description": "RD Talent Management ha brindado servicios excepcionales de consultoría HR durante más de una década."
+                "description": "RD Gestion Talento ha brindado servicios excepcionales de consultoría HR durante más de una década."
             },
             "expertise": {
                 "title": "Especialización:",
-                "description": "Con enfoque en reclutamiento, gestión de talento y consultoría empresarial, RD Talent Management es un socio estratégico vital."
+                "description": "Con enfoque en reclutamiento, gestión de talento y consultoría empresarial, RD Gestion Talento es un socio estratégico vital."
             },
             "reputation": {
                 "title": "Reputación:",
-                "description": "Reconocida por brindar soluciones HR premium, RD Talent Management aporta profundidad estratégica a nuestras iniciativas."
+                "description": "Reconocida por brindar soluciones HR premium, RD Gestion Talento aporta profundidad estratégica a nuestras iniciativas."
             }
         },
         "section6": {
@@ -192,7 +192,7 @@
     },
     "footer": {
         "logo_section": {
-            "description": "Toma control de tu contratación o búsqueda de empleo<0 />—únete a Magneto HR para las mejores oportunidades."
+            "description": "Toma control de tu contratación o búsqueda de empleo<0 />únete a Magneto HR para las mejores oportunidades."
         },
         "links_section": {
             "title": "Enlaces",
@@ -207,19 +207,6 @@
             "title": "Legal",
             "terms": "Términos y condiciones",
             "privacy": "Política de privacidad"
-        },
-        "subscribe_section": {
-            "title": "Únete a la lista de espera de Magneto HR",
-            "subtitle": "¡Regístrate ahora y obtén acceso anticipado!",
-            "question": "Cuéntanos para qué estás aquí:",
-            "options": {
-                "job_seeker": "Buscando empleo",
-                "hirer": "Buscando contratar"
-            },
-            "email_placeholder": "Ingresa tu correo electrónico",
-            "success_message": "Gracias por unirte a la lista de espera. ¡Tu próxima contratación o empleo comienza aquí!",
-            "button_text": "Obtener acceso anticipado",
-            "loading_text": "Cargando..."
         },
         "copyright": "Copyright MAGNETOHR ©{currentYear}"
     }
