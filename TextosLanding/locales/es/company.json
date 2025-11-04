@@ -1,20 +1,20 @@
 {
     "home": {
         "banner_company": {
-            "title": "Encontrar el <0>Talento</0><1 />adecuado ahora es <2>más fácil</2> para <3 />empresas de todos los tamaños.",
-            "subtitle": "Omite la búsqueda: contrata talento de calidad en EE. UU. y Latinoamérica rápidamente. Únete ahora, es GRATIS.",
+            "title": "Encontrar el <0>Talento</0><1 />adecuado ahora es <2>más fácil</2> para <3 />empresas de todo tipo.",
+            "subtitle": "No mas búsqueda: contrata talento de calidad en EE. UU. y Latinoamérica rápidamente. Únete ahora, es GRATIS.",
             "button_hire_free": "Contrata gratis"
         },
         "twoSection": {
             "title": {
                 "part1": "Contrata",
-                "highlight": "Gran Talento",
+                "highlight": "El Mejor Talento",
                 "part2": "Rápidamente."
             },
             "subtitle": "Empieza a recibir candidatos preseleccionados según tus necesidades específicas. Sin filtros tediosos. Empieza ahora, es gratis.",
             "button": "Regístrate gratis",
             "cards": {
-                "card1": "Reduce drásticamente el tiempo de contratación: nuestra IA identifica a los mejores candidatos en días, no semanas, manteniendo tus vacantes cubiertas y tu negocio en marcha.",
+                "card1": "Reduce drásticamente el tiempo de contratación: nuestra IA identifica a los mejores candidatos en días, no semanas, manteniendo tus vacantes cubiertas y tu empresa en marcha.",
                 "card2": "Contrata al perfil adecuado desde el principio: el emparejamiento inteligente va más allá de los currículums y evalúa habilidades, experiencia y afinidad cultural, reduciendo la rotación costosa.",
                 "card3": "Optimiza cada etapa del reclutamiento: nuestra IA automatiza la búsqueda, evaluación y seguimiento, para que tu equipo se enfoque en entrevistar y contratar al mejor talento."
             }
@@ -36,7 +36,7 @@
                 },
                 "card2": {
                     "title": "Proactivo, no reactivo",
-                    "text": "En lugar de esperar postulaciones, Polaris busca y contacta de forma activa al talento ideal para tus necesidades."
+                    "text": "En lugar de esperar aplicacion, Polaris busca y contacta de forma activa al talento ideal para tus necesidades."
                 }
             }
         },
@@ -44,18 +44,18 @@
             "title": "¡Nosotros hacemos el <0>trabajo pesado</0> por ti!",
             "subtitle": "Tu proceso de contratación en piloto automático: buscamos, filtramos y te entregamos los mejores candidatos con reportes claros y procesables. Todo lo que necesitas para contratar de forma más inteligente, en una sola plataforma con base de datos de talento, entrevistas integradas, videollamadas y chat.",
             "buttons": {
-                "database": "Base de Talento",
+                "database": "Banco de Talento",
                 "panel": "Panel de Entrevistas",
                 "video": "Videoconferencia",
                 "chat": "Chat",
-                "more": "y más…"
+                "more": "y más..."
             },
             "cta": "Regístrate gratis"
         },
         "premium_features": {
             "section1": {
-                "title": "<0>Funciones</0> Premium",
-                "subtitle": "Desbloquea herramientas avanzadas y reduce el tiempo de contratación, mejora las conexiones y obtén más soporte con las funciones premium totalmente transferibles de Magneto HR."
+                "title": "<0>Servicios</0> Premium",
+                "subtitle": "Desbloquea herramientas avanzadas y reduce el tiempo de contratación, mejora las conexiones y obtén más soporte con los servicios premium totalmente transferibles de Magneto HR."
             },
             "feature1": {
                 "title": "Post Booster:",
@@ -70,22 +70,22 @@
             }
         },
         "magneto_section": {
-            "title": "Encuentra <0>Talento de Primer Nivel</0> en EE. UU. y Latinoamérica.",
-            "subtitle": "Accede a millones de profesionales calificados — ya sea que necesites expertos remotos o personal presencial. Magneto HR te conecta con una amplia base de talento en ambos territorios, facilitando más que nunca contratar a las personas correctas, en el lugar y momento adecuados.",
+            "title": "Encuentra <0>Talento de Alto Nivel</0> en EE. UU. y Latinoamérica.",
+            "subtitle": "Accede a millones de profesionales calificados  ya sea que necesites expertos remotos o personal presencial. Magneto HR te conecta con una amplia base de talento en ambos territorios, facilitando más que nunca contratar a las personas correctas, en el lugar y momento adecuados.",
             "button_join": "Únete gratis"
         }
     },
     "whymagneto": {
         "section1": {
-            "title": "Funciones premium impulsadas por IA que son tuyas. <0>Inteligencia que se mueve contigo.</0>",
+            "title": "Servicios premium impulsadas por IA que son tuyas. <0>Inteligencia que se mueve contigo.</0>",
             "cards": {
                 "card1": {
-                    "title": "Con Magneto HR, lo premium significa poder — y es tuyo para conservarlo.",
+                    "title": "Con Magneto HR, lo premium significa poder  y es tuyo para conservarlo.",
                     "description": "Obtén acceso a herramientas exclusivas impulsadas por IA que potencian tu proceso de contratación, desde la puntuación inteligente de candidatos hasta el emparejamiento automatizado."
                 },
                 "card2": {
-                    "title": "Y aquí está el cambio de juego: estas funciones no están bloqueadas a una cuenta.",
-                    "description": "Son tuyas para conservar y transferir a medida que tu empresa crece o tu equipo cambia. Sin suscripciones. Sin restricciones. Solo acceso permanente y portátil a inteligencia de contratación de nueva generación."
+                    "title": "Y aquí está la parte mas innovadora: estos servicios no están bloqueados en una cuenta.",
+                    "description": "Son tuyos para conservar y transferir a medida que tu empresa crece o tu equipo cambia. Sin suscripciones. Sin restricciones. Solo acceso permanente y portátil a inteligencia de contratación de nueva generación."
                 }
             },
             "ai_agent": {
@@ -102,8 +102,8 @@
                 "what_you_get": "Lo que obtienes:",
                 "features": {
                     "hyper_targeted": {
-                        "title": "Coincidencias altamente precisas",
-                        "description": "impulsadas por IA avanzada"
+                        "title": "Emparejamientos altamente precisos",
+                        "description": "impulsados por IA avanzada"
                     },
                     "smart_reports": {
                         "title": "Reportes inteligentes",
@@ -119,8 +119,8 @@
                     }
                 },
                 "game_changer": {
-                    "title1": "Y aquí está el cambio de juego:",
-                    "title2": "Turbo Recruiter es una Función Premium Transferible.",
+                    "title1": "Y aquí está lo mas innovador:",
+                    "title2": "Turbo Recruiter es una Servicio Premium Transferible.",
                     "description": "¿No estás contratando este mes? Véndela o transfiérela, convirtiendo tu poder de contratación no usado en un activo valioso."
                 },
                 "banner": {
@@ -132,11 +132,11 @@
                 "title": "Post Booster",
                 "subtitle": "Tu arma secreta para posicionar tus ofertas laborales al frente",
                 "description1": "Aumenta la visibilidad y lleva tus publicaciones a la parte superior del panel de los candidatos. Ya sea que necesites contratar rápido o planificar con anticipación, Post Booster asegura que las personas adecuadas vean tus vacantes primero.",
-                "description2": "Sin más esperas. Con ubicación destacada y mayor exposición, tus ofertas generan más interacción de candidatos calificados, en horas, no días.",
+                "description2": "Sin más esperas. Con posicion destacada y mayor exposición, tus ofertas generan más interacción de candidatos calificados, en horas, no días.",
                 "what_you_get": "Lo que obtienes:",
                 "features": {
                     "top_tier_visibility": {
-                        "title": "Visibilidad de primer nivel",
+                        "title": "Visibilidad de alto nivel",
                         "description": "en los paneles de candidatos"
                     },
                     "weekly_reports": {
@@ -148,17 +148,17 @@
                         "description": "para puestos con alta demanda"
                     },
                     "higher_quality_matches": {
-                        "title": "Coincidencias de mayor calidad",
+                        "title": "Emparejamientos de mayor calidad",
                         "description": "de candidatos proactivos"
                     }
                 },
                 "bonus": {
-                    "title1": "Bonus:",
-                    "title2": "Post Booster es una Función Premium Transferible.",
+                    "title1": "Bono:",
+                    "title2": "Post Booster es una Servicio Premium Transferible.",
                     "description": "¿No estás contratando hoy? Véndela o regálala. Mantén la flexibilidad y convierte la visibilidad en valor real — bajo tus propios términos."
                 },
                 "banner": {
-                    "description": "No te pierdas entre la multitud. Destaca con Post Booster.",
+                    "description": "No te pierdas entre la multitud. Destacate el con Post Booster.",
                     "button": "Obtén Post Booster ahora"
                 }
             },
@@ -173,13 +173,13 @@
                 "what_you_get": "Lo que obtienes:",
                 "features": {
                     "unlimited_use": "Uso ilimitado de Turbo Recruiter y Post Booster",
-                    "unlimited_listings": "Publicaciones ilimitadas para todos los roles",
+                    "unlimited_listings": "Publicaciones ilimitadas para todos los puestos",
                     "weekly_reports": "Reportes semanales sobre calidad y rendimiento",
                     "data_insights": "Análisis de datos para mejorar tu estrategia de contratación"
                 },
                 "transferable": {
                     "title1": "¿Necesitas pausar? Sin problema.",
-                    "title2": "Es una Función Premium Transferible.",
+                    "title2": "Es un Servicio Premium Transferible.",
                     "description": "Puedes vender o regalar el tiempo restante, ideal para contrataciones estacionales o necesidades cambiantes del equipo."
                 },
                 "banner": {
@@ -203,14 +203,14 @@
                 },
                 "transferable": {
                     "title1": "Y sí,",
-                    "title2": "es una Función Premium Transferible",
-                    "description": "Si tus necesidades cambian, puedes transferirla o venderla, convirtiendo tu compra única en un activo valioso a largo plazo.*"
+                    "title2": "es un Servicio Premium Transferible",
+                    "description": "Si tus necesidades cambian, puedes transferirlo o venderlo, convirtiendo tu compra única en un activo valioso a largo plazo.*"
                 },
                 "banner": {
                     "description": "Invierte una vez. Contrata para siempre. Asegura tu futuro de reclutamiento.",
                     "button": "Consíguelo ahora"
                 },
-                "disclaimer": "*Este paquete tiene disponibilidad limitada cada 3 meses. El precio aumenta trimestralmente."
+                "disclaimer": "*Este paquete tiene disponibilidad limitada cada 3 meses. El precio aumenta cada trimestre."
             }
         }
     }

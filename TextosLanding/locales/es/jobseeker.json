@@ -1,47 +1,46 @@
 {
     "home": {
         "section1": {
-            "title": "Conectando <0>Talento</0><1 />y <2>Oportunidades</2><3 />Más inteligente que nunca.",
+            "title": "Conectando <0>Talento</0><1 />y <2>Oportunidades</2><3 />Más mejor que nunca.",
             "subtitle": "Olvídate de buscar - Conéctate con grandes <0 />oportunidades de trabajo rápido. Únete ahora, es GRATIS.",
-            "button_join": "Únete gratis"
-
+            "button_join": "Regístrate gratis"
         },
         "section2": {
-            "title": "Consigue empleo.<0 />Rápido e inteligente.",
+            "title": "Consigue empleo.<0 />Rápido e inteligentemente.",
             "subtitle": "Comienza a recibir coincidencias de empleo adaptadas a tu perfil único - No más adivinanzas. Comienza ahora, es gratis.",
             "button_signup": "Regístrate gratis",
-            "card1": "Consigue entrevistas más rápido – Nuestra IA te conecta con las oportunidades de trabajo correctas en días en lugar de semanas, para que puedas avanzar más rápido.",
-            "card2": "Coincidencias con trabajos en los que realmente prosperarás – La IA va más allá de las palabras clave, emparejándote con roles que se ajustan a tus habilidades, experiencia e incluso estilo de trabajo.",
-            "card3": "Menos tiempo buscando, más tiempo eligiendo – Con coincidencias instantáneas y precisas, te concentras en las mejores oportunidades en lugar de desplazarte interminablemente por los portales de empleo."
+            "card1": "Consigue entrevistas más rápido  Nuestra IA te conecta con las oportunidades de trabajo correctas en días en lugar de semanas, para que puedas avanzar más rápido.",
+            "card2": "Conecta con trabajos en los que realmente prosperarás  La IA va más allá de las palabras clave, conectandote con roles que se ajustan a tus habilidades, experiencia e incluso estilo de trabajo.",
+            "card3": "Menos tiempo buscando, más tiempo eligiendo  Con oportunidades instantáneas y precisas, te concentras en las mejores oportunidades en lugar de desplazarte interminablemente por los portales de empleo."
         },
         "section3": {
             "title_desktop": "<0>Nuestro agente IA Polaris</0><1 />¡trabaja para ti!",
             "title_mobile": "<0>Nuestra IA</0><1 /><2>agente Polaris</2><3 />está trabajando<4 /><5>para ti!</5>",
-            "card1_title": "El proceso es fluido y de apoyo",
+            "card1_title": "El proceso es fluido y asistido por IA",
             "card1_text": "Desde la postulación hasta la oferta, nuestra IA te asiste en cada paso, ayudándote a destacarte y avanzar sin adivinanzas.",
-            "card2_title": "Te hacen notar más rápido",
+            "card2_title": "Destacate más rápido",
             "card2_text": "Nuestro agente IA Polaris se asegura de que tu perfil se empareje instantáneamente con las oportunidades correctas, para que no tengas que esperar semanas para recibir respuesta."
         },
         "section4": {
             "headline": "Nosotros hacemos el trabajo pesado. <0 />Tú enfócate en <1>crecer.</1>",
-            "description": "Tu búsqueda de empleo en piloto automático - Nosotros coincidimos, aplicamos y te mantenemos actualizado en cada paso mientras tú te enfocas en tu crecimiento personal.",
+            "description": "Tu búsqueda de empleo en piloto automático - Nosotros te emparejamos, aplicamos y te mantenemos actualizado en cada paso mientras tú te enfocas en tu crecimiento personal.",
             "cta": "Regístrate gratis"
         },
         "section5": {
-            "title": "<0>Funciones Premium</0>",
-            "description": "Desbloquea herramientas avanzadas y disfruta de mayor visibilidad, conexiones más rápidas y más apoyo con las funciones premium totalmente transferibles de Magneto HR.",
+            "title": "<0>Servicios Premium</0>",
+            "description": "Desbloquea herramientas avanzadas y disfruta de mayor visibilidad, conexiones más rápidas y más apoyo con los servicios premium totalmente transferibles de Magneto HR.",
             "profile_booster": {
-                "title": "Impulsor de perfil:",
-                "description": "Profile Booster es tu ventaja competitiva en el mercado laboral actual. Lleva tu perfil a la cima de las búsquedas de reclutadores, asegurando que seas visto primero por empresas que buscan talento como tú. <0>Aprende más</0>"
+                "title": "Profile Booster:",
+                "description": "Profile Booster es tu ventaja competitiva en el mercado laboral actual. Lleva tu perfil a la cima de las búsquedas de reclutadores, asegurando que seas visto primero por empresas que buscan talento como tú. <0>Más informacion</0>"
             },
             "turbo_finder": {
                 "title": "Turbo Finder:",
-                "description": "Turbo Finder hace el trabajo, escaneando miles de vacantes, emparejándote con roles seleccionados que se ajustan a tus habilidades e incluso aplicando por ti. No más adivinanzas, no más empleos spam — solo vacantes reales y relevantes. <0>Aprende más</0>"
+                "description": "Turbo Finder hace el trabajo, escaneando miles de vacantes, emparejándote con roles seleccionados que se ajustan a tus habilidades e incluso aplicando por ti. No más adivinanzas, no más empleos spam  solo vacantes reales y relevantes. <0>Más informacion</0>"
             }
         },
         "section6": {
             "title": "Acceso a millones de <0>Oportunidades de Empleo</0> en EE.UU.",
-            "description": "Ya estés en EE.UU. o América Latina, Magneto HR te conecta con los empleos correctos en los lugares correctos. Accede a más de 25 millones de empresas en EE.UU. buscando talento remoto o presencial como tú — todo desde un solo panel.",
+            "description": "Si estas en EE.UU. o América Latina, Magneto HR te conecta con los empleos correctos en los lugares correctos. Accede a más de 25 millones de empresas en EE.UU. buscando talento remoto o presencial como tú  todo desde un solo panel.",
             "button": "Regístrate gratis"
         }
     },
@@ -49,31 +48,31 @@
         "section1": {
             "main_title": "Búsqueda de empleo impulsada por IA con <0 />resultados reales y sin suscripciones",
             "block1": {
-                "title": "Magneto HR da poder real a los buscadores de empleo — sin condiciones <0 />adjuntas.",
+                "title": "Magneto HR da poder real a los buscadores de empleo  sin ataduras. <0 />",
                 "description": "Obtén acceso de por vida a herramientas impulsadas por IA que te ayudan a encontrar mejores empleos, más rápido. Desde coincidencias automáticas hasta impulso de perfil, cada función está diseñada para darte una ventaja real en el competitivo mercado actual."
             },
             "block2": {
                 "title": "Sin suscripciones. Sin ataduras. Solo control total sobre tu carrera.",
-                "description": "¿Aún mejor? No es un alquiler. Es tuyo y totalmente transferible. Ya sea que busques activamente o tomes un descanso, tu acceso premium se mantiene flexible."
+                "description": "¿Aún mejor? No es un alquiler. Es tuyo y totalmente transferible. Ya sea que busques activamente o pares la busqueda, tu acceso premium se mantiene flexible."
             },
-            "highlight_title": "No más desplazamiento interminable,",
-            "highlight_subtitle": "deja que la IA encuentre <0 />el rol correcto para ti."
+            "highlight_title": "No más busqueda interminable,",
+            "highlight_subtitle": "deja que la IA encuentre <0 />el trabajo correcto para ti."
         },
         "section2": {
             "turbo_finder": {
                 "title": "Turbo Finder",
                 "subtitle": "Tu solución avanzada para mejores oportunidades de empleo.",
-                "description1": "Despídete de búsquedas manuales y de recorrer portales de empleo. Impulsado por un algoritmo IA avanzado, Turbo Finder hace el trabajo, escaneando miles de vacantes y emparejándote con roles seleccionados que se ajustan a tus habilidades. No más adivinanzas, no más empleos spam — solo vacantes reales y relevantes.",
-                "description2": "Diseñado para máxima eficiencia de tiempo, Turbo Finder y su función de aplicación automática te ayudan a ser contratado rápidamente aplicando a los mejores puestos por ti — todo mientras mantienes control sobre tus elecciones.",
+                "description1": "Despídete de búsquedas manuales y de recorrer portales de empleo. Impulsado por un algoritmo IA avanzado, Turbo Finder hace el trabajo, escaneando miles de vacantes y emparejándote con roles seleccionados que se ajustan a tus habilidades. No más adivinanzas, no más empleos spam  solo vacantes reales y relevantes.",
+                "description2": "Diseñado para máxima eficiencia de tiempo, Turbo Finder y su función de aplicación automática te ayudan a ser contratado rápidamente aplicando a los mejores puestos por ti  todo mientras mantienes control sobre tus elecciones.",
                 "what_you_get": "Lo que obtienes:",
                 "features": {
                     "curated_matches": {
-                        "title": "Coincidencias seleccionadas",
+                        "title": "Opportunidades personalizadas",
                         "description": "Obtén oportunidades de empleo adaptadas a tus habilidades, objetivos y experiencia."
                     },
                     "time_saving": {
                         "title": "Ahorro de tiempo",
-                        "description": "Evita desplazamiento interminable y reduce el tiempo para conseguir entrevistas."
+                        "description": "Evita l busqueda interminable y reduce el tiempo para conseguir entrevistas."
                     },
                     "auto_apply": {
                         "title": "Aplicación automática",
@@ -81,13 +80,13 @@
                     },
                     "smart_ai": {
                         "title": "IA inteligente",
-                        "description": "Deja que la tecnología avanzada haga el trabajo pesado y encuentre roles que realmente te encajen."
+                        "description": "Deja que la tecnología avanzada haga el trabajo pesado y encuentre roles que realmente encajen contigo."
                     }
                 },
                 "stand_out": {
                     "title1": "Esto hace que Turbo Finder se destaque:",
-                    "title2": "es una función premium transferible.",
-                    "description": "¿No estás buscando empleo ahora? No hay problema. Véndelo o transfierelo. Convierte tu acceso premium en valor real en lugar de dejarlo sin usar."
+                    "title2": "es un servicio premium transferible.",
+                    "description": "¿No estás buscando empleo ahora? No hay problema. Véndelo o transfierelo. Convierte tu servicio premium en valor real en lugar de dejarlo sin usar."
                 },
                 "banner": {
                     "description": "Búsqueda de empleo más inteligente, rápida y flexible.",
@@ -95,11 +94,11 @@
                 }
             },
             "profile_booster": {
-                "intro": "¿Quieres que tu perfil destaque?",
+                "intro": "¿Quieres que tu perfil se destaque?",
                 "title": "Conoce Profile Booster",
                 "subtitle": "Tu ventaja competitiva en el saturado mercado laboral actual.",
                 "description1": "Lleva tu perfil a la cima de las búsquedas de reclutadores, asegurando que seas visto primero por empresas que buscan talento como tú, ya sea que apliques diariamente o solo estés atento a la oportunidad correcta.",
-                "description2": "No más estar al fondo de la lista. Con mayor visibilidad y posición privilegiada, tu perfil destaca y atrae la atención de los mejores reclutadores.",
+                "description2": "No más estar al fondo de la lista. Con mayor visibilidad y posición privilegiada, tu perfil se destaca y atrae la atención de los mejores reclutadores.",
                 "what_you_get": "Lo que obtienes:",
                 "features": {
                     "top_placement": {
@@ -107,26 +106,82 @@
                         "description": "en paneles y búsquedas de reclutadores."
                     },
                     "weekly_insights": {
-                        "title": "Información semanal",
-                        "description": "mostrando vistas y engagement del perfil."
+                        "title": "Reporte Semanal",
+                        "description": "mostrando vistas y interacciones del perfil."
                     },
                     "faster_recruiter": {
                         "title": "Contacto más rápido con reclutadores",
                         "description": "y mayores oportunidades de entrevista."
                     },
                     "better_matches": {
-                        "title": "Mejores coincidencias",
-                        "description": "de empresas que están contratando activamente."
+                        "title": "Mejores emparejamientos",
+                        "description": "con empresas que están contratando activamente."
                     }
                 },
                 "flexibility": {
                     "title1": "Y no solo es poderoso, también es flexible.",
-                    "title2": "Profile Booster es una función premium transferible.",
-                    "description": "Esto significa que si no estás buscando empleo actualmente, puedes venderlo o transferirlo. No dejes que tu visibilidad se desperdicie — conviértela en valor real o guárdala para cuando estés listo."
+                    "title2": "Profile Booster es un servicio premium transferible.",
+                    "description": "Esto significa que si no estás buscando empleo actualmente, puedes venderlo o transferirlo. No dejes que tu visibilidad se desperdicie  conviértela en valor real o guárdala para cuando estés listo."
                 },
                 "banner": {
                     "description": "Asegúrate de que las personas correctas te vean, aumenta tu visibilidad con Profile Booster.",
                     "button": "Obtén Profile Booster ahora"
+                }
+            },
+            "one_year": {
+                "title1": "¿Sin tiempo para buscar empleo?",
+                "title2": "¡Te escuchamos!",
+                "highlighted_title": "Búsqueda laboral totalmente automatizada",
+                "intro": "Obtén 12 meses de búsqueda laboral inteligente con",
+                "main_title": "Full Feature de Un Año",
+                "subtitle": "Turbo Finder + Profile Booster",
+                "subtitle2": "el dúo definitivo para conseguir el trabajo adecuado más rápido.",
+                "description1": "Deja que la IA busque y postule automáticamente a los trabajos más compatibles, mientras tu perfil se eleva a la cima de las búsquedas de reclutadores para máxima visibilidad.",
+                "description2": "Con este paquete completo, tu búsqueda de empleo estará en piloto automático durante 12 meses completos, siendo la mejor opción para quienes desean ahorrar tiempo, ser vistos antes y acceder a mejores oportunidades con el poder de la IA y la visibilidad premium a su favor.",
+                "what_you_get": "Lo que obtienes:",
+                "features": {
+                    "unlimited_use": "Uso ilimitado de Turbo Finder y Profile Booster",
+                    "unlimited_auto_apply": "Auto aplicacion ilimitada a las mejores oportunidades",
+                    "weekly_insights": "Informes semanales para seguir tu progreso",
+                    "faster_responses": "Respuestas más rápidas de los equipos de contratación",
+                    "priority_visibility": "Visibilidad mejorada en búsquedas de reclutadores",
+                    "one_year_coverage": "Cobertura de 1 año para un poder de búsqueda prolongado"
+                },
+                "best_part": {
+                    "title1": "¿Y la mejor parte?",
+                    "title2": "Es un Servicio Premium Transferible.",
+                    "description": "lo que significa que puedes revenderla o transferirla si consigues tu trabajo ideal antes de tiempo."
+                },
+                "banner": {
+                    "description": "Un año de poder premium en la búsqueda laboral. Sin límites, solo oportunidades.",
+                    "button": "Compralo ahora"
+                }
+            },
+            "lifetime": {
+                "title1": "¿Qué tal suena ilimitado de por vida?",
+                "title2": "Sí, una sola inversión.",
+                "highlighted_title": "Beneficios de por vida.",
+                "intro": "Desbloquea acceso ilimitado de por vida con el conjunto de herramientas definitivo para la búsqueda laboral",
+                "main_title": "Full Feature De Por Vida",
+                "subtitle": "Combinando la precisión impulsada por IA de Turbo Finder con la visibilidad incomparable de Profile Booster.",
+                "description1": "Con este paquete completo, siempre estarás listo para tu próxima gran oportunidad, ya sea mañana o dentro de cinco años.",
+                "description2": "Desde aplicacione automáticas a los empleos ideales hasta obtener posicionamiento preferencial en las búsquedas de reclutadores sin fecha de expiración, este es el recurso ideal para quienes desean mantenerse por delante del resto para siempre.",
+                "what_you_get": "Lo que obtienes:",
+                "features": {
+                    "lifetime_matching": "Emaprejamientos impulsados por IA de por vida",
+                    "unlimited_features": "Turbo Finder + Profile Booster ilimitados de por vida",
+                    "no_fees": "Sin cuotas mensuales, sin renovaciones, sin suscripción",
+                    "time_saving": "Ahorro de tiempo ilimitado durante toda tu carrera",
+                    "ongoing_insights": "Información continua sobre el rendimiento para seguir tu progreso"
+                },
+                "good_news": {
+                    "title1": "¡Buenas noticias!",
+                    "title2": "es un Servicio Premium Transferible",
+                    "description": "Y como es acceso de por vida, no hay prisa: úsalo cuando lo necesites, o incluso transfiérelo, compártelo o véndelo si tu búsqueda laboral se desacelera."
+                },
+                "banner": {
+                    "description": "Invierte una vez. Mantente visible. Consigue empleo, en tus términos, para toda la vida.",
+                    "button": "Compralo ahora"
                 }
             }
         }

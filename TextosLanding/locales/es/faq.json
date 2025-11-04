@@ -1,58 +1,58 @@
 {
-  "faq": {
-    "button": {
-      "showMore": "Mostrar más",
-      "showLess": "Mostrar menos"
-    },
-    "questions": {
-      "1": {
-        "label": "¿Qué hace diferente a Magneto HR?",
-        "answer": "Nuestro portal de empleo está diseñado para conectar a buscadores de trabajo y empleadores de forma más rápida e inteligente. A diferencia de los portales tradicionales, Magneto HR utiliza coincidencias impulsadas por IA para garantizar resultados relevantes y de alta calidad en lugar de listados genéricos. Además, Magneto HR ofrece a las empresas acceso al mejor talento de Estados Unidos y Latinoamérica, así como oportunidades laborales de empresas estadounidenses para profesionales de ambas regiones."
-      },
-      "2": {
-        "label": "¿Magneto HR es gratuito?",
-        "answer": "¡Sí! Los buscadores de empleo pueden explorar y postularse a ofertas sin costo alguno. Los empleadores pueden publicar vacantes ilimitadas de forma gratuita y acceder a funciones premium para obtener mayor visibilidad y mejores coincidencias de candidatos."
-      },
-      "3": {
-        "label": "¿Cómo puedo postularme a un empleo?",
-        "answer": "Simplemente crea una cuenta gratuita, elabora un perfil asistido por IA y postúlate con un solo clic. Nuestra IA también te sugerirá empleos que se ajusten mejor a tus habilidades y preferencias."
-      },
-      "4": {
-        "label": "¿Puedo hacer seguimiento de mis postulaciones?",
-        "answer": "Por supuesto. Puedes rastrear el estado de tus postulaciones, invitaciones a entrevistas y más."
-      },
-      "5": {
-        "label": "¿Cómo reducen los costos y el tiempo de contratación las herramientas de IA de Magneto HR?",
-        "answer": "Nuestra IA automatiza tareas que consumen mucho tiempo, como la revisión de currículums, la clasificación de candidatos y la programación de entrevistas. Esto reduce el tiempo de contratación hasta en un 60% y disminuye significativamente los costos de reclutamiento."
-      },
-      "6": {
-        "label": "¿Necesito habilidades técnicas para usar estas herramientas de IA?",
-        "answer": "Para nada. Las herramientas están completamente integradas y son fáciles de usar. Los empleadores solo deben publicar una vacante, y la IA se encarga del filtrado y la preselección inicial."
-      },
-      "7": {
-        "label": "¿Son confiables las recomendaciones de IA?",
-        "answer": "Sí. Nuestros algoritmos están entrenados con datos reales de contratación para priorizar coincidencias de calidad basadas en habilidades, experiencia y compatibilidad cultural, no solo en palabras clave."
-      },
-      "8": {
-        "label": "¿Qué son los servicios premium transferibles?",
-        "answer": "Son funciones premium, como la herramienta automatizada de búsqueda de talento impulsada por IA, las publicaciones potenciadas por IA y la herramienta automatizada de postulación impulsada por IA, que puedes transferir o vender a otros. Esto convierte tu gasto en reclutamiento en una inversión, ya que estas herramientas incluso podrían aumentar su valor a medida que la plataforma crece."
-      },
-      "9": {
-        "label": "¿Mis datos están seguros?",
-        "answer": "Sí. Utilizamos cifrado de datos a nivel empresarial."
-      },
-      "10": {
-        "label": "¿Cuáles son los beneficios de poseer un nodo de Magneto HR?",
-        "answer": "Ser propietario de un nodo ofrece varios beneficios, entre ellos participar en la red descentralizada de la plataforma, respaldar la integridad y el procesamiento de datos, y obtener recompensas mediante la tokenómica de la plataforma (el 40% de todas las emisiones diarias se distribuye entre los operadores de nodos). Además, algunos propietarios de nodos reciben airdrops exclusivos de NFTs de servicios, acceso anticipado a información de proyectos y más. Los operadores de nodos desempeñan un papel fundamental en el éxito general del ecosistema de Magneto HR."
-      },
-      "11": {
-        "label": "¿Cuántos nodos hay disponibles?",
-        "answer": "Actualmente, solo hay 2,068 nodos disponibles."
-      },
-      "12": {
-        "label": "¿Dónde puedo encontrar más información sobre Magneto HR?",
-        "answer": "Para obtener información más detallada, incluido el litepaper, únete a nuestro <0>Discord</0> y a otros canales de la comunidad para conocer las últimas actualizaciones y anuncios."
-      }
+    "faq": {
+        "button": {
+            "showMore": "Mostrar más",
+            "showLess": "Mostrar menos"
+        },
+        "questions": {
+            "1": {
+                "label": "¿Qué hace diferente a Magneto HR?",
+                "answer": "Nuestro portal de empleo está diseñado para conectar a profesionales y empleadores de forma más rápida e inteligente. A diferencia de los portales tradicionales, Magneto HR logra emparejamientos impulsados por IA para garantizar resultados relevantes y de alta calidad en lugar de listados genéricos. Además, Magneto HR ofrece a las empresas acceso al mejor talento de Estados Unidos y Latinoamérica, así como oportunidades laborales de empresas estadounidenses para profesionales de ambas regiones."
+            },
+            "2": {
+                "label": "¿Magneto HR es gratis?",
+                "answer": "¡Sí! Los profesionales pueden explorar y aplicar a ofertas sin costo alguno. Los empleadores pueden publicar vacantes ilimitadas de forma gratuita y acceder a funciones premium para obtener mayor visibilidad y mejores emparejamientos de candidatos."
+            },
+            "3": {
+                "label": "¿Cómo puedo aplicar a un empleo?",
+                "answer": "Simplemente crea una cuenta gratuita, completa tu perfil asistido por IA y aplica con un solo clic. Nuestra IA también te sugerirá empleos que se ajusten mejor a tus habilidades y preferencias."
+            },
+            "4": {
+                "label": "¿Puedo darle seguimiento a mis aplicaciones?",
+                "answer": "Por supuesto. Puedes rastrear el estado de tus aplicaciones, invitaciones a entrevistas y más."
+            },
+            "5": {
+                "label": "¿Cómo reducen los costos y el tiempo de contratación las herramientas de IA de Magneto HR?",
+                "answer": "Nuestra IA automatiza tareas que consumen mucho tiempo, como la revisión de currículums, la clasificación de candidatos y la programación de entrevistas. Esto reduce el tiempo de contratación hasta en un 60% y disminuye significativamente los costos de reclutamiento."
+            },
+            "6": {
+                "label": "¿Necesito habilidades técnicas para usar estas herramientas de IA?",
+                "answer": "Para nada. Las herramientas están completamente integradas y son fáciles de usar. Los empleadores solo deben publicar una vacante, y la IA se encarga del filtrado y la preselección inicial."
+            },
+            "7": {
+                "label": "¿Son confiables las recomendaciones de IA?",
+                "answer": "Sí. Nuestros algoritmos están entrenados con datos reales de contratación para priorizar emparejamientos de calidad basadas en habilidades, experiencia y compatibilidad cultural, no solo en palabras clave."
+            },
+            "8": {
+                "label": "¿Qué son los servicios premium transferibles?",
+                "answer": "Son servicios premium, como la herramienta automatizada de búsqueda de talento impulsada por IA, las publicaciones potenciadas por IA y la herramienta automatizada de aplicacion impulsada por IA, que puedes transferir o vender a otros. Esto convierte tu gasto de reclutamiento en una inversión, ya que estas herramientas incluso podrían aumentar su valor a medida que la plataforma crece."
+            },
+            "9": {
+                "label": "¿Mis datos están seguros?",
+                "answer": "Sí. Utilizamos cifrado de datos alta seguridad."
+            },
+            "10": {
+                "label": "¿Cuáles son los beneficios de poseer un nodo de Magneto HR?",
+                "answer": "Ser propietario de un nodo ofrece varios beneficios, entre ellos participar en la red descentralizada de la plataforma, respaldar la integridad y el procesamiento de datos, y obtener recompensas mediante la tokenómica de la plataforma (el 40% de todas las emisiones diarias se distribuye entre los operadores de nodos). Además, algunos propietarios de nodos reciben airdrops exclusivos de NFTs de servicios, acceso anticipado a información de proyectos y más. Los operadores de nodos desempeñan un papel fundamental en el éxito general del ecosistema de Magneto HR."
+            },
+            "11": {
+                "label": "¿Cuántos nodos hay disponibles?",
+                "answer": "Actualmente, solo hay 2,068 nodos disponibles."
+            },
+            "12": {
+                "label": "¿Dónde puedo encontrar más información sobre Magneto HR?",
+                "answer": "Para obtener información más detallada, incluido el litepaper, únete a nuestro <0>Discord</0> y a otros canales de la comunidad para conocer las últimas actualizaciones y anuncios."
+            }
+        }
     }
-  }
 }
