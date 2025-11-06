@@ -1,0 +1,243 @@
+{
+  "premium_features_page": {
+    "button_available_premium_features": "Funciones Premium Disponibles",
+    "button_my_premium_features": "Mis Funciones Premium",
+    "title_available_transferable_premium_features": "Funciones Premium Transferibles Disponibles",
+    "title_your_transferable_premium_features": "Tus Funciones Premium Transferibles",
+    "paragraph_learn_more_and_buy": "Aprende más y compra",
+    "paragraph_manage_your_premium_features": "Gestiona tus funciones premium"
+  },
+  
+  "nft_vertical_cards": {
+    "flag_label_turbo": "Spark",
+    "flag_label_booster": "Pulse",
+    "flag_label_yearly": "Elección del Reclutador Pro",
+    "flag_label_lifetime": "Elección del Reclutador Pro",
+    "coming_soon": "Próximamente",
+    "discount_label": "% de descuento",
+    "price_label": "USD $",
+    "pay_with_crypto": "Pagar con Cripto.",
+    "discount_magnet": "40% de descuento disponible en $MAGNET.",
+    "button_view_details": "Ver detalles",
+    "no_nfts_available_message": "No hay tipos de NFT disponibles en este momento. Compra tu primer NFT."
+  },
+
+  "feature_data_company": {
+    "booster": [
+      "Visibilidad Mejorada de Empleos: Tus publicaciones aparecen en la parte superior de los paneles de candidatos, asegurando que más solicitantes calificados vean tus vacantes primero.",
+      "Sin Fecha de Caducidad: Usa tus impulsos en cualquier momento — nunca caducan, dándote la máxima flexibilidad y control.",
+      "Informes de Rendimiento de Colocación Superior: Informes semanales muestran qué candidatos vieron tus publicaciones entre los listados principales, manteniéndote informado y estratégico.",
+      "Función Premium Transferible: ¿No estás contratando inmediatamente? Regala o revende tus impulsos no utilizados — convirtiendo Post Booster en un activo valioso y flexible."
+    ],
+    "turbo": [
+      "Emparejamiento de Candidatos con IA: Obtén instantáneamente candidatos perfectamente emparejados para hasta 3 publicaciones de empleo, ahorrando horas de revisión de currículums.",
+      "Sin Fecha de Caducidad: Usa tus publicaciones cuando las necesites — Turbo Recruiter nunca caduca, dándote la máxima flexibilidad.",
+      "Informes Inteligentes y Basados en Datos: Recibe resúmenes detallados de los candidatos con mejor emparejamiento para que estés informado y tomes decisiones de contratación más rápidas e inteligentes.",
+      "Función Premium Transferible: ¿No estás contratando ahora mismo? Transfiere o revende tus publicaciones de Turbo Recruiter — convirtiendo tu compra en un activo valioso y flexible."
+    ],
+    "yearly": [
+      "Herramientas Premium Todo Incluido: Turbo Recruiter, Post Booster, publicaciones de empleo ilimitadas y análisis de rendimiento detallados — ideal para empresas de dotación de personal y grandes corporaciones.",
+      "Acceso de un Año Completo: Disfruta de 365 días de uso ininterrumpido — herramientas premium ilimitadas al alcance de tu equipo durante un año completo.",
+      "Informes Semanales Basados en Datos: Recibe información continua sobre emparejamientos de candidatos, rendimiento de publicaciones y tendencias de contratación para optimizar tu estrategia.",
+      "Transferible y Flexible: Si tu contratación se ralentiza, transfiere o revende cualquier tiempo restante — convirtiendo tu pase anual en un activo valioso y adaptable."
+    ],
+    "lifetime": [
+      "Todas las Funciones Premium Incluidas: Turbo Recruiter, Post Booster, publicaciones de empleo ilimitadas y análisis de rendimiento detallados — ideal para empresas de dotación de personal y grandes corporaciones.",
+      "Acceso Vitalicio Ilimitado: Un desbloqueo único te da acceso permanente a todas las herramientas premium de contratación — sin suscripciones, renovaciones o restricciones.",
+      "Control Total y Flexibilidad: Contrata en cualquier momento, escala libremente y toma decisiones más inteligentes y basadas en datos sin preocuparte por las renovaciones.",
+      "Activo Transferible y Valioso: Completamente transferible, para que puedas revenderlo o transferirlo si las necesidades de tu empresa cambian — convirtiéndolo en una inversión duradera."
+    ]
+  },
+
+  "featured_data_jobseeker": {
+    "booster": [
+      "Postúlate Mientras Duermes: Se postula automáticamente a hasta 30 trabajos donde tienes un 80%+ de coincidencia — para que te adelantes sin levantar un dedo.",
+      "Acceso Vitalicio: Tu Turbo Finder nunca caduca — úsalo en cualquier momento y mantén activa tu estrategia de búsqueda de empleo a largo plazo.",
+      "Oportunidades Prioritarias: La clasificación inteligente de trabajos organiza las vacantes de mayor a menor probabilidad de aceptación, ayudándote a concentrarte en los roles con las mejores posibilidades.",
+      "Valor Transferible: Una vez que consigas el trabajo de tus sueños, transfiere o revende Turbo Finder — convirtiendo tu compra en una inversión valiosa y compartible."
+    ],
+    "turbo": [
+      "Postúlate Mientras Duermes: Se postula automáticamente a hasta 30 trabajos donde tienes un 80%+ de coincidencia — para que te adelantes sin levantar un dedo.",
+      "Acceso Vitalicio: Tu Turbo Finder nunca caduca — úsalo en cualquier momento y mantén activa tu estrategia de búsqueda de empleo a largo plazo.",
+      "Oportunidades Prioritarias: La clasificación inteligente de trabajos organiza las vacantes de mayor a menor probabilidad de aceptación, ayudándote a concentrarte en los roles con las mejores posibilidades.",
+      "Valor Transferible: Una vez que consigas el trabajo de tus sueños, transfiere o revende Turbo Finder — convirtiendo tu compra en una inversión valiosa y compartible."
+    ],
+    "yearly": [
+      "Postúlate Mientras Duermes: Se postula automáticamente a hasta 30 trabajos donde tienes un 80%+ de coincidencia — para que te adelantes sin levantar un dedo.",
+      "Acceso Vitalicio: Tu Turbo Finder nunca caduca — úsalo en cualquier momento y mantén activa tu estrategia de búsqueda de empleo a largo plazo.",
+      "Oportunidades Prioritarias: La clasificación inteligente de trabajos organiza las vacantes de mayor a menor probabilidad de aceptación, ayudándote a concentrarte en los roles con las mejores posibilidades.",
+      "Valor Transferible: Una vez que consigas el trabajo de tus sueños, transfiere o revende Turbo Finder — convirtiendo tu compra en una inversión valiosa y compartible."
+    ],
+    "lifetime": [
+      "Postúlate Mientras Duermes: Se postula automáticamente a hasta 30 trabajos donde tienes un 80%+ de coincidencia — para que te adelantes sin levantar un dedo.",
+      "Acceso Vitalicio: Tu Turbo Finder nunca caduca — úsalo en cualquier momento y mantén activa tu estrategia de búsqueda de empleo a largo plazo.",
+      "Oportunidades Prioritarias: La clasificación inteligente de trabajos organiza las vacantes de mayor a menor probabilidad de aceptación, ayudándote a concentrarte en los roles con las mejores posibilidades.",
+      "Valor Transferible: Una vez que consigas el trabajo de tus sueños, transfiere o revende Turbo Finder — convirtiendo tu compra en una inversión valioso y compartible."
+    ]
+  },
+  
+  "nft_detail_page": {
+    "button_back": "Atrás",
+    "title_available_transferable_premium_features": "Funciones Premium Transferibles Disponibles",
+    "paragraph_learn_more_and_buy": "Aprende más y compra",
+    "feature_title_1": "Auto-postulaciones",
+    "feature_description_1": "30",
+    "feature_title_2": "Caducidad",
+    "feature_description_2": "Sin caducidad",
+    "feature_title_3": "Propiedad",
+    "feature_description_3": "Función completamente transferible",
+    "description_title_1": "Coincidencias Curadas",
+    "description_paragraph_1": "Deja de adivinar — comienza a emparejar. Nuestro agente de IA Polaris encuentra trabajos hechos para ti, al instante. Cada coincidencia está adaptada a tus habilidades, experiencia y metas — para que puedas saltarte el ruido y concentrarte solo en oportunidades que realmente encajan.",
+    "description_subparagraph_1": "¿Quieres saber más? ¡Contáctanos hoy!",
+    "description_title_2": "Ahorro de Tiempo",
+    "description_paragraph_2": "Di adiós al desplazamiento sin fin. Turbo Finder hace la búsqueda, clasificación y ordenación por ti, reduciendo tu tiempo de búsqueda de empleo hasta en un 80%. Pasa menos tiempo postulándote — y más tiempo diciendo '¡conseguí el trabajo!'",
+    "description_subparagraph_2": "¿Quieres saber más? ¡Contáctanos hoy!",
+    "description_title_3": "Auto-Postulación",
+    "description_paragraph_3": "Sé el primero en la fila para el trabajo de tus sueños. La función Auto-Postulación de Turbo Finder envía instantáneamente solicitudes a puestos donde tienes un 80%+ de coincidencia — asegurando que nunca pierdas una gran oportunidad y siempre te mantengas por delante de la competencia.",
+    "description_subparagraph_3": "¿Quieres saber más? ¡Contáctanos hoy!",
+    "description_title_4": "Informes Diarios",
+    "description_paragraph_4": "Tu búsqueda de empleo funciona en piloto automático — pero siempre tienes el control. Recibe actualizaciones diarias sobre nuevas coincidencias, solicitudes y progreso de entrevistas para que puedas rastrear tu éxito y hacer que cada movimiento cuente.",
+    "description_subparagraph_4": "¿Quieres saber más? ¡Contáctanos hoy!",
+    "description_title_5": "Servicio Premium Transferible",
+    "description_paragraph_5": "¿No lo necesitas ahora? No hay problema. Véndelo, regálalo o transfiérelo en cualquier momento. Tu acceso premium tiene un valor real — porque las inversiones inteligentes deberían devolverte el dinero, incluso cuando no estés buscando trabajo.",
+    "description_subparagraph_5": "¿Quieres saber más? ¡Contáctanos hoy!",
+    "description_title_6": "Toma el Control de Tu Carrera Hoy",
+    "description_paragraph_6": "Únete a los profesionales que encontraron trabajos 3 veces más rápido, no esperes. No pierdas oportunidades. Turbo Finder te brinda una velocidad, precisión y confianza inigualables en tu búsqueda de empleo — todo en una plataforma poderosa.",
+    
+    "buy_nft": {
+      "title_1": "Comprar Función Premium",
+      "button_1": "Tarjeta de Crédito",
+      "button_2": "Cripto"
+    },
+    
+    "buy_by_credit_card": {
+      "label_1": "Precio",
+      "label_2": "Cantidad",
+      "label_3": "Subtotal",
+      "button_1": "COMPRAR AHORA",
+      "toast_title_1": "Error al Obtener el Tipo de NFT",
+      "toast_description_1": "El tipo de NFT que intentas comprar no existe o no está disponible."
+    },
+
+    "buy_nft_by_crypto": {
+      "label_1": "Detalle de pago",
+      "label_2": "Precio",
+      "label_3": "Cantidad",
+      "label_4": "Subtotal",
+      "label_5": "ETH",
+      "button_1": "COMPRAR AHORA",
+      "toast_title_1": "Error",
+      "toast_description_1": {
+        "option_1": "No tienes suficiente ETH para cubrir el gas de la transacción. Recarga un poco e inténtalo de nuevo.",
+        "option_2": "Tu saldo de MAGNET no es suficiente para completar esta compra. ¡Sigue brillando — pronto será tuyo!",
+        "option_3": "No tienes suficiente ETH para cubrir el precio total más el gas. ¡Solo un pequeño impulso y lo lograrás!"
+      },
+      "validation": {
+        "required_payment_method": "Por favor selecciona un método de pago",
+        "required_quantity": "La cantidad es requerida",
+        "min_quantity": "Debes comprar al menos 1 NFT"
+      }
+    },
+
+    "payment_detail_select": {
+      "placeholder_1": "Seleccionar Moneda",
+      "option_1": "Ethereum",
+      "option_2": "MAGNET"
+    },
+    
+    "buy_summary": {
+      "title_1": "resumen",
+      "title_2": "Detalle de pago",
+      "option_1": "MAGNET",
+      "option_2": "Ethereum",
+      "label_1": "Precio",
+      "label_2": "Cantidad",
+      "label_3": "Tarifa de Gas",
+      "label_4": "Total",
+      "label_5": "Detalle de pago",
+      "label_temporary_cardSaving": "<0>****</0>",
+      "text_1": "Sin información",
+      "placeholder_1": "Selecciona o ingresa un método de pago",
+      "action_1": "Agregar una nueva tarjeta",
+      "label_6": "Ingresar información de la tarjeta",
+      "placeholder_2": "Nombre",
+      "placeholder_3": "XXXX XXXX XXXX XXXX",
+      "placeholder_4": "MM/AA",
+      "placeholder_5": "CVC",
+      "title_3": "Agregar Método de Pago",
+      "link_text_1": "Términos y Condiciones",
+      "text_2": "Estoy de acuerdo con los",
+      "button_1": "Cancelar",
+      "button_2": "COMPLETAR COMPRA",
+      "toast_error_1_title": "Error al Obtener el Tipo de NFT",
+      "toast_error_1_description": "El tipo de NFT que intentas comprar no existe o no está disponible.",
+      "toast_error_2_title": "Sin Proveedor Web3",
+      "toast_error_2_description": "El proveedor Web3 no está disponible. Por favor conecta tu wallet.",
+      "toast_error_3_title": "Formulario Incompleto",
+      "toast_error_3_description": "Por favor asegúrate de que todos los campos obligatorios estén completados antes de continuar.",
+      "toast_error_4_title": "Error procesando la compra",
+      "toast_error_4_description": "Hubo un problema al recuperar algunos datos. Por favor inténtalo de nuevo.",
+      "toast_error_5_title": "Error procesando la compra",
+      "toast_error_5_description": "Saldo insuficiente para completar la transacción. Asegúrate de tener fondos suficientes para cubrir el monto y las tarifas.",
+      "toast_error_6_title": "Procesando Compra",
+      "toast_error_6_description": "Error",
+      "toast_error_7_title": "Error Procesando Compra",
+      "toast_error_7_description": "Algo salió mal al confirmar tu compra. Por favor revisa tu NFT o historial de compras para verificar si se completó."
+    },
+
+    "global_loader": {
+      "text_1": "Procesando tu compra — por favor espera."
+    },
+
+    "status_order_dialog": {
+      "dialog_title_1": "Orden Completada",
+      "label_1": "Tiempo Restante",
+      "text_1": "365 días",
+      "text_2": "Ilimitado",
+      "label_2": "Auto-Postulaciones Restantes",
+      "label_3": "Publicaciones Restantes",
+      "button_1": "Ok"
+    }
+  },
+  
+  "card_details": {
+    "loading": "Cargando...",
+    "not_found": "Datos no encontrados",
+    "status": {
+      "active": "Activo",
+      "expired": "Expirado"
+    },
+    "about_nft": "Acerca del NFT:",
+    "contract_address": "Dirección del Contrato",
+    "acquired_on": "Adquirido el",
+    "expiration_date": "Fecha de Expiración",
+    "time_left": "Tiempo Restante",
+    "post_left": "Publicaciones Restantes",
+    "unlimited": "Ilimitado",
+    "not_activated": "Este NFT aún no ha sido activado.",
+    "active_until": "Este NFT está activo hasta {{formattedExpiration}}"
+  },
+
+  "nft_horizontal_cards": {
+    "card": {
+      "activate": "Activar",
+      "assign": "Asignar",
+      "acquired_on": "Adquirido el",
+      "time_left": "Tiempo Restante",
+      "days_365": "365 Días",
+      "unlimited": "Ilimitado",
+      "post_left": "Publicaciones Restantes",
+      "placements_left": "Colocaciones Restantes",
+      "auto_applies_left": "Auto-Postulaciones Restantes",
+      "no_info": "sin información",
+      "view_and_activate": "Ver y Activar",
+      "view_and_assign": "Ver y Asignar"
+    },
+    "empty_state": {
+      "no_nfts": "No hay tipos de NFT disponibles en este momento. Compra tu primer NFT."
+    },
+    "loading_state": {
+      "loading_cards": "Cargando tarjetas de NFT..."
+    }
+  }
+}
