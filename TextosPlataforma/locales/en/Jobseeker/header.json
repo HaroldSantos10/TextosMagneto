@@ -1,0 +1,27 @@
+{
+  "header_component": {
+    "notification_badge": "{totalUnread}",
+    "no_new_notification": "No new notification",
+    "wallet_button": "Wallet",
+    "wallet_address": "Wallet Address",
+    "magnet_token": "$MAGNET",
+    "transferable_assets": "Transferable Assets",
+    "profile_name_placeholder": "Usuario",
+    "profile_email_placeholder": "usuario@email.com",
+    "menu_profile": "Profile",
+    "menu_notifications": "Notifications",
+    "menu_account_settings": "Account settings",
+    "menu_billing_invoices": "Billing and Invoices",
+    "menu_wallet": "Wallet",
+    "menu_company_profile": "Company Profile",
+    "menu_ambassador_stats_tooltip": "View your ambassador statistics",
+    "menu_ambassador_stats": "Ambassador Stats",
+    "menu_contact_us": "Contact Us",
+    "menu_sign_out": "Sign out",
+    "dialog_sign_out_title": "Sign Out",
+    "dialog_sign_out_confirm_title": "Are you sure you want to sign out?",
+    "dialog_sign_out_paragraph": "You are about to sign out of your account. Make sure you have saved any changes before proceeding.",
+    "button_cancel": "Cancel",
+    "button_sign_out": "Sign Out"
+  }
+}
