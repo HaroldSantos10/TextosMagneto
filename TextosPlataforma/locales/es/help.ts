@@ -1,4 +1,4 @@
-export const opntionsHelp = [
+export const opntionsHelpES = [
   {
     id: '1',
     title: 'Comenzando',
