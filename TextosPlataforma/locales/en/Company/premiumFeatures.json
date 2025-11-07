@@ -246,12 +246,11 @@
       "section_description_6": "One purchase. Unlimited access. Endless top-tier talent. Supercharge your recruiting with Turbo Recruiter + Post Booster — for life. No subscriptions. No feature limits. Just unmatched control and results, forever.",
       "section_subdescription_6": "Claim Your Lifetime Full Feature Now — Build Your Dream Team Without Limits!"
     }
-  
-
-
 
   },
 
+
+  
 
     "buy_nft": {
         "title_1": "Buy Premium Feature",
@@ -296,7 +295,7 @@
     },
     
     "buy_summary": {
-        "title_1": "sudmmary",
+        "title_1": "summary",
         "title_2": "Payment detail",
         "option_1": "MAGNET",
         "option_2": "Ethereum",
@@ -388,13 +387,252 @@
     "loading_state": {
       "loading_cards": "Loading NFT cards..."
     }
-  }
+  },
+
+    "featureCompanyData": {
+    "booster": {
+      "title": "Post Booster Description",
+      "description": "Stand out. Get noticed first.",
+      "features": {
+        "feature_1": "3 Boosted Job Posts: Highlight and prioritize up to 3 job listings for maximum exposure.",
+        "feature_2": "No Expiration Date: Use your boosts anytime — they never expire.",
+        "feature_3": "Top Placement Visibility: Your boosted posts are displayed at the top of relevant candidate searches, helping you reach the right talent before your competitors.",
+        "feature_4": "Weekly Performance Reports: Stay informed with visibility summaries showing which candidates saw your post among the top listings."
+      },
+      "info": "Congratulations on getting Post Booster — your visibility accelerator for better hiring results.",
+      "info2": "With Post Booster, your job listings rise to the top — literally. This feature ensures your posts appear first in candidate dashboards, attracting more qualified applicants faster. Perfect for filling competitive roles or expanding your talent pipeline, it gives your listings the attention they deserve.",
+      "example": "Example: You post a customer service role — and instead of waiting days for the right fit, you get strong applicants within hours thanks to top placement and increased visibility.",
+      "additionalInfo": "Fully transferable, which means if your hiring plans shift, you can gift or sell your unused boosts. More flexibility, better results."
+    },
+    "turbo": {
+      "title": "Turbo Recruiter Description",
+      "description": "Smarter matches. Faster hires.",
+      "features": {
+        "feature_1": "3 Job Posts Included: Get AI-powered candidate matching for up to 3 roles.",
+        "feature_2": "No Expiration Date: Use your posts whenever you're ready — Turbo Recruiter never expires.",
+        "feature_3": "AI-Driven Candidate Search: Our algorithm scans and ranks candidates based on compatibility, experience, and role fit — so you can focus on interviewing, not filtering.",
+        "feature_4": "Smart Reports: Receive detailed summaries of top-matching candidates for every post, keeping you informed and in control throughout your hiring process."
+      },
+      "info": "Congratulations on getting Turbo Recruiter — your intelligent hiring assistant.",
+      "info2": "Turbo Recruiter revolutionizes the way you find talent by using advanced AI to deliver perfectly matched candidates for your open roles. Say goodbye to endless resume reviews and hello to precision hiring that saves you time, effort, and frustration.",
+      "example": "Example: You're hiring for a mid-level developer. Instead of reviewing 100+ random applications, you instantly receive a shortlist of top-aligned profiles — ready to review and contact.",
+      "additionalInfo": "It's also a Transferable Premium Feature, so if you're not actively hiring, you can pass it on or sell it — turning it into a smart asset with real value."
+    },
+    "yearly": {
+      "title": "Yearly Full Feature Description",
+      "description": "Full power. For a full year.",
+      "features": {
+        "feature_1": "365 Days of Full Access: Enjoy a full year of uninterrupted use from the date of purchase.",
+        "feature_2": "All Premium Features Included: Turbo Recruiter, Post Booster, unlimited job posts, and detailed performance analytics.",
+        "feature_3": "Weekly Reports: Stay informed with ongoing insights on candidate matches, post performance, and overall hiring trends.",
+        "feature_4": "Data-Driven Optimization: Adjust your hiring strategy with confidence using transparent, real-time results."
+      },
+      "info": "Congratulations on unlocking the Yearly Full Feature — your all-access pass to smarter, faster, and more efficient hiring.",
+      "info2": "With this yearly pass, your team gets unrestricted access to all premium tools — including Turbo Recruiter, Post Booster, and unlimited job postings — giving you everything you need to scale your hiring process with speed and precision.",
+      "example": "Example: You're scaling a tech team across multiple roles. With 12 months of access, you can apply all premium features freely, receive top talent faster, and make data-backed hiring decisions without restrictions.",
+      "additionalInfo": "And if your hiring slows down, this feature is fully transferable — giving you the option to pass it along or sell the remaining time. It's a smart option for companies with seasonal or temporary hiring needs."
+    },
+    "lifetime": {
+      "title": "Lifetime Full Feature Description",
+      "description": "Hire without limits. Forever.",
+      "info": "Congratulations on unlocking the Lifetime Full Feature — your permanent key to effortless, powerful, and unlimited hiring.",
+      "info2": "This one-time upgrade gives you complete, lifetime access to all premium recruitment tools — including Turbo Recruiter, Post Booster, unlimited job posts, and ongoing performance reports. No subscriptions, no renewals, and no restrictions — just full hiring power, forever.",
+      "features": {
+        "feature_1": "No Expiration Date: Enjoy unlimited access with no time limits — ever.",
+        "feature_2": "All Premium Features Included: Turbo Recruiter, Post Booster, unlimited job postings, and detailed performance analytics.",
+        "feature_3": "Full Control and Flexibility: Hire anytime, scale freely, and make smarter, data-driven decisions without worrying about renewals."
+      },
+      "example": "Example: Your company recruits regularly throughout the year. With lifetime access, you save on recurring costs and gain a consistent, powerful edge in every hiring cycle.",
+      "additionalInfo": "Plus, it's fully transferable, so if your needs ever change, you can pass it on or sell it — making this a smart investment in your long-term company growth and stability."
+    }
+  },
+  "featureJobseekerData": {
+    "booster": {
+      "title": "Post Booster Description",
+      "description": "Stand out. Get noticed first.",
+      "features": {
+        "feature_1": "Good for 30 top-placements.",
+        "feature_2": "No expiration date."
+      },
+      "info": "Post Booster increases the visibility of your job listings, placing them at the top of candidate dashboards and maximizing engagement. Whether you're filling high-demand roles or building a talent pipeline, it ensures more qualified candidates see your posts first.",
+      "info2": "You'll also receive weekly reports showing for which candidates were you among the top positions, so you stay informed on your visibility and reach.",
+      "example": "Example: You post a customer service role — and instead of waiting days for the right fit, you get strong applicants within hours thanks to top placement and increased visibility.",
+      "additionalInfo": "Fully transferable, which means if your hiring plans shift, you can gift or sell your unused boosts. More flexibility, better results."
+    },
+    "turbo": {
+      "title": "Turbo Recruiter Description",
+      "description": "Find jobs faster. Apply smarter.",
+      "features": {
+        "feature_1": "30 Auto-Applications: Turbo Finder automatically applies to up to 30 jobs where you're an 80% or higher match.",
+        "feature_2": "No Expiration Date: Use it whenever you're ready — your Turbo Finder never expires.",
+        "feature_3": "Smart Job Ranking: See opportunities organized from highest to lowest acceptance probability, helping you focus where it matters most.",
+        "feature_4": "Weekly Reports: Stay informed with curated updates on new openings that fit your profile — plus which ones Turbo Finder has already applied to on your behalf."
+      },
+      "info": "Congratulations on getting Turbo Finder — your personal AI-powered job search assistant.",
+      "info2": "With Turbo Finder, your job hunt just became effortless and strategic. Designed to save you time and maximize your chances, this tool does more than find opportunities — it acts on them.",
+      "example": "You'll receive weekly reports with the job opportunities Turbo Finder found for you—keeping you informed and in control. Example: Imagine waking up to 5 new openings tailored to your profile—and 2 of them already applied for while you slept. That's Turbo Finder at work.",
+      "additionalInfo": "And since it's a Transferable Premium Feature, if you land your ideal job early, you can pass it on or sell it to someone who needs it—turning it into a smart investment."
+    },
+    "yearly": {
+      "title": "Yearly Full Feature Description",
+      "description": "All the premium tools. For one full year.",
+      "features": {
+        "feature_1": "Good for 365 days from purchase.",
+        "feature_2": "Access to all premium features."
+      },
+      "info": "This pass gives you 12 months of unlimited access to our best features — Turbo Finder, Profile Booster, automatic job applications, and detailed reporting to keep you updated on your progress — to take your job search to the next level.",
+      "info2": "",
+      "example": "Example: You're on a mission to land a remote tech job. With a full year of access, you get automatic matching, boosted visibility, automated applications and time-saving tools all working together.",
+      "additionalInfo": "Finished your search early? This access is transferable — so you can gift or sell the remaining time to someone else who needs a boost. It's power, with flexibility."
+    },
+    "lifetime": {
+      "title": "Lifetime Full Feature Description",
+      "description": "One-time unlock. Lifetime support.",
+      "features": {
+        "feature_1": "No expiration date (no expiration).",
+        "feature_2": "Access to all premium features."
+      },
+      "info": "For those who want complete freedom, this is the ultimate tool. You get unlimited access — forever — to all of our platform's premium features, with no restrictions or time limits. Whether you're changing industries, leveling up every few years, or supporting someone else's search, this is a long-term investment in your career with full feature power for life.",
+      "info2": "",
+      "example": "Example: You're transitioning to tech now, but planning a move abroad in 3 years — this unlock supports you every step of the way, no matter how often your goals shift.",
+      "additionalInfo": "Plus, it's fully transferable, giving it long-term value. If you ever decide to pass it on, you can — turning your one-time purchase into a powerful investment."
+    }
+  },
+  "descriptionCompanyNft": {
+    "booster": {
+      "description_1": "Boosted Job Visibility: Your posts appear at the top of candidate dashboards, ensuring more qualified applicants see your openings first.",
+      "description_2": "No Expiration Date: Use your boosts anytime — they never expire, giving you maximum flexibility and control.",
+      "description_3": "Top Placement Performance Reports: Weekly insights show which candidates saw your posts among the top listings, keeping you informed and strategic.",
+      "description_4": "Transferable Premium Feature: Not hiring immediately? Gift or resell your unused boosts — turning Post Booster into a valuable, flexible asset."
+    },
+    "turbo": {
+      "description_1": "AI-Powered Candidate Matching: Instantly get perfectly matched candidates for up to 3 job posts, saving hours of resume screening.",
+      "description_2": "No Expiration Date: Use your posts whenever you need — Turbo Recruiter never expires, giving you ultimate flexibility.",
+      "description_3": "Smart, Data-Driven Reports: Receive detailed summaries of top-matching candidates so you stay informed and make faster, smarter hiring decisions.",
+      "description_4": "Transferable Premium Feature: Not hiring right now? Transfer or resell your Turbo Recruiter posts — turning your purchase into a valuable, flexible asset."
+    },
+    "yearly": {
+      "description_1": "All-Inclusive Premium Tools: Turbo Recruiter, Post Booster, unlimited job posts, and detailed performance analytics — ideal for staffing companies and large corporations.",
+      "description_2": "Full-Year Access: Enjoy 365 days of uninterrupted use — unlimited premium tools at your team's fingertips for a full year.",
+      "description_3": "Weekly Data-Driven Reports: Receive ongoing insights on candidate matches, post performance, and hiring trends to optimize your strategy.",
+      "description_4": "Transferable & Flexible: If your hiring slows down, transfer or resell any remaining time — turning your yearly pass into a valuable, adaptable asset."
+    },
+    "lifetime": {
+      "description_1": "All Premium Features Included: Turbo Recruiter, Post Booster, unlimited job posts, and detailed performance analytics — ideal for staffing companies and large corporations.",
+      "description_2": "Unlimited Lifetime Access: One-time unlock gives you permanent access to all premium hiring tools — no subscriptions, renewals, or restrictions.",
+      "description_3": "Total Control & Flexibility: Hire anytime, scale freely, and make smarter, data-driven decisions without worrying about renewals.",
+      "description_4": "Transferable & Valuable Asset: Fully transferable, so you can resell or pass it on if your company's needs change — turning it into a lasting investment."
+    }
+  },
+  "descriptionJobseekerNft": {
+    "booster": {
+      "description_1": "Apply While You Sleep: Automatically applies to up to 30 jobs where you're an 80%+ match — so you get ahead without lifting a finger.",
+      "description_2": "Lifetime Access: Your Turbo Finder never expires — use it anytime and keep your job search strategy active for the long haul.",
+      "description_3": "Prioritized Opportunities: Smart job ranking organizes openings from highest to lowest acceptance probability, helping you focus on roles with the best chances.",
+      "description_4": "Transferable Value: Once you land your dream job, transfer or resell Turbo Finder — turning your purchase into a valuable, shareable investment."
+    },
+    "turbo": {
+      "description_1": "Apply While You Sleep: Automatically applies to up to 30 jobs where you're an 80%+ match — so you get ahead without lifting a finger.",
+      "description_2": "Lifetime Access: Your Turbo Finder never expires — use it anytime and keep your job search strategy active for the long haul.",
+      "description_3": "Prioritized Opportunities: Smart job ranking organizes openings from highest to lowest acceptance probability, helping you focus on roles with the best chances.",
+      "description_4": "Transferable Value: Once you land your dream job, transfer or resell Turbo Finder — turning your purchase into a valuable, shareable investment."
+    },
+    "yearly": {
+      "description_1": "Apply While You Sleep: Automatically applies to up to 30 jobs where you're an 80%+ match — so you get ahead without lifting a finger.",
+      "description_2": "Lifetime Access: Your Turbo Finder never expires — use it anytime and keep your job search strategy active for the long haul.",
+      "description_3": "Prioritized Opportunities: Smart job ranking organizes openings from highest to lowest acceptance probability, helping you focus on roles with the best chances.",
+      "description_4": "Transferable Value: Once you land your dream job, transfer or resell Turbo Finder — turning your purchase into a valuable, shareable investment."
+    },
+    "lifetime": {
+      "description_1": "Apply While You Sleep: Automatically applies to up to 30 jobs where you're an 80%+ match — so you get ahead without lifting a finger.",
+      "description_2": "Lifetime Access: Your Turbo Finder never expires — use it anytime and keep your job search strategy active for the long haul.",
+      "description_3": "Prioritized Opportunities: Smart job ranking organizes openings from highest to lowest acceptance probability, helping you focus on roles with the best chances.",
+      "description_4": "Transferable Value: Once you land your dream job, transfer or resell Turbo Finder — turning your purchase into a valuable, shareable investment."
+    }
+  },
+
+  
+  "turbo_and_booster": {
+    "activate_turbo_finder_button": "Activate Turbo Finder",
+    "activate_profile_booster_button": "Activate Profile Booster",
+    "auto_apply_label": "Auto-Apply",
+    "auto_apply_tooltip": "Automatically apply to jobs where your match is 80% or higher.",
+    "turbo_finder_email_label": "Turbo Finder Email Notifications",
+    "turbo_finder_email_tooltip": "Receive a daily report with all job matches found by Turbo Finder.",
+    "auto_apply_notifications_label": "Auto-Apply Notifications",
+    "auto_apply_notifications_tooltip": "Stay informed when we apply to top-match jobs on your behalf.",
+    "profile_booster_email_label": "Profile Booster Email Notifications",
+    "profile_booster_email_tooltip": "Receive email notifications when your profile is boosted."
+  },
+
+    "notification_switches": {
+    "profile_booster_email_label": "Profile Booster Email Notifications",
+    "profile_booster_email_tooltip": "Receive email notifications when your profile is boosted.",
+    "auto_apply_label": "Auto-Apply",
+    "auto_apply_tooltip": "Automatically apply to jobs where your match is 80% or higher.",
+    "turbo_finder_email_label": "Turbo Finder Email Notifications",
+    "turbo_finder_email_tooltip": "Receive a daily report with all job matches found by Turbo Finder.",
+    "auto_apply_email_label": "Auto-Apply Email Notifications",
+    "auto_apply_email_tooltip": "Stay informed when we apply to top-match jobs on your behalf.",
+    "activate_button": "Activate Turbo Finder",
+    "activating_text": "Activating ..."
+  },
 
 
   
+  "details_assign_page": {
+    "back_button": "Back",
+    "details_title": "Details",
+    "details_subtitle": "Check details and activate",
+    "acquired_on_label": "Acquired on",
+    "time_left_label": "Time Left",
+    "posts_left_label": "Posts Left",
+    "no_expiration_date": "No expiration date",
+    "days_left": "365 days",
+    "id_label": "ID",
+    "assign_premium_feature_title": "Assign Premium Feature",
+    "assign_premium_feature_subtitle": "Select job post"
+  },
+
+
+    "table_booster_turbo": {
+    "job_post_header": "Job Post",
+    "location_header": "Location",
+    "posted_date_header": "Posted Date",
+    "created_by_header": "Created by",
+    "turbo_recruiter_header": "Turbo Recruiter",
+    "post_booster_header": "Post Booster",
+    "unknown_creator": "Unknown",
+    "search_placeholder": "Search by Job Title",
+    "assigned_button": "Assigned",
+    "unassigned_button": "Unassigned",
+    "date_posted_button": "Date Posted",
+    "no_results": "No results.",
+    "back_button": "Back",
+    "assign_to_posts_button": "Assign to Posts",
+    "selected_rows_count": "row(s) selected."
+  },
+  
+    "assign_nft_preview_table": {
+    "dialog_title": "Assign {{nameNft}} to:",
+    "premium_feature": "Premium Feature",
+    "turbo_recruiter": "Turbo Recruiter",
+    "post_booster": "Post Booster",
+    "turbo_and_booster": "Turbo Recruiter & Post Booster",
+    "job_post_header": "Job Post",
+    "location_header": "Location",
+    "posted_date_header": "Posted Date",
+    "cancel_button": "Cancel",
+    "assign_to_posts_button": "Assign to Posts",
+    "no_location": "-"
+  },
+
+    "company_notifications_switches": {
+    "post_booster_email_label": "Post Booster Email Notifications",
+    "post_booster_email_tooltip": "You will receive a weekly email listing the candidates who have seen your post ranked by this premium feature.",
+    "turbo_recruiter_email_label": "Turbo Recruiter Email Notifications",
+    "turbo_recruiter_email_tooltip": "You will receive a weekly email listing all the candidates found for each role by this premium feature."
+  }
   
 }
-
-
-
 
