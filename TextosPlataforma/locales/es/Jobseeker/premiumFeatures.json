@@ -1,3 +1,4 @@
+
 {
   "premium_features_page": {
     "button_available_premium_features": "Funciones Premium Disponibles",
@@ -16,177 +17,326 @@
     "coming_soon": "Próximamente",
     "discount_label": "% de descuento",
     "price_label": "USD $",
-    "pay_with_crypto": "Pagar con Cripto.",
-    "discount_magnet": "40% de descuento disponible en $MAGNET.",
+    "pay_with_crypto": "Pagar con Cripto",
+    "discount_magnet": "40% de descuento disponible en $MAGNET",
     "button_view_details": "Ver detalles",
-    "no_nfts_available_message": "No hay tipos de NFT disponibles en este momento. Compra tu primer NFT."
+    "no_nfts_available_message": "No hay tipos de NFT disponibles en este momento. Compra tu primer NFT"
   },
 
   "feature_data_company": {
-    "booster": [
-      "Visibilidad Mejorada de Empleos: Tus publicaciones aparecen en la parte superior de los paneles de candidatos, asegurando que más solicitantes calificados vean tus vacantes primero.",
-      "Sin Fecha de Caducidad: Usa tus impulsos en cualquier momento — nunca caducan, dándote la máxima flexibilidad y control.",
-      "Informes de Rendimiento de Colocación Superior: Informes semanales muestran qué candidatos vieron tus publicaciones entre los listados principales, manteniéndote informado y estratégico.",
-      "Función Premium Transferible: ¿No estás contratando inmediatamente? Regala o revende tus impulsos no utilizados — convirtiendo Post Booster en un activo valioso y flexible."
-    ],
-    "turbo": [
-      "Emparejamiento de Candidatos con IA: Obtén instantáneamente candidatos perfectamente emparejados para hasta 3 publicaciones de empleo, ahorrando horas de revisión de currículums.",
-      "Sin Fecha de Caducidad: Usa tus publicaciones cuando las necesites — Turbo Recruiter nunca caduca, dándote la máxima flexibilidad.",
-      "Informes Inteligentes y Basados en Datos: Recibe resúmenes detallados de los candidatos con mejor emparejamiento para que estés informado y tomes decisiones de contratación más rápidas e inteligentes.",
-      "Función Premium Transferible: ¿No estás contratando ahora mismo? Transfiere o revende tus publicaciones de Turbo Recruiter — convirtiendo tu compra en un activo valioso y flexible."
-    ],
-    "yearly": [
-      "Herramientas Premium Todo Incluido: Turbo Recruiter, Post Booster, publicaciones de empleo ilimitadas y análisis de rendimiento detallados — ideal para empresas de dotación de personal y grandes corporaciones.",
-      "Acceso de un Año Completo: Disfruta de 365 días de uso ininterrumpido — herramientas premium ilimitadas al alcance de tu equipo durante un año completo.",
-      "Informes Semanales Basados en Datos: Recibe información continua sobre emparejamientos de candidatos, rendimiento de publicaciones y tendencias de contratación para optimizar tu estrategia.",
-      "Transferible y Flexible: Si tu contratación se ralentiza, transfiere o revende cualquier tiempo restante — convirtiendo tu pase anual en un activo valioso y adaptable."
-    ],
-    "lifetime": [
-      "Todas las Funciones Premium Incluidas: Turbo Recruiter, Post Booster, publicaciones de empleo ilimitadas y análisis de rendimiento detallados — ideal para empresas de dotación de personal y grandes corporaciones.",
-      "Acceso Vitalicio Ilimitado: Un desbloqueo único te da acceso permanente a todas las herramientas premium de contratación — sin suscripciones, renovaciones o restricciones.",
-      "Control Total y Flexibilidad: Contrata en cualquier momento, escala libremente y toma decisiones más inteligentes y basadas en datos sin preocuparte por las renovaciones.",
-      "Activo Transferible y Valioso: Completamente transferible, para que puedas revenderlo o transferirlo si las necesidades de tu empresa cambian — convirtiéndolo en una inversión duradera."
-    ]
-  },
+        "booster": [
+            "Visibilidad Mejorada de Empleos: Tus publicaciones aparecen en la parte superior de los paneles de candidatos, asegurando que más solicitantes calificados vean tus vacantes primero",
+            "Sin Fecha de Caducidad: Usa tus impulsos en cualquier momento — nunca caducan, dándote la máxima flexibilidad y control",
+            "Informes de Rendimiento de Colocación Superior: Informes semanales muestran qué candidatos vieron tus publicaciones entre los listados principales, manteniéndote informado y estratégico",
+            "Función Premium Transferible: ¿No estás contratando inmediatamente? Regala o revende tus impulsos no utilizados — convirtiendo Post Booster en un activo valioso y flexible"
+        ],
+        "turbo": [
+            "Emparejamiento de Candidatos con IA: Obtén instantáneamente candidatos perfectamente emparejados para hasta 3 publicaciones de empleo, ahorrando horas de revisión de currículums",
+            "Sin Fecha de Caducidad: Usa tus publicaciones cuando las necesites — Turbo Recruiter nunca caduca, dándote la máxima flexibilidad",
+            "Informes Inteligentes y Basados en Datos: Recibe resúmenes detallados de los candidatos con mejor emparejamiento para que estés informado y tomes decisiones de contratación más rápidas e inteligentes",
+            "Función Premium Transferible: ¿No estás contratando ahora mismo? Transfiere o revende tus publicaciones de Turbo Recruiter — convirtiendo tu compra en un activo valioso y flexible"
+        ],
+        "yearly": [
+            "Herramientas Premium Todo Incluido: Turbo Recruiter, Post Booster, publicaciones de empleo ilimitadas y análisis de rendimiento detallados — ideal para empresas de dotación de personal y grandes corporaciones",
+            "Acceso de un Año Completo: Disfruta de 365 días de uso ininterrumpido — herramientas premium ilimitadas al alcance de tu equipo durante un año completo",
+            "Informes Semanales Basados en Datos: Recibe información continua sobre emparejamientos de candidatos, rendimiento de publicaciones y tendencias de contratación para optimizar tu estrategia",
+            "Transferible y Flexible: Si tu contratación se ralentiza, transfiere o revende cualquier tiempo restante — convirtiendo tu pase anual en un activo valioso y adaptable"
+        ],
+        "lifetime": [
+            "Todas las Funciones Premium Incluidas: Turbo Recruiter, Post Booster, publicaciones de empleo ilimitadas y análisis de rendimiento detallados — ideal para empresas de dotación de personal y grandes corporaciones",
+            "Acceso Vitalicio Ilimitado: Un desbloqueo único te da acceso permanente a todas las herramientas premium de contratación — sin suscripciones, renovaciones o restricciones",
+            "Control Total y Flexibilidad: Contrata en cualquier momento, escala libremente y toma decisiones más inteligentes y basadas en datos sin preocuparte por las renovaciones",
+            "Activo Transferible y Valioso: Completamente transferible, para que puedas revenderlo o transferirlo si las necesidades de tu empresa cambian — convirtiéndolo en una inversión duradera"
+        ]
+    },
 
-  "featured_data_jobseeker": {
-    "booster": [
-      "Postúlate Mientras Duermes: Se postula automáticamente a hasta 30 trabajos donde tienes un 80%+ de coincidencia — para que te adelantes sin levantar un dedo.",
-      "Acceso Vitalicio: Tu Turbo Finder nunca caduca — úsalo en cualquier momento y mantén activa tu estrategia de búsqueda de empleo a largo plazo.",
-      "Oportunidades Prioritarias: La clasificación inteligente de trabajos organiza las vacantes de mayor a menor probabilidad de aceptación, ayudándote a concentrarte en los roles con las mejores posibilidades.",
-      "Valor Transferible: Una vez que consigas el trabajo de tus sueños, transfiere o revende Turbo Finder — convirtiendo tu compra en una inversión valiosa y compartible."
-    ],
-    "turbo": [
-      "Postúlate Mientras Duermes: Se postula automáticamente a hasta 30 trabajos donde tienes un 80%+ de coincidencia — para que te adelantes sin levantar un dedo.",
-      "Acceso Vitalicio: Tu Turbo Finder nunca caduca — úsalo en cualquier momento y mantén activa tu estrategia de búsqueda de empleo a largo plazo.",
-      "Oportunidades Prioritarias: La clasificación inteligente de trabajos organiza las vacantes de mayor a menor probabilidad de aceptación, ayudándote a concentrarte en los roles con las mejores posibilidades.",
-      "Valor Transferible: Una vez que consigas el trabajo de tus sueños, transfiere o revende Turbo Finder — convirtiendo tu compra en una inversión valiosa y compartible."
-    ],
-    "yearly": [
-      "Postúlate Mientras Duermes: Se postula automáticamente a hasta 30 trabajos donde tienes un 80%+ de coincidencia — para que te adelantes sin levantar un dedo.",
-      "Acceso Vitalicio: Tu Turbo Finder nunca caduca — úsalo en cualquier momento y mantén activa tu estrategia de búsqueda de empleo a largo plazo.",
-      "Oportunidades Prioritarias: La clasificación inteligente de trabajos organiza las vacantes de mayor a menor probabilidad de aceptación, ayudándote a concentrarte en los roles con las mejores posibilidades.",
-      "Valor Transferible: Una vez que consigas el trabajo de tus sueños, transfiere o revende Turbo Finder — convirtiendo tu compra en una inversión valiosa y compartible."
-    ],
-    "lifetime": [
-      "Postúlate Mientras Duermes: Se postula automáticamente a hasta 30 trabajos donde tienes un 80%+ de coincidencia — para que te adelantes sin levantar un dedo.",
-      "Acceso Vitalicio: Tu Turbo Finder nunca caduca — úsalo en cualquier momento y mantén activa tu estrategia de búsqueda de empleo a largo plazo.",
-      "Oportunidades Prioritarias: La clasificación inteligente de trabajos organiza las vacantes de mayor a menor probabilidad de aceptación, ayudándote a concentrarte en los roles con las mejores posibilidades.",
-      "Valor Transferible: Una vez que consigas el trabajo de tus sueños, transfiere o revende Turbo Finder — convirtiendo tu compra en una inversión valioso y compartible."
-    ]
-  },
+    "featured_data_jobseeker": {
+        "booster": [
+            "Postúlate Mientras Duermes: Se postula automáticamente a hasta 30 trabajos donde tienes un 80%+ de coincidencia — para que te adelantes sin levantar un dedo",
+            "Acceso Vitalicio: Tu Turbo Finder nunca caduca — úsalo en cualquier momento y mantén activa tu estrategia de búsqueda de empleo a largo plazo",
+            "Oportunidades Prioritarias: La clasificación inteligente de trabajos organiza las vacantes de mayor a menor probabilidad de aceptación, ayudándote a concentrarte en los roles con las mejores posibilidades",
+            "Valor Transferible: Una vez que consigas el trabajo de tus sueños, transfiere o revende Turbo Finder — convirtiendo tu compra en una inversión valiosa y compartible"
+        ],
+        "turbo": [
+            "Postúlate Mientras Duermes: Se postula automáticamente a hasta 30 trabajos donde tienes un 80%+ de coincidencia — para que te adelantes sin levantar un dedo",
+            "Acceso Vitalicio: Tu Turbo Finder nunca caduca — úsalo en cualquier momento y mantén activa tu estrategia de búsqueda de empleo a largo plazo",
+            "Oportunidades Prioritarias: La clasificación inteligente de trabajos organiza las vacantes de mayor a menor probabilidad de aceptación, ayudándote a concentrarte en los roles con las mejores posibilidades",
+            "Valor Transferible: Una vez que consigas el trabajo de tus sueños, transfiere o revende Turbo Finder — convirtiendo tu compra en una inversión valiosa y compartible"
+        ],
+        "yearly": [
+            "Postúlate Mientras Duermes: Se postula automáticamente a hasta 30 trabajos donde tienes un 80%+ de coincidencia — para que te adelantes sin levantar un dedo",
+            "Acceso Vitalicio: Tu Turbo Finder nunca caduca — úsalo en cualquier momento y mantén activa tu estrategia de búsqueda de empleo a largo plazo",
+            "Oportunidades Prioritarias: La clasificación inteligente de trabajos organiza las vacantes de mayor a menor probabilidad de aceptación, ayudándote a concentrarte en los roles con las mejores posibilidades",
+            "Valor Transferible: Una vez que consigas el trabajo de tus sueños, transfiere o revende Turbo Finder — convirtiendo tu compra en una inversión valiosa y compartible"
+        ],
+        "lifetime": [
+            "Postúlate Mientras Duermes: Se postula automáticamente a hasta 30 trabajos donde tienes un 80%+ de coincidencia — para que te adelantes sin levantar un dedo",
+            "Acceso Vitalicio: Tu Turbo Finder nunca caduca — úsalo en cualquier momento y mantén activa tu estrategia de búsqueda de empleo a largo plazo",
+            "Oportunidades Prioritarias: La clasificación inteligente de trabajos organiza las vacantes de mayor a menor probabilidad de aceptación, ayudándote a concentrarte en los roles con las mejores posibilidades",
+            "Valor Transferible: Una vez que consigas el trabajo de tus sueños, transfiere o revende Turbo Finder — convirtiendo tu compra en una inversión valiosa y compartible"
+        ]
+    },
+  
   
   "nft_detail_page": {
     "button_back": "Atrás",
     "title_available_transferable_premium_features": "Funciones Premium Transferibles Disponibles",
     "paragraph_learn_more_and_buy": "Aprende más y compra",
-    "feature_title_1": "Auto-postulaciones",
-    "feature_description_1": "30",
-    "feature_title_2": "Caducidad",
-    "feature_description_2": "Sin caducidad",
-    "feature_title_3": "Propiedad",
-    "feature_description_3": "Función completamente transferible",
-    "description_title_1": "Coincidencias Curadas",
-    "description_paragraph_1": "Deja de adivinar — comienza a emparejar. Nuestro agente de IA Polaris encuentra trabajos hechos para ti, al instante. Cada coincidencia está adaptada a tus habilidades, experiencia y metas — para que puedas saltarte el ruido y concentrarte solo en oportunidades que realmente encajan.",
-    "description_subparagraph_1": "¿Quieres saber más? ¡Contáctanos hoy!",
-    "description_title_2": "Ahorro de Tiempo",
-    "description_paragraph_2": "Di adiós al desplazamiento sin fin. Turbo Finder hace la búsqueda, clasificación y ordenación por ti, reduciendo tu tiempo de búsqueda de empleo hasta en un 80%. Pasa menos tiempo postulándote — y más tiempo diciendo '¡conseguí el trabajo!'",
-    "description_subparagraph_2": "¿Quieres saber más? ¡Contáctanos hoy!",
-    "description_title_3": "Auto-Postulación",
-    "description_paragraph_3": "Sé el primero en la fila para el trabajo de tus sueños. La función Auto-Postulación de Turbo Finder envía instantáneamente solicitudes a puestos donde tienes un 80%+ de coincidencia — asegurando que nunca pierdas una gran oportunidad y siempre te mantengas por delante de la competencia.",
-    "description_subparagraph_3": "¿Quieres saber más? ¡Contáctanos hoy!",
-    "description_title_4": "Informes Diarios",
-    "description_paragraph_4": "Tu búsqueda de empleo funciona en piloto automático — pero siempre tienes el control. Recibe actualizaciones diarias sobre nuevas coincidencias, solicitudes y progreso de entrevistas para que puedas rastrear tu éxito y hacer que cada movimiento cuente.",
-    "description_subparagraph_4": "¿Quieres saber más? ¡Contáctanos hoy!",
-    "description_title_5": "Servicio Premium Transferible",
-    "description_paragraph_5": "¿No lo necesitas ahora? No hay problema. Véndelo, regálalo o transfiérelo en cualquier momento. Tu acceso premium tiene un valor real — porque las inversiones inteligentes deberían devolverte el dinero, incluso cuando no estés buscando trabajo.",
-    "description_subparagraph_5": "¿Quieres saber más? ¡Contáctanos hoy!",
-    "description_title_6": "Toma el Control de Tu Carrera Hoy",
-    "description_paragraph_6": "Únete a los profesionales que encontraron trabajos 3 veces más rápido, no esperes. No pierdas oportunidades. Turbo Finder te brinda una velocidad, precisión y confianza inigualables en tu búsqueda de empleo — todo en una plataforma poderosa.",
-    
+
+ 
+    "turbo_finder": {
+      "feature_title_1": "Auto-postulaciones",
+      "feature_description_1": "30",
+      "feature_title_2": "Caducidad",
+      "feature_description_2": "Sin caducidad",
+      "feature_title_3": "Propiedad",
+      "feature_description_3": "Función completamente transferible",
+
+      "section_title_1": "Coincidencias Curadas",
+      "section_description_1": "Deja de adivinar — comienza a emparejar. Nuestro agente de IA Polaris encuentra trabajos hechos para ti, al instante. Cada coincidencia está adaptada a tus habilidades, experiencia y metas — para que puedas saltarte el ruido y concentrarte solo en oportunidades que realmente encajan",
+      "section_subdescription_1": "¿Quieres saber más? ¡Contáctanos hoy!",
+
+      "section_title_2": "Ahorro de Tiempo",
+      "section_description_2": "Di adiós al desplazamiento sin fin. Turbo Finder hace la búsqueda, clasificación y ordenación por ti, reduciendo tu tiempo de búsqueda de empleo hasta en un 80%. Pasa menos tiempo postulándote — y más tiempo diciendo '¡conseguí el trabajo!'",
+      "section_subdescription_2": "¿Quieres saber más? ¡Contáctanos hoy!",
+
+      "section_title_3": "Auto-Postulación",
+      "section_description_3": "Sé el primero en la fila para el trabajo de tus sueños. La función Auto-Postulación de Turbo Finder envía instantáneamente solicitudes a puestos donde tienes un 80%+ de coincidencia — asegurando que nunca pierdas una gran oportunidad y siempre te mantengas por delante de la competencia",
+      "section_subdescription_3": "¿Quieres saber más? ¡Contáctanos hoy!",
+
+      "section_title_4": "Informes Diarios",
+      "section_description_4": "Tu búsqueda de empleo funciona en piloto automático — pero siempre tienes el control. Recibe actualizaciones diarias sobre nuevas coincidencias, solicitudes y progreso de entrevistas para que puedas rastrear tu éxito y hacer que cada movimiento cuente",
+      "section_subdescription_4": "¿Quieres saber más? ¡Contáctanos hoy!",
+
+      "section_title_5": "Servicio Premium Transferible",
+      "section_description_5": "¿No lo necesitas ahora? No hay problema. Véndelo, regálalo o transfiérelo en cualquier momento. Tu acceso premium tiene un valor real — porque las inversiones inteligentes deberían devolverte el dinero, incluso cuando no estés buscando trabajo",
+      "section_subdescription_5": "¿Quieres saber más? ¡Contáctanos hoy!",
+
+      "section_title_6": "Toma el Control de Tu Carrera Hoy",
+      "section_description_6": "Únete a los profesionales que encontraron trabajos 3 veces más rápido, no esperes. No pierdas oportunidades. Turbo Finder te brinda una velocidad, precisión y confianza inigualables en tu búsqueda de empleo — todo en una plataforma poderosa"
+    },
+
+    "turbo_recruiter": {
+      "feature_title_1": "Cantidad de publicaciones",
+      "feature_description_1": "3",
+      "feature_title_2": "Candidatos por publicación",
+      "feature_description_2": "Ilimitado",
+      "feature_title_3": "Caducidad",
+      "feature_description_3": "Sin caducidad",
+      "feature_title_4": "Propiedad",
+      "feature_description_4": "Función completamente transferible",
+
+      "section_title_1": "Búsqueda Inteligente en Piloto Automático",
+      "section_description_1": "Deja de esperar a que los solicitantes adecuados vengan a ti. El agente de IA de Turbo Recruiter, Polaris, encuentra talento superior hiper-dirigido automáticamente — entregando los candidatos perfectos directamente a tu lista corta",
+      "section_subdescription_1": "¿Quieres saber más? ¡Contáctanos hoy!",
+
+      "section_title_2": "Ahorro Masivo de Tiempo",
+      "section_description_2": "¡Reduce tu tiempo de contratación en más del 70%! Con búsqueda inteligente automatizada y listas cortas generadas instantáneamente por IA, pasas menos tiempo buscando y más tiempo construyendo tu equipo soñado",
+      "section_subdescription_2": "¿Quieres saber más? ¡Contáctanos hoy!",
+
+      "section_title_3": "Informes Inteligentes",
+      "section_description_3": "Tu búsqueda de talento funciona en piloto automático — pero siempre estás en control. Recibe actualizaciones diarias sobre coincidencias de candidatos y progreso, para que puedas planificar, estrategizar y contratar con confianza",
+      "section_subdescription_3": "¿Quieres saber más? ¡Contáctanos hoy!",
+
+      "section_title_4": "Servicio Premium Transferible",
+      "section_description_4": "¿No estás contratando ahora mismo? No hay problema. Véndelo, regálalo o transfiérelo en cualquier momento. El servicio premium de Turbo Recruiter es una inversión inteligente que retiene valor — incluso cuando tus necesidades de contratación cambian",
+      "section_subdescription_4": "¿Quieres saber más? ¡Contáctanos hoy!",
+
+      "section_title_5": "Encuentra Talento Superior Instantáneamente — ¡Turbo Recruiter Te Tiene Cubierto!",
+      "section_description_5": "Deja de esperar a que los solicitantes vengan a ti. Deja que nuestro agente de IA Polaris entregue candidatos hiper-dirigidos directamente a tu lista corta — más rápido, más inteligente y más eficiente que nunca",
+      "section_subdescription_5": "¡Obtén Turbo Recruiter Ahora — Contrata a los Mejores Antes que Tus Competidores!"
+    },
+
+    "post_booster": {
+      "feature_title_1": "Cantidad de publicaciones",
+      "feature_description_1": "3",
+      "feature_title_2": "Colocación superior por publicación",
+      "feature_description_2": "Ilimitado",
+      "feature_title_3": "Caducidad",
+      "feature_description_3": "Sin caducidad",
+      "feature_title_4": "Propiedad",
+      "feature_description_4": "Función completamente transferible",
+
+      "section_title_1": "Visibilidad Superior",
+      "section_description_1": "Destaca donde importa. Potencia tus publicaciones a la parte superior de los paneles de candidatos altamente calificados con nuestra tecnología de IA de vanguardia — asegurando que tu listado sea visto por el mejor talento primero",
+      "section_subdescription_1": "¿Quieres saber más? ¡Contáctanos hoy!",
+
+      "section_title_2": "Acelera las Solicitudes",
+      "section_description_2": "No seas solo otro listado — sé el que los candidatos no pueden ignorar. Obtén más solicitantes calificados más rápido y llena tus puestos con el mejor talento antes de que tu competencia se dé cuenta",
+      "section_subdescription_2": "¿Quieres saber más? ¡Contáctanos hoy!",
+
+      "section_title_3": "Informes Semanales",
+      "section_description_3": "Mantente informado con informes de rendimiento semanales. Mide el compromiso, rastrea las solicitudes y ajusta tu estrategia rápidamente para maximizar los resultados — cada semana",
+      "section_subdescription_3": "¿Quieres saber más? ¡Contáctanos hoy!",
+
+      "section_title_4": "Servicio Premium Transferible",
+      "section_description_4": "¿No estás contratando ahora mismo? No hay problema. Véndelo, regálalo o transfiérelo en cualquier momento. Tu acceso a Post Booster retiene un valor real, convirtiéndolo en una inversión inteligente para cualquier ciclo de contratación",
+      "section_subdescription_4": "¿Quieres saber más? ¡Contáctanos hoy!",
+
+      "section_title_5": "Haz que Tus Publicaciones de Empleo Sean Imposibles de Pasar por Alto — ¡Potencia Ahora!",
+      "section_description_5": "Destaca entre la multitud y lleva tus listados frente a candidatos de primer nivel instantáneamente. Más visibilidad = más solicitudes calificadas = contrataciones más rápidas",
+      "section_subdescription_5": "¡Obtén Post Booster Hoy — No Dejes que Tus Candidatos Soñados Pasen de Largo!"
+    },
+
+    "yearly": {
+      "feature_title_1": "Funciones incluidas",
+      "feature_description_1": "Turbo Recruiter y Post Booster",
+      "feature_title_2": "Cantidad de publicaciones y colocaciones",
+      "feature_description_2": "Ilimitado",
+      "feature_title_3": "Caducidad",
+      "feature_description_3": "365 días desde la compra",
+      "feature_title_4": "Propiedad",
+      "feature_description_4": "Función completamente transferible",
+
+      "section_title_1": "La Herramienta de Contratación Definitiva",
+      "section_description_1": "Potencia tu contratación con el poder combinado de Turbo Recruiter y Post Booster en un paquete todo en uno. Llena puestos más rápido, atrae talento de primer nivel y toma el control de tu contratación como nunca antes",
+      "section_subdescription_1": "¿Quieres saber más? ¡Contáctanos hoy!",
+
+      "section_title_2": "Perfecto para Equipos en Crecimiento o Contratación Estacional Grande",
+      "section_description_2": "Aplica Turbo Recruiter y Post Booster a publicaciones de empleo ilimitadas durante un año completo. Obtén candidatos emparejados por IA, visibilidad premium e información procesable — todo lo que necesitas para tomar decisiones de contratación seguras y de alto impacto",
+      "section_subdescription_2": "¿Quieres saber más? ¡Contáctanos hoy!",
+
+      "section_title_3": "Búsqueda Inteligente en Piloto Automático",
+      "section_description_3": "Deja de esperar a los solicitantes adecuados. Deja que nuestro agente de IA Polaris encuentre talento superior hiper-dirigido para ti — entregando automáticamente los candidatos perfectos a tu lista corta",
+      "section_subdescription_3": "¿Quieres saber más? ¡Contáctanos hoy!",
+
+      "section_title_4": "Acelera las Solicitudes",
+      "section_description_4": "No seas solo otro listado. Destaca y obtén más solicitantes calificados más rápido. Con Turbo Recruiter y Post Booster, tus listados serán los que los candidatos no pueden ignorar",
+      "section_subdescription_4": "¿Quieres saber más? ¡Contáctanos hoy!",
+
+      "section_title_5": "Servicio Premium Transferible",
+      "section_description_5": "¿Ya no estás contratando? No hay problema. Véndelo, regálalo o transfiérelo en cualquier momento. Tu servicio premium retiene valor real — convirtiéndolo en una inversión inteligente sin importar cómo evolucionen tus necesidades de contratación",
+      "section_subdescription_5": "¿Quieres saber más? ¡Contáctanos hoy!",
+
+      "section_title_6": "¡Desbloquea el Poder de Contratación de Año Completo Hoy!",
+      "section_description_6": "Deja de esperar. Deja de adivinar. Potencia tu reclutamiento con talento emparejado por IA, visibilidad de primer nivel y control total — todo en un paquete",
+      "section_subdescription_6": "¡Obtén Turbo Recruiter + Post Booster + Acceso Todo el Año Ahora — Contrata de Forma Más Inteligente, Más Rápida, Mejor!"
+    },
+
+    "lifetime": {
+      "feature_title_1": "Funciones incluidas",
+      "feature_description_1": "Turbo Recruiter y Post Booster",
+      "feature_title_2": "Cantidad de publicaciones y colocaciones",
+      "feature_description_2": "Ilimitado",
+      "feature_title_3": "Caducidad",
+      "feature_description_3": "Ilimitado",
+      "feature_title_4": "Propiedad",
+      "feature_description_4": "Función completamente transferible",
+
+      "section_title_1": "La Herramienta de Contratación Definitiva",
+      "section_description_1": "Potencia tu contratación con el poder combinado de Turbo Recruiter y Post Booster en un paquete todo en uno. Llena puestos más rápido, atrae talento de primer nivel y obtén un control inigualable — de por vida",
+      "section_subdescription_1": "¿Quieres saber más? ¡Contáctanos hoy!",
+
+      "section_title_2": "Perfecto para Grandes Empresas Establecidas",
+      "section_description_2": "Aplica Turbo Recruiter y Post Booster a publicaciones de empleo ilimitadas de por vida — sin límites de funciones, nunca. Obtén candidatos emparejados por IA, visibilidad premium e información procesable para tomar decisiones de contratación seguras y de alto impacto a escala",
+      "section_subdescription_2": "¿Quieres saber más? ¡Contáctanos hoy!",
+
+      "section_title_3": "Búsqueda Inteligente en Piloto Automático",
+      "section_description_3": "Deja de esperar a los solicitantes adecuados. Deja que nuestro agente de IA Polaris encuentre automáticamente talento superior hiper-dirigido para ti — asegurando que tu lista corta siempre incluya a los mejores candidatos",
+      "section_subdescription_3": "¿Quieres saber más? ¡Contáctanos hoy!",
+
+      "section_title_4": "Acelera las Solicitudes",
+      "section_description_4": "No seas solo otro listado. Destaca y obtén más solicitantes calificados más rápido. Con la Función Completa Vitalicia, tus listados siempre serán los que los candidatos no pueden ignorar",
+      "section_subdescription_4": "¿Quieres saber más? ¡Contáctanos hoy!",
+
+      "section_title_5": "Servicio Premium Transferible",
+      "section_description_5": "Si tus necesidades de contratación cambian, pásalo o véndelo, convirtiendo tu compra única en un activo valioso y a largo plazo que sigue dando beneficios — sin caducidad, nunca",
+      "section_subdescription_5": "¿Quieres saber más? ¡Contáctanos hoy!",
+
+      "section_title_6": "¡Desbloquea el Poder de Contratación Vitalicio Hoy!",
+      "section_description_6": "Una compra. Acceso ilimitado. Talento de primer nivel sin fin. Potencia tu reclutamiento con Turbo Recruiter + Post Booster — de por vida. Sin suscripciones. Sin límites de funciones. Solo control y resultados inigualables, para siempre",
+      "section_subdescription_6": "¡Reclama Tu Función Completa Vitalicia Ahora — Construye Tu Equipo Soñado Sin Límites!"
+    }
+
+  },
+
+
+  
+
     "buy_nft": {
-      "title_1": "Comprar Función Premium",
-      "button_1": "Tarjeta de Crédito",
-      "button_2": "Cripto"
+        "title_1": "Comprar Función Premium",
+        "button_1": "Tarjeta de Crédito",
+        "button_2": "Cripto"
     },
     
     "buy_by_credit_card": {
-      "label_1": "Precio",
-      "label_2": "Cantidad",
-      "label_3": "Subtotal",
-      "button_1": "COMPRAR AHORA",
-      "toast_title_1": "Error al Obtener el Tipo de NFT",
-      "toast_description_1": "El tipo de NFT que intentas comprar no existe o no está disponible."
+        "label_1": "Precio",
+        "label_2": "Cantidad",
+        "label_3": "Subtotal",
+        "button_1": "COMPRAR AHORA",
+        "toast_title_1": "Error al Obtener el Tipo de NFT",
+        "toast_description_1": "El tipo de NFT que intentas comprar no existe o no está disponible"
     },
 
+
     "buy_nft_by_crypto": {
-      "label_1": "Detalle de pago",
-      "label_2": "Precio",
-      "label_3": "Cantidad",
-      "label_4": "Subtotal",
-      "label_5": "ETH",
-      "button_1": "COMPRAR AHORA",
-      "toast_title_1": "Error",
-      "toast_description_1": {
-        "option_1": "No tienes suficiente ETH para cubrir el gas de la transacción. Recarga un poco e inténtalo de nuevo.",
+        "label_1": "Detalle de pago",
+        "label_2": "Precio",
+        "label_3": "Cantidad",
+        "label_4": "Subtotal",
+        "label_5": "ETH",
+        "button_1": "COMPRAR AHORA",
+        "toast_title_1": "Error",
+        "toast_description_1": {
+        "option_1": "No tienes suficiente ETH para cubrir el gas de la transacción. Recarga un poco e inténtalo de nuevo",
         "option_2": "Tu saldo de MAGNET no es suficiente para completar esta compra. ¡Sigue brillando — pronto será tuyo!",
         "option_3": "No tienes suficiente ETH para cubrir el precio total más el gas. ¡Solo un pequeño impulso y lo lograrás!"
-      },
-      "validation": {
+        },
+        "validation": {
         "required_payment_method": "Por favor selecciona un método de pago",
         "required_quantity": "La cantidad es requerida",
         "min_quantity": "Debes comprar al menos 1 NFT"
-      }
+        }
     },
 
     "payment_detail_select": {
-      "placeholder_1": "Seleccionar Moneda",
-      "option_1": "Ethereum",
-      "option_2": "MAGNET"
+        "placeholder_1": "Seleccionar Moneda",
+        "option_1": "Ethereum",
+        "option_2": "MAGNET"
     },
     
     "buy_summary": {
-      "title_1": "resumen",
-      "title_2": "Detalle de pago",
-      "option_1": "MAGNET",
-      "option_2": "Ethereum",
-      "label_1": "Precio",
-      "label_2": "Cantidad",
-      "label_3": "Tarifa de Gas",
-      "label_4": "Total",
-      "label_5": "Detalle de pago",
-      "label_temporary_cardSaving": "<0>****</0>",
-      "text_1": "Sin información",
-      "placeholder_1": "Selecciona o ingresa un método de pago",
-      "action_1": "Agregar una nueva tarjeta",
-      "label_6": "Ingresar información de la tarjeta",
-      "placeholder_2": "Nombre",
-      "placeholder_3": "XXXX XXXX XXXX XXXX",
-      "placeholder_4": "MM/AA",
-      "placeholder_5": "CVC",
-      "title_3": "Agregar Método de Pago",
-      "link_text_1": "Términos y Condiciones",
-      "text_2": "Estoy de acuerdo con los",
-      "button_1": "Cancelar",
-      "button_2": "COMPLETAR COMPRA",
-      "toast_error_1_title": "Error al Obtener el Tipo de NFT",
-      "toast_error_1_description": "El tipo de NFT que intentas comprar no existe o no está disponible.",
-      "toast_error_2_title": "Sin Proveedor Web3",
-      "toast_error_2_description": "El proveedor Web3 no está disponible. Por favor conecta tu wallet.",
-      "toast_error_3_title": "Formulario Incompleto",
-      "toast_error_3_description": "Por favor asegúrate de que todos los campos obligatorios estén completados antes de continuar.",
-      "toast_error_4_title": "Error procesando la compra",
-      "toast_error_4_description": "Hubo un problema al recuperar algunos datos. Por favor inténtalo de nuevo.",
-      "toast_error_5_title": "Error procesando la compra",
-      "toast_error_5_description": "Saldo insuficiente para completar la transacción. Asegúrate de tener fondos suficientes para cubrir el monto y las tarifas.",
-      "toast_error_6_title": "Procesando Compra",
-      "toast_error_6_description": "Error",
-      "toast_error_7_title": "Error Procesando Compra",
-      "toast_error_7_description": "Algo salió mal al confirmar tu compra. Por favor revisa tu NFT o historial de compras para verificar si se completó."
+        "title_1": "resumen",
+        "title_2": "Detalle de pago",
+        "option_1": "MAGNET",
+        "option_2": "Ethereum",
+        "label_1": "Precio",
+        "label_2": "Cantidad",
+        "label_3": "Tarifa de Gas",
+        "label_4": "Total",
+        "label_5": "Detalle de pago",
+        "label_temporary_cardSaving": "<0>****</0>",
+        "text_1": "Sin información",
+        "placeholder_1": "Selecciona o ingresa un método de pago",
+        "action_1": "Agregar una nueva tarjeta",
+        "label_6": "Ingresar información de la tarjeta",
+        "placeholder_2": "Nombre",
+        "placeholder_3": "XXXX XXXX XXXX XXXX",
+        "placeholder_4": "MM/AA",
+        "placeholder_5": "CVC",
+        "title_3": "Agregar Método de Pago",
+        "link_text_1": "Términos y Condiciones",
+        "text_2": "Estoy de acuerdo con los",
+        "button_1": "Cancelar",
+        "button_2": "COMPLETAR COMPRA",
+        "toast_error_1_title": "Error al Obtener el Tipo de NFT",
+        "toast_error_1_description": "El tipo de NFT que intentas comprar no existe o no está disponible",
+        "toast_error_2_title": "Sin Proveedor Web3",
+        "toast_error_2_description": "El proveedor Web3 no está disponible. Por favor conecta tu wallet",
+        "toast_error_3_title": "Formulario Incompleto",
+        "toast_error_3_description": "Por favor asegúrate de que todos los campos obligatorios estén completados antes de continuar",
+        "toast_error_4_title": "Error procesando la compra",
+        "toast_error_4_description": "Hubo un problema al recuperar algunos datos. Por favor inténtalo de nuevo",
+        "toast_error_5_title": "Error procesando la compra",
+        "toast_error_5_description": "Saldo insuficiente para completar la transacción. Asegúrate de tener fondos suficientes para cubrir el monto y las tarifas",
+        "toast_error_6_title": "Procesando Compra",
+        "toast_error_6_description": "Error",
+        "toast_error_7_title": "Error Procesando Compra",
+        "toast_error_7_description": "Algo salió mal al confirmar tu compra. Por favor revisa tu NFT o historial de compras para verificar si se completó"
     },
 
     "global_loader": {
-      "text_1": "Procesando tu compra — por favor espera."
+      "text_1": "Procesando tu compra — por favor espera"
     },
 
     "status_order_dialog": {
@@ -197,9 +347,8 @@
       "label_2": "Auto-Postulaciones Restantes",
       "label_3": "Publicaciones Restantes",
       "button_1": "Ok"
-    }
-  },
-  
+    },
+
   "card_details": {
     "loading": "Cargando...",
     "not_found": "Datos no encontrados",
@@ -214,11 +363,11 @@
     "time_left": "Tiempo Restante",
     "post_left": "Publicaciones Restantes",
     "unlimited": "Ilimitado",
-    "not_activated": "Este NFT aún no ha sido activado.",
+    "not_activated": "Este NFT aún no ha sido activado",
     "active_until": "Este NFT está activo hasta {{formattedExpiration}}"
   },
 
-  "nft_horizontal_cards": {
+    "nft_horizontal_cards": {
     "card": {
       "activate": "Activar",
       "assign": "Asignar",
@@ -234,10 +383,256 @@
       "view_and_assign": "Ver y Asignar"
     },
     "empty_state": {
-      "no_nfts": "No hay tipos de NFT disponibles en este momento. Compra tu primer NFT."
+      "no_nfts": "No hay tipos de NFT disponibles en este momento. Compra tu primer NFT"
     },
     "loading_state": {
       "loading_cards": "Cargando tarjetas de NFT..."
     }
+  },
+
+    "featureCompanyData": {
+    "booster": {
+      "title": "Descripción de Post Booster",
+      "description": "Destaca. Sé notado primero",
+      "features": {
+        "feature_1": "3 Publicaciones de Empleo Potenciadas: Destaca y prioriza hasta 3 listados de trabajo para máxima exposición",
+        "feature_2": "Sin Fecha de Caducidad: Usa tus impulsos en cualquier momento — nunca caducan",
+        "feature_3": "Visibilidad de Colocación Superior: Tus publicaciones potenciadas se muestran en la parte superior de las búsquedas de candidatos relevantes, ayudándote a llegar al talento adecuado antes que tus competidores",
+        "feature_4": "Informes de Rendimiento Semanales: Mantente informado con resúmenes de visibilidad que muestran qué candidatos vieron tu publicación entre los listados principales"
+      },
+      "info": "Felicitaciones por obtener Post Booster — tu acelerador de visibilidad para mejores resultados de contratación",
+      "info2": "Con Post Booster, tus listados de trabajo se elevan a la cima — literalmente. Esta función asegura que tus publicaciones aparezcan primero en los paneles de candidatos, atrayendo más solicitantes calificados más rápido. Perfecto para llenar roles competitivos o expandir tu canal de talento, le da a tus listados la atención que merecen",
+      "example": "Ejemplo: Publicas un rol de servicio al cliente — y en lugar de esperar días por el candidato adecuado, obtienes solicitantes fuertes en horas gracias a la colocación superior y la mayor visibilidad",
+      "additionalInfo": "Completamente transferible, lo que significa que si tus planes de contratación cambian, puedes regalar o vender tus impulsos no utilizados. Más flexibilidad, mejores resultados"
+    },
+    "turbo": {
+      "title": "Descripción de Turbo Recruiter",
+      "description": "Emparejamientos más inteligentes. Contrataciones más rápidas",
+      "features": {
+        "feature_1": "3 Publicaciones de Trabajo Incluidas: Obtén emparejamiento de candidatos con IA para hasta 3 roles",
+        "feature_2": "Sin Fecha de Caducidad: Usa tus publicaciones cuando estés listo — Turbo Recruiter nunca caduca",
+        "feature_3": "Búsqueda de Candidatos Impulsada por IA: Nuestro algoritmo escanea y clasifica candidatos basándose en compatibilidad, experiencia y ajuste al rol — para que puedas concentrarte en entrevistar, no en filtrar",
+        "feature_4": "Informes Inteligentes: Recibe resúmenes detallados de los candidatos con mejor emparejamiento para cada publicación, manteniéndote informado y en control durante todo tu proceso de contratación"
+      },
+      "info": "Felicitaciones por obtener Turbo Recruiter — tu asistente de contratación inteligente",
+      "info2": "Turbo Recruiter revoluciona la forma en que encuentras talento al usar IA avanzada para entregar candidatos perfectamente emparejados para tus roles abiertos. Di adiós a las interminables revisiones de currículums y hola a la contratación de precisión que te ahorra tiempo, esfuerzo y frustración",
+      "example": "Ejemplo: Estás contratando para un desarrollador de nivel medio. En lugar de revisar 100+ aplicaciones aleatorias, instantáneamente recibes una lista corta de perfiles mejor alineados — listos para revisar y contactar",
+      "additionalInfo": "También es una Función Premium Transferible, así que si no estás contratando activamente, puedes transferirla o venderla — convirtiéndola en un activo inteligente con valor real"
+    },
+    "yearly": {
+      "title": "Descripción de Función Completa Anual",
+      "description": "Poder completo. Por un año completo",
+      "features": {
+        "feature_1": "365 Días de Acceso Completo: Disfruta de un año completo de uso ininterrumpido desde la fecha de compra",
+        "feature_2": "Todas las Funciones Premium Incluidas: Turbo Recruiter, Post Booster, publicaciones de trabajo ilimitadas y análisis de rendimiento detallados",
+        "feature_3": "Informes Semanales: Mantente informado con información continua sobre emparejamientos de candidatos, rendimiento de publicaciones y tendencias generales de contratación",
+        "feature_4": "Optimización Basada en Datos: Ajusta tu estrategia de contratación con confianza usando resultados transparentes y en tiempo real"
+      },
+      "info": "Felicitaciones por desbloquear la Función Completa Anual — tu pase de acceso total a una contratación más inteligente, rápida y eficiente",
+      "info2": "Con este pase anual, tu equipo obtiene acceso sin restricciones a todas las herramientas premium — incluyendo Turbo Recruiter, Post Booster y publicaciones de trabajo ilimitadas — dándote todo lo que necesitas para escalar tu proceso de contratación con velocidad y precisión",
+      "example": "Ejemplo: Estás escalando un equipo técnico en múltiples roles. Con 12 meses de acceso, puedes aplicar todas las funciones premium libremente, recibir talento superior más rápido y tomar decisiones de contratación respaldadas por datos sin restricciones",
+      "additionalInfo": "Y si tu contratación se ralentiza, esta función es completamente transferible — dándote la opción de transferirla o vender el tiempo restante. Es una opción inteligente para empresas con necesidades de contratación estacionales o temporales"
+    },
+    "lifetime": {
+      "title": "Descripción de Función Completa Vitalicia",
+      "description": "Contrata sin límites. Para siempre",
+      "info": "Felicitaciones por desbloquear la Función Completa Vitalicia — tu clave permanente para una contratación sin esfuerzo, poderosa e ilimitada",
+      "info2": "Esta actualización única te da acceso completo y vitalicio a todas las herramientas premium de reclutamiento — incluyendo Turbo Recruiter, Post Booster, publicaciones de trabajo ilimitadas e informes de rendimiento continuos. Sin suscripciones, sin renovaciones y sin restricciones — solo poder de contratación completo, para siempre",
+      "features": {
+        "feature_1": "Sin Fecha de Caducidad: Disfruta acceso ilimitado sin límites de tiempo — nunca",
+        "feature_2": "Todas las Funciones Premium Incluidas: Turbo Recruiter, Post Booster, publicaciones de trabajo ilimitadas y análisis de rendimiento detallados",
+        "feature_3": "Control Total y Flexibilidad: Contrata en cualquier momento, escala libremente y toma decisiones más inteligentes y basadas en datos sin preocuparte por renovaciones"
+      },
+      "example": "Ejemplo: Tu empresa recluta regularmente durante todo el año. Con acceso vitalicio, ahorras en costos recurrentes y obtienes una ventaja consistente y poderosa en cada ciclo de contratación",
+      "additionalInfo": "Además, es completamente transferible, así que si tus necesidades cambian alguna vez, puedes transferirla o venderla — haciendo de esta una inversión inteligente en el crecimiento y estabilidad a largo plazo de tu empresa"
+    }
+  },
+  "featureJobseekerData": {
+    "booster": {
+      "title": "Descripción de Post Booster",
+      "description": "Destaca. Sé notado primero",
+      "features": {
+        "feature_1": "Válido para 30 colocaciones superiores",
+        "feature_2": "Sin fecha de caducidad"
+      },
+      "info": "Post Booster aumenta la visibilidad de tus listados de trabajo, colocándolos en la parte superior de los paneles de candidatos y maximizando el compromiso. Ya sea que estés llenando roles de alta demanda o construyendo un canal de talento, asegura que más candidatos calificados vean tus publicaciones primero",
+      "info2": "También recibirás informes semanales que muestran para qué candidatos estuviste entre las primeras posiciones, para que te mantengas informado sobre tu visibilidad y alcance",
+      "example": "Ejemplo: Publicas un rol de servicio al cliente — y en lugar de esperar días por el candidato adecuado, obtienes solicitantes fuertes en horas gracias a la colocación superior y la mayor visibilidad",
+      "additionalInfo": "Completamente transferible, lo que significa que si tus planes de contratación cambian, puedes regalar o vender tus impulsos no utilizados. Más flexibilidad, mejores resultados"
+    },
+    "turbo": {
+      "title": "Descripción de Turbo Recruiter",
+      "description": "Encuentra trabajos más rápido. Postúlate de forma más inteligente",
+      "features": {
+        "feature_1": "30 Auto-Postulaciones: Turbo Finder se postula automáticamente a hasta 30 trabajos donde tienes un 80% o más de coincidencia",
+        "feature_2": "Sin Fecha de Caducidad: Úsalo cuando estés listo — tu Turbo Finder nunca caduca",
+        "feature_3": "Clasificación Inteligente de Trabajos: Ve oportunidades organizadas de mayor a menor probabilidad de aceptación, ayudándote a concentrarte donde más importa",
+        "feature_4": "Informes Semanales: Mantente informado con actualizaciones curadas sobre nuevas vacantes que se ajustan a tu perfil — más aquellas a las que Turbo Finder ya se ha postulado en tu nombre"
+      },
+      "info": "Felicitaciones por obtener Turbo Finder — tu asistente personal de búsqueda de empleo con IA",
+      "info2": "Con Turbo Finder, tu búsqueda de empleo se vuelve sin esfuerzo y estratégica. Diseñado para ahorrarte tiempo y maximizar tus posibilidades, esta herramienta hace más que encontrar oportunidades — actúa sobre ellas",
+      "example": "Recibirás informes semanales con las oportunidades laborales que Turbo Finder encontró para ti—manteniéndote informado y en control. Ejemplo: Imagina despertarte con 5 nuevas vacantes adaptadas a tu perfil—y 2 de ellas ya postuladas mientras dormías. Eso es Turbo Finder en acción",
+      "additionalInfo": "Y como es una Función Premium Transferible, si consigues tu trabajo ideal temprano, puedes transferirla o venderla a alguien que la necesite—convirtiéndola en una inversión inteligente"
+    },
+    "yearly": {
+      "title": "Descripción de Función Completa Anual",
+      "description": "Todas las herramientas premium. Por un año completo",
+      "features": {
+        "feature_1": "Válido por 365 días desde la compra",
+        "feature_2": "Acceso a todas las funciones premium"
+      },
+      "info": "Este pase te da 12 meses de acceso ilimitado a nuestras mejores funciones — Turbo Finder, Profile Booster, postulaciones automáticas a trabajos e informes detallados para mantenerte actualizado sobre tu progreso — para llevar tu búsqueda de empleo al siguiente nivel",
+      "info2": "",
+      "example": "Ejemplo: Estás en una misión para conseguir un trabajo remoto en tecnología. Con un año completo de acceso, obtienes emparejamiento automático, visibilidad potenciada, postulaciones automatizadas y herramientas que ahorran tiempo trabajando todas juntas",
+      "additionalInfo": "¿Terminaste tu búsqueda temprano? Este acceso es transferible — para que puedas regalar o vender el tiempo restante a alguien más que necesite un impulso. Es poder, con flexibilidad"
+    },
+    "lifetime": {
+      "title": "Descripción de Función Completa Vitalicia",
+      "description": "Desbloqueo único. Soporte vitalicio",
+      "features": {
+        "feature_1": "Sin fecha de caducidad (sin expiración)",
+        "feature_2": "Acceso a todas las funciones premium"
+      },
+      "info": "Para aquellos que quieren libertad completa, esta es la herramienta definitiva. Obtienes acceso ilimitado — para siempre — a todas las funciones premium de nuestra plataforma, sin restricciones ni límites de tiempo. Ya sea que estés cambiando de industria, mejorando cada pocos años o apoyando la búsqueda de alguien más, esta es una inversión a largo plazo en tu carrera con poder de función completa de por vida",
+      "info2": "",
+      "example": "Ejemplo: Estás haciendo la transición a la tecnología ahora, pero planeas mudarte al extranjero en 3 años — este desbloqueo te apoya en cada paso del camino, sin importar cuánto cambien tus metas",
+      "additionalInfo": "Además, es completamente transferible, dándole valor a largo plazo. Si alguna vez decides transferirlo, puedes — convirtiendo tu compra única en una poderosa inversión"
+    }
+  },
+  "descriptionCompanyNft": {
+    "booster": {
+      "description_1": "Visibilidad Mejorada de Empleos: Tus publicaciones aparecen en la parte superior de los paneles de candidatos, asegurando que más solicitantes calificados vean tus vacantes primero",
+      "description_2": "Sin Fecha de Caducidad: Usa tus impulsos en cualquier momento — nunca caducan, dándote la máxima flexibilidad y control",
+      "description_3": "Informes de Rendimiento de Colocación Superior: Informes semanales muestran qué candidatos vieron tus publicaciones entre los listados principales, manteniéndote informado y estratégico",
+      "description_4": "Función Premium Transferible: ¿No estás contratando inmediatamente? Regala o revende tus impulsos no utilizados — convirtiendo Post Booster en un activo valioso y flexible"
+    },
+    "turbo": {
+      "description_1": "Emparejamiento de Candidatos con IA: Obtén instantáneamente candidatos perfectamente emparejados para hasta 3 publicaciones de empleo, ahorrando horas de revisión de currículums",
+      "description_2": "Sin Fecha de Caducidad: Usa tus publicaciones cuando las necesites — Turbo Recruiter nunca caduca, dándote la máxima flexibilidad",
+      "description_3": "Informes Inteligentes y Basados en Datos: Recibe resúmenes detallados de los candidatos con mejor emparejamiento para que estés informado y tomes decisiones de contratación más rápidas e inteligentes",
+      "description_4": "Función Premium Transferible: ¿No estás contratando ahora mismo? Transfiere o revende tus publicaciones de Turbo Recruiter — convirtiendo tu compra en un activo valioso y flexible"
+    },
+    "yearly": {
+      "description_1": "Herramientas Premium Todo Incluido: Turbo Recruiter, Post Booster, publicaciones de empleo ilimitadas y análisis de rendimiento detallados — ideal para empresas de dotación de personal y grandes corporaciones",
+      "description_2": "Acceso de un Año Completo: Disfruta de 365 días de uso ininterrumpido — herramientas premium ilimitadas al alcance de tu equipo durante un año completo",
+      "description_3": "Informes Semanales Basados en Datos: Recibe información continua sobre emparejamientos de candidatos, rendimiento de publicaciones y tendencias de contratación para optimizar tu estrategia",
+      "description_4": "Transferible y Flexible: Si tu contratación se ralentiza, transfiere o revende cualquier tiempo restante — convirtiendo tu pase anual en un activo valioso y adaptable"
+    },
+    "lifetime": {
+      "description_1": "Todas las Funciones Premium Incluidas: Turbo Recruiter, Post Booster, publicaciones de empleo ilimitadas y análisis de rendimiento detallados — ideal para empresas de dotación de personal y grandes corporaciones",
+      "description_2": "Acceso Vitalicio Ilimitado: Un desbloqueo único te da acceso permanente a todas las herramientas premium de contratación — sin suscripciones, renovaciones o restricciones",
+      "description_3": "Control Total y Flexibilidad: Contrata en cualquier momento, escala libremente y toma decisiones más inteligentes y basadas en datos sin preocuparte por las renovaciones",
+      "description_4": "Activo Transferible y Valioso: Completamente transferible, para que puedas revenderlo o transferirlo si las necesidades de tu empresa cambian — convirtiéndolo en una inversión duradera"
+    }
+  },
+  "descriptionJobseekerNft": {
+    "booster": {
+      "description_1": "Postúlate Mientras Duermes: Se postula automáticamente a hasta 30 trabajos donde tienes un 80%+ de coincidencia — para que te adelantes sin levantar un dedo",
+      "description_2": "Acceso Vitalicio: Tu Turbo Finder nunca caduca — úsalo en cualquier momento y mantén activa tu estrategia de búsqueda de empleo a largo plazo",
+      "description_3": "Oportunidades Prioritarias: La clasificación inteligente de trabajos organiza las vacantes de mayor a menor probabilidad de aceptación, ayudándote a concentrarte en los roles con las mejores posibilidades",
+      "description_4": "Valor Transferible: Una vez que consigas el trabajo de tus sueños, transfiere o revende Turbo Finder — convirtiendo tu compra en una inversión valiosa y compartible"
+    },
+    "turbo": {
+      "description_1": "Postúlate Mientras Duermes: Se postula automáticamente a hasta 30 trabajos donde tienes un 80%+ de coincidencia — para que te adelantes sin levantar un dedo",
+      "description_2": "Acceso Vitalicio: Tu Turbo Finder nunca caduca — úsalo en cualquier momento y mantén activa tu estrategia de búsqueda de empleo a largo plazo",
+      "description_3": "Oportunidades Prioritarias: La clasificación inteligente de trabajos organiza las vacantes de mayor a menor probabilidad de aceptación, ayudándote a concentrarte en los roles con las mejores posibilidades",
+      "description_4": "Valor Transferible: Una vez que consigas el trabajo de tus sueños, transfiere o revende Turbo Finder — convirtiendo tu compra en una inversión valiosa y compartible"
+    },
+    "yearly": {
+      "description_1": "Postúlate Mientras Duermes: Se postula automáticamente a hasta 30 trabajos donde tienes un 80%+ de coincidencia — para que te adelantes sin levantar un dedo",
+      "description_2": "Acceso Vitalicio: Tu Turbo Finder nunca caduca — úsalo en cualquier momento y mantén activa tu estrategia de búsqueda de empleo a largo plazo",
+      "description_3": "Oportunidades Prioritarias: La clasificación inteligente de trabajos organiza las vacantes de mayor a menor probabilidad de aceptación, ayudándote a concentrarte en los roles con las mejores posibilidades",
+      "description_4": "Valor Transferible: Una vez que consigas el trabajo de tus sueños, transfiere o revende Turbo Finder — convirtiendo tu compra en una inversión valiosa y compartible"
+    },
+    "lifetime": {
+      "description_1": "Postúlate Mientras Duermes: Se postula automáticamente a hasta 30 trabajos donde tienes un 80%+ de coincidencia — para que te adelantes sin levantar un dedo",
+      "description_2": "Acceso Vitalicio: Tu Turbo Finder nunca caduca — úsalo en cualquier momento y mantén activa tu estrategia de búsqueda de empleo a largo plazo",
+      "description_3": "Oportunidades Prioritarias: La clasificación inteligente de trabajos organiza las vacantes de mayor a menor probabilidad de aceptación, ayudándote a concentrarte en los roles con las mejores posibilidades",
+      "description_4": "Valor Transferible: Una vez que consigas el trabajo de tus sueños, transfiere o revende Turbo Finder — convirtiendo tu compra en una inversión valiosa y compartible"
+    }
+  },
+
+  
+  "turbo_and_booster": {
+    "activate_turbo_finder_button": "Activar Turbo Finder",
+    "activate_profile_booster_button": "Activar Profile Booster",
+    "auto_apply_label": "Auto-Postulación",
+    "auto_apply_tooltip": "Postúlate automáticamente a trabajos donde tu coincidencia sea del 80% o más",
+    "turbo_finder_email_label": "Notificaciones por Email de Turbo Finder",
+    "turbo_finder_email_tooltip": "Recibe un reporte diario con todas las coincidencias de trabajo encontradas por Turbo Finder",
+    "auto_apply_notifications_label": "Notificaciones de Auto-Postulación",
+    "auto_apply_notifications_tooltip": "Mantente informado cuando nos postulemos a trabajos de alta coincidencia en tu nombre",
+    "profile_booster_email_label": "Notificaciones por Email de Profile Booster",
+    "profile_booster_email_tooltip": "Recibe notificaciones por email cuando tu perfil sea potenciado"
+  },
+
+    "notification_switches": {
+    "profile_booster_email_label": "Notificaciones por Email de Profile Booster",
+    "profile_booster_email_tooltip": "Recibe notificaciones por email cuando tu perfil sea potenciado",
+    "auto_apply_label": "Auto-Postulación",
+    "auto_apply_tooltip": "Postúlate automáticamente a trabajos donde tu coincidencia sea del 80% o más",
+    "turbo_finder_email_label": "Notificaciones por Email de Turbo Finder",
+    "turbo_finder_email_tooltip": "Recibe un reporte diario con todas las coincidencias de trabajo encontradas por Turbo Finder",
+    "auto_apply_email_label": "Notificaciones por Email de Auto-Postulación",
+    "auto_apply_email_tooltip": "Mantente informado cuando nos postulemos a trabajos de alta coincidencia en tu nombre",
+    "activate_button": "Activar Turbo Finder",
+    "activating_text": "Activando ..."
+  },
+
+
+  
+  "details_assign_page": {
+    "back_button": "Atrás",
+    "details_title": "Detalles",
+    "details_subtitle": "Revisa detalles y activa",
+    "acquired_on_label": "Adquirido el",
+    "time_left_label": "Tiempo Restante",
+    "posts_left_label": "Publicaciones Restantes",
+    "no_expiration_date": "Sin fecha de caducidad",
+    "days_left": "365 días",
+    "id_label": "ID",
+    "assign_premium_feature_title": "Asignar Función Premium",
+    "assign_premium_feature_subtitle": "Seleccionar publicación de trabajo"
+  },
+
+
+    "table_booster_turbo": {
+    "job_post_header": "Publicación de Trabajo",
+    "location_header": "Ubicación",
+    "posted_date_header": "Fecha de Publicación",
+    "created_by_header": "Creado por",
+    "turbo_recruiter_header": "Turbo Recruiter",
+    "post_booster_header": "Post Booster",
+    "unknown_creator": "Desconocido",
+    "search_placeholder": "Buscar por Título del Trabajo",
+    "assigned_button": "Asignado",
+    "unassigned_button": "No asignado",
+    "date_posted_button": "Fecha de Publicación",
+    "no_results": "Sin resultados",
+    "back_button": "Atrás",
+    "assign_to_posts_button": "Asignar a Publicaciones",
+    "selected_rows_count": "fila(s) seleccionada(s)"
+  },
+  
+    "assign_nft_preview_table": {
+    "dialog_title": "Asignar {{nameNft}} a:",
+    "premium_feature": "Función Premium",
+    "turbo_recruiter": "Turbo Recruiter",
+    "post_booster": "Post Booster",
+    "turbo_and_booster": "Turbo Recruiter & Post Booster",
+    "job_post_header": "Publicación de Trabajo",
+    "location_header": "Ubicación",
+    "posted_date_header": "Fecha de Publicación",
+    "cancel_button": "Cancelar",
+    "assign_to_posts_button": "Asignar a Publicaciones",
+    "no_location": "-"
+  },
+
+    "company_notifications_switches": {
+    "post_booster_email_label": "Notificaciones por Email de Post Booster",
+    "post_booster_email_tooltip": "Recibirás un email semanal enumerando los candidatos que han visto tu publicación clasificada por esta función premium",
+    "turbo_recruiter_email_label": "Notificaciones por Email de Turbo Recruiter",
+    "turbo_recruiter_email_tooltip": "Recibirás un email semanal enumerando todos los candidatos encontrados para cada rol por esta función premium"
   }
+  
 }
