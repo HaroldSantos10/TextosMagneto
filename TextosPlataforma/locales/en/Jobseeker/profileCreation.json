@@ -162,7 +162,7 @@
             "description": "Failed to save profile. Please try again."
             },
             "fileError": {
-            "title": "Company Profile",
+            "title": "Invalid file format or size",
             "description": "PNG, JPG, GIF up to 10MB"
             }
         }

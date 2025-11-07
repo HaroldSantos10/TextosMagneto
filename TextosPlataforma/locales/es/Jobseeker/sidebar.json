@@ -1,0 +1,18 @@
+{
+    "sidebar": {
+        "dashboard": "Panel de Empleos",
+        "myJobs": "Mis Trabajos",
+        "chat": "Chat",
+        "premiumFeatures": "Servicios Premium",
+        "analytics": "Reportes",
+        "help": "Ayuda"
+    },
+    "common": {
+        "unreadMessages": "Mensajes no leídos",
+        "logoAlt": "Logo de la Empresa",
+        "profileIncomplete": "Completa tu perfil para acceder a esta función"
+    },
+    "navigation": {
+        "disabledTooltip": "Completa tu perfil para desbloquear esta función"
+    }
+}

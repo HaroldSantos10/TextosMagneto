@@ -1,0 +1,18 @@
+{
+  "sidebar": {
+    "dashboard": "Dashboard",
+    "myJobs": "My Jobs",
+    "chat": "Chat",
+    "premiumFeatures": "Premium Features",
+    "analytics": "Analytics",
+    "help": "Help"
+  },
+  "common": {
+    "unreadMessages": "unread messages",
+    "logoAlt": "Company Logo",
+    "profileIncomplete": "Complete your profile to access this feature"
+  },
+  "navigation": {
+    "disabledTooltip": "Complete your profile to unlock this feature"
+  }
+}
