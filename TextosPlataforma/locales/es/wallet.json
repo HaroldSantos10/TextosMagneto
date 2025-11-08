@@ -1,0 +1,329 @@
+{
+  "nav_bar": {
+    "button_back": "Atrás",
+    "button_send": "Enviar",
+    "nav_link_1": "Activo transferible",
+    "nav_link_2": "Tokens",
+    "nav_link_3": "Actividad"
+  },
+
+  "send_assets_dialog": {
+    "dialog_title": "Seleccionar activo para enviar",
+    "button_tokens": "Tokens"
+  },
+
+  "status_filter": {
+    "status_active": "Activo",
+    "status_expired": "Expirado",
+    "status_placeholder": "Estado"
+  },
+
+  "nft_detail_page": {
+    "title": "Detalles del NFT",
+    "description": "Consulta los detalles y compra"
+  },
+
+  "card_details": {
+    "loading": "Cargando...",
+    "data_not_found": "Datos no encontrados",
+    "status": {
+      "active": "Activo",
+      "expired": "Expirado"
+    },
+    "nft_info": {
+      "about": "Acerca del NFT:",
+      "id_label": "ID",
+      "token_standard": "ERC-721",
+      "contract_address": "Dirección del contrato",
+      "copy_tooltip": "Copiar dirección del contrato"
+    },
+    "expiration": {
+      "unlimited": "Ilimitado",
+      "not_activated": "Este NFT aún no ha sido activado.",
+      "active_until": "Este NFT está activo hasta {{formattedExpiration}}",
+      "acquired_on": "Adquirido el",
+      "expiration_date": "Fecha de expiración",
+      "time_left": "Tiempo restante",
+      "post_left": "Publicaciones restantes"
+    }
+  },
+
+  "details_asign_page": {
+    "button_back": "Atrás",
+    "title": "Detalles",
+    "subtitle": "Consulta los detalles y activa",
+    "nft_info": {
+      "acquired_on": "Adquirido el",
+      "time_left": "Tiempo restante",
+      "unlimited": "Ilimitado",
+      "auto_applies_left": "Autoaplicaciones restantes",
+      "posts_left": "Publicaciones restantes",
+      "id_label": "ID"
+    }
+  },
+
+  "featureCompanyData": {
+    "booster": {
+      "title": "Descripción de Post Booster",
+      "description": "Destácate. Sé notado primero.",
+      "features": {
+        "feature_1": "3 Publicaciones impulsadas: Destaca y prioriza hasta 3 ofertas de trabajo para obtener la máxima exposición.",
+        "feature_2": "Sin fecha de expiración: Usa tus impulsos en cualquier momento — nunca expiran.",
+        "feature_3": "Visibilidad en la parte superior: Tus publicaciones impulsadas se muestran en la parte superior de las búsquedas de candidatos relevantes, ayudándote a alcanzar el talento adecuado antes que tus competidores.",
+        "feature_4": "Informes de rendimiento semanales: Mantente informado con resúmenes de visibilidad que muestran qué candidatos vieron tu publicación entre las principales."
+      },
+      "info": "Felicitaciones por obtener Post Booster — tu acelerador de visibilidad para mejores resultados de contratación.",
+      "info2": "Con Post Booster, tus ofertas de trabajo suben a la cima — literalmente. Esta función garantiza que tus publicaciones aparezcan primero en los paneles de los candidatos, atrayendo más solicitantes calificados rápidamente. Perfecto para cubrir roles competitivos o ampliar tu base de talento.",
+      "example": "Ejemplo: Publicas un puesto de atención al cliente — y en lugar de esperar días por el candidato adecuado, obtienes postulantes calificados en horas gracias a la posición destacada y la mayor visibilidad.",
+      "additionalInfo": "Totalmente transferible, lo que significa que si tus planes de contratación cambian, puedes regalar o vender tus impulsos no usados. Más flexibilidad, mejores resultados."
+    },
+    "turbo": {
+      "title": "Descripción de Turbo Recruiter",
+      "description": "Coincidencias más inteligentes. Contrataciones más rápidas.",
+      "features": {
+        "feature_1": "Incluye 3 publicaciones de trabajo: Obtén coincidencias de candidatos impulsadas por IA para hasta 3 roles.",
+        "feature_2": "Sin fecha de expiración: Usa tus publicaciones cuando quieras — Turbo Recruiter nunca expira.",
+        "feature_3": "Búsqueda de candidatos impulsada por IA: Nuestro algoritmo analiza y clasifica candidatos según compatibilidad, experiencia y ajuste al rol — para que te enfoques en entrevistar, no en filtrar.",
+        "feature_4": "Informes inteligentes: Recibe resúmenes detallados de los candidatos con mejor coincidencia para cada publicación, manteniéndote informado y en control durante todo el proceso de contratación."
+      },
+      "info": "Felicitaciones por obtener Turbo Recruiter — tu asistente inteligente de contratación.",
+      "info2": "Turbo Recruiter revoluciona la forma de encontrar talento al usar IA avanzada para ofrecer candidatos perfectamente compatibles con tus vacantes. Di adiós a revisar cientos de currículums y hola a contrataciones precisas que ahorran tiempo, esfuerzo y frustración.",
+      "example": "Ejemplo: Estás contratando a un desarrollador de nivel medio. En lugar de revisar más de 100 solicitudes aleatorias, recibes instantáneamente una lista corta de perfiles altamente alineados — listos para revisar y contactar.",
+      "additionalInfo": "También es una función premium transferible, por lo que si no estás contratando activamente, puedes transferirla o venderla — convirtiéndola en un activo inteligente con valor real."
+    },
+    "yearly": {
+      "title": "Descripción de Función Completa Anual",
+      "description": "Poder total. Durante todo un año.",
+      "features": {
+        "feature_1": "365 días de acceso completo: Disfruta de un año completo de uso ininterrumpido desde la fecha de compra.",
+        "feature_2": "Todas las funciones premium incluidas: Turbo Recruiter, Post Booster, publicaciones ilimitadas y análisis detallados de rendimiento.",
+        "feature_3": "Informes semanales: Mantente informado con información continua sobre coincidencias de candidatos, rendimiento de publicaciones y tendencias de contratación.",
+        "feature_4": "Optimización basada en datos: Ajusta tu estrategia de contratación con confianza usando resultados en tiempo real y transparentes."
+      },
+      "info": "Felicitaciones por desbloquear la Función Completa Anual — tu pase de acceso total para contrataciones más inteligentes, rápidas y eficientes.",
+      "info2": "Con este pase anual, tu equipo obtiene acceso ilimitado a todas las herramientas premium — incluyendo Turbo Recruiter, Post Booster y publicaciones ilimitadas — brindándote todo lo necesario para escalar tu proceso de contratación con velocidad y precisión.",
+      "example": "Ejemplo: Estás ampliando un equipo tecnológico con múltiples roles. Con 12 meses de acceso, puedes aplicar todas las funciones premium libremente, recibir talento de primer nivel más rápido y tomar decisiones de contratación basadas en datos sin restricciones.",
+      "additionalInfo": "Y si tu ritmo de contratación disminuye, esta función es completamente transferible — dándote la opción de pasarla o vender el tiempo restante. Es una opción inteligente para empresas con necesidades de contratación estacionales o temporales."
+    },
+    "lifetime": {
+      "title": "Descripción de Función Completa de por Vida",
+      "description": "Contrata sin límites. Para siempre.",
+      "info": "Felicitaciones por desbloquear la Función Completa de por Vida — tu llave permanente para contrataciones poderosas e ilimitadas.",
+      "info2": "Esta mejora única te da acceso completo y de por vida a todas las herramientas premium de reclutamiento — incluyendo Turbo Recruiter, Post Booster, publicaciones ilimitadas e informes continuos de rendimiento. Sin suscripciones, sin renovaciones, sin restricciones — solo poder total de contratación, para siempre.",
+      "features": {
+        "feature_1": "Sin fecha de expiración: Disfruta de acceso ilimitado sin límites de tiempo — nunca.",
+        "feature_2": "Todas las funciones premium incluidas: Turbo Recruiter, Post Booster, publicaciones ilimitadas y análisis detallados de rendimiento.",
+        "feature_3": "Control y flexibilidad total: Contrata en cualquier momento, escala libremente y toma decisiones inteligentes basadas en datos sin preocuparte por renovaciones."
+      },
+      "example": "Ejemplo: Tu empresa contrata regularmente durante todo el año. Con acceso de por vida, ahorras en costos recurrentes y obtienes una ventaja constante en cada ciclo de contratación.",
+      "additionalInfo": "Además, es totalmente transferible, por lo que si tus necesidades cambian, puedes transferirla o venderla — convirtiéndola en una inversión inteligente para el crecimiento y estabilidad a largo plazo de tu empresa."
+    }
+  },
+
+  "featureJobseekerData": {
+    "booster": {
+      "title": "Descripción de Post Booster",
+      "description": "Destácate. Sé notado primero.",
+      "features": {
+        "feature_1": "Válido para 30 posiciones destacadas.",
+        "feature_2": "Sin fecha de expiración."
+      },
+      "info": "Post Booster aumenta la visibilidad de tus publicaciones, colocándolas en la parte superior de los paneles de candidatos y maximizando el compromiso. Ya sea que estés cubriendo roles de alta demanda o construyendo una base de talento, garantiza que más candidatos calificados vean tus publicaciones primero.",
+      "info2": "También recibirás informes semanales mostrando en cuáles candidatos estuviste entre las principales posiciones, manteniéndote informado sobre tu visibilidad y alcance.",
+      "example": "Ejemplo: Publicas un puesto de atención al cliente — y en lugar de esperar días por el candidato adecuado, obtienes postulantes calificados en horas gracias a la posición destacada y mayor visibilidad.",
+      "additionalInfo": "Totalmente transferible, lo que significa que si tus planes cambian, puedes regalar o vender tus impulsos no usados. Más flexibilidad, mejores resultados."
+    },
+    "turbo": {
+      "title": "Descripción de Turbo Finder",
+      "description": "Encuentra empleos más rápido. Postúlate con inteligencia.",
+      "features": {
+        "feature_1": "30 Autoaplicaciones: Turbo Finder aplica automáticamente a hasta 30 empleos donde tengas un 80% o más de compatibilidad.",
+        "feature_2": "Sin fecha de expiración: Úsalo cuando quieras — tu Turbo Finder nunca expira.",
+        "feature_3": "Clasificación inteligente de empleos: Mira oportunidades organizadas de mayor a menor probabilidad de aceptación, ayudándote a enfocarte donde más importa.",
+        "feature_4": "Informes semanales: Mantente informado con actualizaciones curadas sobre nuevas vacantes que se ajustan a tu perfil — además de aquellas a las que Turbo Finder ya aplicó en tu nombre."
+      },
+      "info": "Felicitaciones por obtener Turbo Finder — tu asistente personal de búsqueda de empleo impulsado por IA.",
+      "info2": "Con Turbo Finder, tu búsqueda de empleo se vuelve estratégica y sin esfuerzo. Diseñado para ahorrar tiempo y maximizar tus oportunidades, esta herramienta no solo encuentra vacantes — también actúa sobre ellas.",
+      "example": "Recibirás informes semanales con las oportunidades que Turbo Finder encontró para ti — manteniéndote informado y en control. Ejemplo: Imagina despertar con 5 nuevas vacantes adaptadas a tu perfil — y 2 de ellas ya aplicadas mientras dormías. Así funciona Turbo Finder.",
+      "additionalInfo": "Y como es una función premium transferible, si consigues tu empleo ideal temprano, puedes pasarla o venderla a alguien que la necesite — convirtiéndola en una inversión inteligente."
+    },
+    "yearly": {
+      "title": "Descripción de Función Completa Anual",
+      "description": "Todas las herramientas premium. Por un año completo.",
+      "features": {
+        "feature_1": "Válido por 365 días desde la compra.",
+        "feature_2": "Acceso a todas las funciones premium."
+      },
+      "info": "Este pase te da 12 meses de acceso ilimitado a nuestras mejores funciones — Turbo Finder, Profile Booster, autoaplicaciones y reportes detallados que te mantienen actualizado sobre tu progreso — para llevar tu búsqueda de empleo al siguiente nivel.",
+      "info2": "",
+      "example": "Ejemplo: Estás buscando un trabajo remoto en tecnología. Con un año completo de acceso, obtienes coincidencias automáticas, visibilidad mejorada, aplicaciones automáticas y herramientas que ahorran tiempo trabajando juntas.",
+      "additionalInfo": "¿Terminaste tu búsqueda antes? Este acceso es transferible — así puedes regalar o vender el tiempo restante a alguien que necesite un impulso. Poder, con flexibilidad."
+    },
+    "lifetime": {
+      "title": "Descripción de Función Completa de por Vida",
+      "description": "Desbloqueo único. Soporte de por vida.",
+      "features": {
+        "feature_1": "Sin fecha de expiración (nunca expira).",
+        "feature_2": "Acceso a todas las funciones premium."
+      },
+      "info": "Para quienes desean libertad total, esta es la herramienta definitiva. Obtienes acceso ilimitado — para siempre — a todas las funciones premium de nuestra plataforma, sin restricciones ni límites de tiempo. Ya sea que cambies de industria, avances profesionalmente o apoyes a alguien más, esta es una inversión a largo plazo en tu carrera con poder total de por vida.",
+      "info2": "",
+      "example": "Ejemplo: Estás cambiando al sector tecnológico ahora, pero planeas mudarte al extranjero en 3 años — este desbloqueo te acompaña en cada paso, sin importar cómo cambien tus metas.",
+      "additionalInfo": "Además, es totalmente transferible, dándole valor a largo plazo. Si alguna vez decides transferirla, puedes hacerlo — convirtiendo tu compra única en una poderosa inversión."
+    }
+  },
+
+  "token_cards": {
+    "loading_balances": "Cargando saldos...",
+    "error_fetch_balances": "Error al cargar los saldos de tokens. Inténtalo nuevamente.",
+    "balance": "Saldo"
+  },
+
+  "filter_activitys": {
+    "title": "Historial de transacciones",
+    "label_select_transaction_type": "Seleccionar tipo de transacción",
+    "placeholder_type": "Tipo",
+    "option_all": "Todas",
+    "option_deposit": "Depósito",
+    "option_withdrawal": "Retiro",
+    "option_transfer": "Transferencia"
+  },
+
+  "activity_cards": {
+    "loading_activity": "Cargando actividad...",
+    "no_activity_found": "No se encontró actividad."
+  },
+
+  "send_nft_page": {
+    "title": "Enviar activo",
+    "description": "Completa la información a continuación para enviar tu activo.",
+
+    "send_assets_form": {
+      "label_to": "Para",
+      "placeholder_to": "Ingresa dirección pública (0x) o nombre de dominio",
+      "label_asset": "Activo",
+      "description_asset": "Consulta los detalles y envía",
+      "label_quantity": "Cantidad",
+      "placeholder_quantity": "Ingresa cantidad",
+      "button_continue": "Continuar",
+      "validation_to_required": "La dirección de destino es obligatoria",
+      "validation_to_invalid": "Por favor ingresa una dirección Ethereum válida",
+      "validation_asset_required": "Selecciona un activo para continuar",
+      "validation_quantity_required": "La cantidad es obligatoria",
+      "validation_quantity_positive": "La cantidad debe ser mayor que 0",
+      "validation_quantity_max": "La cantidad debe ser menor o igual a tu saldo disponible"
+    },
+
+    "send_assets_dialog": {
+      "title": "Seleccionar activo para enviar",
+      "tabs": {
+        "tokens": "Tokens",
+        "transferable_assets": "Activo transferible"
+      },
+      "loading": {
+        "fetching_balances": "Error al cargar los saldos de tokens. Inténtalo nuevamente."
+      },
+      "labels": {
+        "balance": "Saldo",
+        "token": "Token",
+        "symbol": "Símbolo",
+        "amount": "Cantidad"
+      },
+      "buttons": {
+        "close": "Cerrar"
+      },
+      "aria": {
+        "select_asset_to_send": "Selecciona qué activo deseas enviar",
+        "close_dialog": "Cerrar diálogo de selección"
+      },
+      "messages": {
+        "no_assets_available": "No hay activos disponibles para enviar.",
+        "no_tokens_found": "No se encontraron tokens.",
+        "no_nfts_found": "No se encontraron NFTs."
+      }
+    }
+  },
+
+  "summary_content_transferNFT": {
+    "title": "Resumen de transacción",
+    "subtitle": "Confirma la información a continuación antes de continuar.",
+    "from_label": "De",
+    "to_label": "Para",
+    "network_label": "Red",
+    "network_value": "Ethereum Mainnet",
+    "gas_fee_label": "Tarifa de gas",
+    "button_cancel": "Cancelar",
+    "gas_fee_value": "0.0003 ETH",
+    "cancel_button": "Cancelar",
+    "confirm_button": "Confirmar activación"
+  },
+
+  "send_assets_card": {
+    "warning_message": "La autenticación de dos factores no está habilitada. Habilítala para realizar esta acción.",
+    "enable_2fa_link": "Habilitar 2FA",
+    "from_label": "De"
+  },
+
+  "receive_dialog": {
+    "button": "Recibir",
+    "title": "Recibir"
+  },
+
+  "security_page": {
+    "header": {
+      "title": "Configuración de seguridad",
+      "description": "Confirma la información a continuación antes de continuar."
+    },
+    "section": {
+      "main_title": "Seguridad y privacidad",
+      "description": "Administra la configuración de autenticación de dos factores para tu cuenta Magneto."
+    },
+    "two_factor": {
+      "title": "Autenticación de dos factores",
+      "description": "La autenticación de dos factores (2FA) ayuda a proteger tu cuenta al requerir un código adicional cuando inicias sesión.",
+      "methods_label": "Métodos de autenticación de dos factores",
+      "authenticator_app_title": "Aplicación de autenticador",
+      "authenticator_app_active": "Tu cuenta está protegida con autenticación de dos factores mediante una aplicación de autenticador. Administra o actualiza la configuración de autenticación a continuación.",
+      "authenticator_app_inactive": "Usa una aplicación de autenticador como tu método de autenticación de dos factores. Se te pedirá ingresar el código de seguridad proporcionado por tu aplicación."
+    },
+
+    "setup-button": "Configurar",
+    "remove-methods": "Eliminar método",
+
+    "two_factor_dialog": {
+      "button": "Configurar",
+      "choose_app": {
+        "title": "Elige una Aplicación Autenticadora",
+        "instruction": "Descarga e instala una Aplicación Autenticadora en tu teléfono o tableta.",
+        "cancel": "Cancelar",
+        "continue": "Continuar"
+      },
+      "setup_app": {
+        "title": "Configura tu aplicación",
+        "instruction": "Abre la Aplicación Autenticadora, toca el “+” y escanea la imagen de abajo usando tu teléfono o tableta.",
+        "enter_code": "Ingresa el código de seguridad para continuar.",
+        "activate_button": "Activar Aplicación",
+        "errors": {
+          "generate_error_title": "Por favor, inténtalo más tarde.",
+          "generate_error_description": "Por favor, inténtalo más tarde.",
+          "verify_error_title": "Error al verificar el código OTP",
+          "verify_error_description": "Por favor, inténtalo más tarde."
+        }
+      },
+      "setup_complete": {
+        "title": "Configuración Completa",
+        "success_title": "Autenticación Configurada Exitosamente",
+        "success_description": "Has configurado exitosamente una aplicación como tu método de autenticación de dos factores.",
+        "backup_instruction": "Si pierdes acceso a tu Aplicación Autenticadora, puedes iniciar sesión usando los códigos de respaldo disponibles aquí.",
+        "alert": "Escribe o copia estos códigos de respaldo y guárdalos en un lugar seguro.",
+        "copy_button": "Copiar Códigos de Respaldo",
+        "copy_success": "Códigos de respaldo copiados al portapapeles",
+        "generating_codes": "Generando códigos...",
+        "note": "Nota: Solo puedes usar cada código de respaldo una vez.",
+        "done_button": "Hecho",
+        "error_backup_codes": "Error al generar los códigos de respaldo",
+        "error_backup_codes_description": "Por favor, inténtalo más tarde."
+      }
+    }
+  }
+}

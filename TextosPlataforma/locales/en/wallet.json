@@ -1,0 +1,335 @@
+{
+  "nav_bar": {
+    "button_back": "Back",
+    "button_send": "Send",
+    "nav_link_1": "Transferable Asset",
+    "nav_link_2": "Tokens",
+    "nav_link_3": "Activity"
+  },
+
+  
+  "send_assets_dialog": {
+    "dialog_title": "Select Asset to Send",
+    "button_tokens": "Tokens"
+  },
+
+    "status_filter": {
+    "status_active": "Active",
+    "status_expired": "Expired",
+    "status_placeholder": "Status"
+  },
+
+    "nft_detail_page": {
+    "title": "NFT Details",
+    "description": "Check details and buy"
+  },
+
+    "card_details": {
+    "loading": "Loading...",
+    "data_not_found": "Data not found",
+    "status": {
+      "active": "Active",
+      "expired": "Expired"
+    },
+    "nft_info": {
+      "about": "About NFT:",
+      "id_label": "ID",
+      "token_standard": "ERC-721",
+      "contract_address": "Contract Address",
+      "copy_tooltip": "Copy contract address"
+    },
+    "expiration": {
+      "unlimited": "Unlimited",
+      "not_activated": "This NFT has not been activated yet.",
+      "active_until": "This NFT is active until {{formattedExpiration}}",
+      "acquired_on": "Acquired on",
+      "expiration_date": "Expiration Date",
+      "time_left": "Time Left",
+      "post_left": "Post Left"
+    }
+  },
+
+    "details_asign_page": {
+    "button_back": "Back",
+    "title": "Details",
+    "subtitle": "Check details and activate",
+    "nft_info": {
+      "acquired_on": "Acquired on",
+      "time_left": "Time Left",
+      "unlimited": "Unlimited",
+      "auto_applies_left": "Auto-Applies Left",
+      "posts_left": "Posts Left",
+      "id_label": "ID"
+    }
+  },
+
+      "featureCompanyData": {
+    "booster": {
+      "title": "Post Booster Description",
+      "description": "Stand out. Get noticed first.", 
+      "features": {
+        "feature_1": "3 Boosted Job Posts: Highlight and prioritize up to 3 job listings for maximum exposure.",
+        "feature_2": "No Expiration Date: Use your boosts anytime — they never expire.",
+        "feature_3": "Top Placement Visibility: Your boosted posts are displayed at the top of relevant candidate searches, helping you reach the right talent before your competitors.",
+        "feature_4": "Weekly Performance Reports: Stay informed with visibility summaries showing which candidates saw your post among the top listings."
+      },
+      "info": "Congratulations on getting Post Booster — your visibility accelerator for better hiring results.",
+      "info2": "With Post Booster, your job listings rise to the top — literally. This feature ensures your posts appear first in candidate dashboards, attracting more qualified applicants faster. Perfect for filling competitive roles or expanding your talent pipeline, it gives your listings the attention they deserve.",
+      "example": "Example: You post a customer service role — and instead of waiting days for the right fit, you get strong applicants within hours thanks to top placement and increased visibility.",
+      "additionalInfo": "Fully transferable, which means if your hiring plans shift, you can gift or sell your unused boosts. More flexibility, better results."
+    },
+    "turbo": {
+      "title": "Turbo Recruiter Description",
+      "description": "Smarter matches. Faster hires.",
+      "features": {
+        "feature_1": "3 Job Posts Included: Get AI-powered candidate matching for up to 3 roles.",
+        "feature_2": "No Expiration Date: Use your posts whenever you're ready — Turbo Recruiter never expires.",
+        "feature_3": "AI-Driven Candidate Search: Our algorithm scans and ranks candidates based on compatibility, experience, and role fit — so you can focus on interviewing, not filtering.",
+        "feature_4": "Smart Reports: Receive detailed summaries of top-matching candidates for every post, keeping you informed and in control throughout your hiring process."
+      },
+      "info": "Congratulations on getting Turbo Recruiter — your intelligent hiring assistant.",
+      "info2": "Turbo Recruiter revolutionizes the way you find talent by using advanced AI to deliver perfectly matched candidates for your open roles. Say goodbye to endless resume reviews and hello to precision hiring that saves you time, effort, and frustration.",
+      "example": "Example: You're hiring for a mid-level developer. Instead of reviewing 100+ random applications, you instantly receive a shortlist of top-aligned profiles — ready to review and contact.",
+      "additionalInfo": "It's also a Transferable Premium Feature, so if you're not actively hiring, you can pass it on or sell it — turning it into a smart asset with real value."
+    },
+    "yearly": {
+      "title": "Yearly Full Feature Description",
+      "description": "Full power. For a full year.",
+      "features": {
+        "feature_1": "365 Days of Full Access: Enjoy a full year of uninterrupted use from the date of purchase.",
+        "feature_2": "All Premium Features Included: Turbo Recruiter, Post Booster, unlimited job posts, and detailed performance analytics.",
+        "feature_3": "Weekly Reports: Stay informed with ongoing insights on candidate matches, post performance, and overall hiring trends.",
+        "feature_4": "Data-Driven Optimization: Adjust your hiring strategy with confidence using transparent, real-time results."
+      },
+      "info": "Congratulations on unlocking the Yearly Full Feature — your all-access pass to smarter, faster, and more efficient hiring.",
+      "info2": "With this yearly pass, your team gets unrestricted access to all premium tools — including Turbo Recruiter, Post Booster, and unlimited job postings — giving you everything you need to scale your hiring process with speed and precision.",
+      "example": "Example: You're scaling a tech team across multiple roles. With 12 months of access, you can apply all premium features freely, receive top talent faster, and make data-backed hiring decisions without restrictions.",
+      "additionalInfo": "And if your hiring slows down, this feature is fully transferable — giving you the option to pass it along or sell the remaining time. It's a smart option for companies with seasonal or temporary hiring needs."
+    },
+    "lifetime": {
+      "title": "Lifetime Full Feature Description",
+      "description": "Hire without limits. Forever.",
+      "info": "Congratulations on unlocking the Lifetime Full Feature — your permanent key to effortless, powerful, and unlimited hiring.",
+      "info2": "This one-time upgrade gives you complete, lifetime access to all premium recruitment tools — including Turbo Recruiter, Post Booster, unlimited job posts, and ongoing performance reports. No subscriptions, no renewals, and no restrictions — just full hiring power, forever.",
+      "features": {
+        "feature_1": "No Expiration Date: Enjoy unlimited access with no time limits — ever.",
+        "feature_2": "All Premium Features Included: Turbo Recruiter, Post Booster, unlimited job postings, and detailed performance analytics.",
+        "feature_3": "Full Control and Flexibility: Hire anytime, scale freely, and make smarter, data-driven decisions without worrying about renewals."
+      },
+      "example": "Example: Your company recruits regularly throughout the year. With lifetime access, you save on recurring costs and gain a consistent, powerful edge in every hiring cycle.",
+      "additionalInfo": "Plus, it's fully transferable, so if your needs ever change, you can pass it on or sell it — making this a smart investment in your long-term company growth and stability."
+    }
+  },
+
+  "featureJobseekerData": {
+    "booster": {
+      "title": "Post Booster Description",
+      "description": "Stand out. Get noticed first.",
+      "features": {
+        "feature_1": "Good for 30 top-placements.",
+        "feature_2": "No expiration date."
+      },
+      "info": "Post Booster increases the visibility of your job listings, placing them at the top of candidate dashboards and maximizing engagement. Whether you're filling high-demand roles or building a talent pipeline, it ensures more qualified candidates see your posts first.",
+      "info2": "You'll also receive weekly reports showing for which candidates were you among the top positions, so you stay informed on your visibility and reach.",
+      "example": "Example: You post a customer service role — and instead of waiting days for the right fit, you get strong applicants within hours thanks to top placement and increased visibility.",
+      "additionalInfo": "Fully transferable, which means if your hiring plans shift, you can gift or sell your unused boosts. More flexibility, better results."
+    },
+    "turbo": {
+      "title": "Turbo Recruiter Description",
+      "description": "Find jobs faster. Apply smarter.",
+      "features": {
+        "feature_1": "30 Auto-Applications: Turbo Finder automatically applies to up to 30 jobs where you're an 80% or higher match.",
+        "feature_2": "No Expiration Date: Use it whenever you're ready — your Turbo Finder never expires.",
+        "feature_3": "Smart Job Ranking: See opportunities organized from highest to lowest acceptance probability, helping you focus where it matters most.",
+        "feature_4": "Weekly Reports: Stay informed with curated updates on new openings that fit your profile — plus which ones Turbo Finder has already applied to on your behalf."
+      },
+      "info": "Congratulations on getting Turbo Finder — your personal AI-powered job search assistant.",
+      "info2": "With Turbo Finder, your job hunt just became effortless and strategic. Designed to save you time and maximize your chances, this tool does more than find opportunities — it acts on them.",
+      "example": "You'll receive weekly reports with the job opportunities Turbo Finder found for you—keeping you informed and in control. Example: Imagine waking up to 5 new openings tailored to your profile—and 2 of them already applied for while you slept. That's Turbo Finder at work.",
+      "additionalInfo": "And since it's a Transferable Premium Feature, if you land your ideal job early, you can pass it on or sell it to someone who needs it—turning it into a smart investment."
+    },
+    "yearly": {
+      "title": "Yearly Full Feature Description",
+      "description": "All the premium tools. For one full year.",
+      "features": {
+        "feature_1": "Good for 365 days from purchase.",
+        "feature_2": "Access to all premium features."
+      },
+      "info": "This pass gives you 12 months of unlimited access to our best features — Turbo Finder, Profile Booster, automatic job applications, and detailed reporting to keep you updated on your progress — to take your job search to the next level.",
+      "info2": "",
+      "example": "Example: You're on a mission to land a remote tech job. With a full year of access, you get automatic matching, boosted visibility, automated applications and time-saving tools all working together.",
+      "additionalInfo": "Finished your search early? This access is transferable — so you can gift or sell the remaining time to someone else who needs a boost. It's power, with flexibility."
+    },
+    "lifetime": {
+      "title": "Lifetime Full Feature Description",
+      "description": "One-time unlock. Lifetime support.",
+      "features": {
+        "feature_1": "No expiration date (no expiration).",
+        "feature_2": "Access to all premium features."
+      },
+      "info": "For those who want complete freedom, this is the ultimate tool. You get unlimited access — forever — to all of our platform's premium features, with no restrictions or time limits. Whether you're changing industries, leveling up every few years, or supporting someone else's search, this is a long-term investment in your career with full feature power for life.",
+      "info2": "",
+      "example": "Example: You're transitioning to tech now, but planning a move abroad in 3 years — this unlock supports you every step of the way, no matter how often your goals shift.",
+      "additionalInfo": "Plus, it's fully transferable, giving it long-term value. If you ever decide to pass it on, you can — turning your one-time purchase into a powerful investment."
+    }
+  },
+
+    "token_cards": {
+    "loading_balances": "Loading balances...",
+    "error_fetch_balances": "Failed to load token balances. Please try again.",
+    "balance": "Balance"
+  },
+
+  "filter_activitys": {
+    "title": "Transaction History",
+    "label_select_transaction_type": "Select Transaction Type",
+    "placeholder_type": "Type",
+    "option_all": "All",
+    "option_deposit": "Deposit",
+    "option_withdrawal": "Withdrawal",
+    "option_transfer": "Transfer"
+  },
+
+    "activity_cards": {
+    "loading_activity": "Loading activity...",
+    "no_activity_found": "No activity found."
+  },
+  
+  "send_nft_page": {
+    "title": "Send Asset",
+    "description": "Fill out the information below to send your asset.",
+
+    "send_assets_form": {
+        "label_to": "To",
+        "placeholder_to": "Enter public address (0x) or domain name",
+        "label_asset": "Asset",
+        "description_asset": "Check details and send",
+        "label_quantity": "Quantity",
+        "placeholder_quantity": "Enter quantity",
+        "button_continue": "Continue",
+        "validation_to_required": "To address is required",
+        "validation_to_invalid": "Please enter a valid Ethereum address",
+        "validation_asset_required": "Please select an asset to continue",
+        "validation_quantity_required": "Quantity is required",
+        "validation_quantity_positive": "Quantity must be greater than 0",
+        "validation_quantity_max": "Quantity must be less than or equal to your available balance"
+    },
+
+    "send_assets_dialog": {
+        "title": "Select Asset to Send",
+        "tabs": {
+        "tokens": "Tokens",
+        "transferable_assets": "Transferable Asset"
+        },
+        "loading": {
+        "fetching_balances": "Failed to load token balances. Please try again."
+        },
+        "labels": {
+        "balance": "Balance",
+        "token": "Token",
+        "symbol": "Symbol",
+        "amount": "Amount"
+        },
+        "buttons": {
+        "close": "Close"
+        },
+        "aria": {
+        "select_asset_to_send": "Select which asset you want to send",
+        "close_dialog": "Close selection dialog"
+        },
+        "messages": {
+        "no_assets_available": "No assets available to send.",
+        "no_tokens_found": "No tokens found.",
+        "no_nfts_found": "No NFTs found."
+        }
+    }
+
+  },
+
+  "summary_content_transferNFT": {
+    "title": "Transaction Summary",
+    "subtitle": "Confirm the information below before proceeding.",
+    "from_label": "From",
+    "to_label": "To",
+    "network_label": "Network",
+    "network_value": "Ethereum Mainnet",
+    "gas_fee_label": "Gas fee",
+    "button_cancel": "Cancel",
+    "gas_fee_value": "0.0003 ETH",
+    "cancel_button": "Cancel",
+    "confirm_button": "Confirm Activation"
+  },
+
+  "send_assets_card": {
+    "warning_message": "Two-factor authentication is not enabled. Enabled to perform this action.",
+    "enable_2fa_link": "Enable 2FA",
+    "from_label": "From"
+  },
+
+  
+  "receive_dialog": {
+    "button": "Receive",
+    "title": "Receive"
+  },
+
+    "security_page": {
+    "header": {
+      "title": "Security Settings",
+      "description": "Confirm the information below before proceeding."
+    },
+    "section": {
+      "main_title": "Security and privacy",
+      "description": "Manage two-factor authentication settings for your Magneto account."
+    },
+    "two_factor": {
+      "title": "Two-Factor Authentication",
+      "description": "Two-factor authentication (2FA) helps protect your account by requiring you to enter an additional code when you log in.",
+      "methods_label": "Two-Factor Methods",
+      "authenticator_app_title": "Authenticator App",
+      "authenticator_app_active": "Your account is protected with two-factor authentication via an Authenticator App. Manage or update your authentication settings below.",
+      "authenticator_app_inactive": "Use an Authenticator App as your two-factor authentication. You'll be asked to enter the security code provided by your authenticator app."
+    },
+
+    "setup-button" : "Setup",
+    "remove-methods" : "Remove method",
+
+    
+    "two_factor_dialog": {
+        "button": "Setup",
+        "choose_app": {
+        "title": "Choose an Authenticator App",
+        "instruction": "Download and install an Authenticator App for your phone or tablet.",
+        "cancel": "Cancel",
+        "continue": "Continue"
+        },
+        "setup_app": {
+        "title": "Set up your app",
+        "instruction": "Open the Authenticator App, tap the “+” and scan the image below using your phone or tablet.",
+        "enter_code": "Enter security code to continue.",
+        "activate_button": "Activate App",
+        "errors": {
+            "generate_error_title": "Please try again later.",
+            "generate_error_description": "Please try again later.",
+            "verify_error_title": "Error verifying OTP code",
+            "verify_error_description": "Please try again later."
+        }
+        },
+        "setup_complete": {
+        "title": "Set Up Complete",
+        "success_title": "Authentication Successfully Set Up",
+        "success_description": "You have successfully set an app as your two-factor authentication method.",
+        "backup_instruction": "If you lose access to your Authenticator App, you can sign in to your account using the backup codes available here.",
+        "alert": "Write, or copy these backup codes and keep them somewhere safe.",
+        "copy_button": "Copy Backup Codes",
+        "copy_success": "Backup codes copied to clipboard",
+        "generating_codes": "Generating codes...",
+        "note": "Note: You can only use each backup code once.",
+        "done_button": "Done",
+        "error_backup_codes": "Error generating backup codes",
+        "error_backup_codes_description": "Please try again later."
+        }
+    }
+
+  }
+
+}
