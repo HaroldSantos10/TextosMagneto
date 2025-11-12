@@ -1,0 +1,23 @@
+{
+  "header": {
+    "no_new_notification": "No hay notificaciones nuevas",
+    "wallet_button": "Billetera",
+    "wallet_address": "Dirección de billetera",
+    "magnet_token": "$MAGNET",
+    "transferable_assets": "Activos transferibles",
+    "notifications": "Notificaciones",
+    "account_settings": "Configuración de cuenta",
+    "company_settings": "Configuración de empresa",
+    "billing_and_invoices": "Facturación y comprobantes",
+    "wallet_menu": "Billetera",
+    "company_profile": "Perfil de la empresa",
+    "ambassador_program": "Programa de embajadores",
+    "contact_us": "Contáctanos",
+    "sign_out": "Cerrar sesión",
+    "dialog_sign_out_title": "Cerrar sesión",
+    "dialog_sign_out_question": "¿Seguro que deseas cerrar sesión?",
+    "dialog_sign_out_paragraph": "Estás por cerrar sesión. Asegúrate de guardar los cambios antes de continuar.",
+    "button_cancel": "Cancelar",
+    "button_confirm_sign_out": "Cerrar sesión"
+  }
+}

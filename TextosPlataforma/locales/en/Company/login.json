@@ -1,0 +1,68 @@
+{
+  "sign_up_page": {
+    "title_1": "Sign up for free",
+    "paragraph_1": "Create your account without a credit card",
+    "button_1": "Sign <0/> with Google",
+    "paragraph_2": "OR",
+    "paragraph_3": "Existing user?",
+    "link_1": "Log in",
+    "paragraph_4": "Looking for Job?",
+    "link_2": "Sign <0/> here",
+    "paragraph_5": "By signing up, you agree to our <0>Terms of Service</0> and acknowledge our <1>Privacy Policy.</1>"
+  },
+
+    "company_auth_page": {
+    "title_1": "For Companies",
+    "heading_sign_in": "Welcome back <0/> to Magneto HR!",
+    "heading_sign_up": "Build your <0/> dream team <1/> with less <2/> effort.",
+    "subtitle_sign_in": "Your next great hire <0/> is just a click away.",
+    "subtitle_sign_up": "Create your Magneto HR <0/> account and start hiring <1/> smarter today.",
+    "separator_text_sign_in": "No account yet?",
+    "separator_text_sign_up": "Existing user?",
+    "button_sign_in": "Sign up to get started",
+    "button_sign_up": "Log in"
+  },
+
+    "auth_recover_password": {
+    "title_1": "Validating...",
+    "paragraph_1": "Validating reset link...",
+    "title_2": "Reset Link Required",
+    "title_3": "Invalid Reset Link",
+    "title_4": "Reset Link Expired",
+    "title_5": "Enter new password",
+    "input_label_1": "New password",
+    "paragraph_2": "Use at least 8 characters, including one uppercase letter and a number or symbol.",
+    "error_1": "Password is required",
+    "error_2": "Invalid password. Please try again.",
+    "error_3": "Password must contain at least one number",
+    "error_4": "Password must contain at least one special character",
+    "error_5": "Password must contain at least one uppercase letter",
+    "error_6": "Password cannot contain spaces",
+    "input_label_2": "Confirm password",
+    "error_7": "Confirm password is required",
+    "error_8": "Both password entries must match.<0/>Please try again",
+    "button_1": "Change password",
+    "toast_error_1": "The reset link has expired or is invalid. Please request a new one.",
+    "toast_error_2": "An error occurred. Please try again later.",
+    "toast_success_title": "Password Change Successful",
+    "toast_success_description": "Your password has been successfully changed. Sign in using your new password."
+  },
+
+  "company_page": {
+    "title_1": "For Companies",
+    "heading_sign_in": "Great to see you again!",
+    "subtitle_sign_in": "Sign in to your account",
+    "button_google_sign_in": "Sign in with Google",
+    "separator_text": "OR",
+    "no_account_text": "No account yet?",
+    "link_register": "Register here",
+    "looking_for_job_text": "Looking for Job?",
+    "link_job_action_sign_in": "Sign in",
+    "link_job_action_sign_up": "Sign up here",
+    "footer_text_part_1": "By signing in, you agree to our",
+    "footer_link_terms": "Terms of Service",
+    "footer_text_part_2": "and acknowledge our",
+    "footer_link_privacy": "Privacy Policy."
+  }
+
+}

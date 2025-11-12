@@ -1,0 +1,58 @@
+{
+  "company_settings": {
+    "titles": {
+      "main": "Información de la empresa",
+      "basic_info": "Información básica",
+      "contact_info": "Información de contacto",
+      "overview": "Resumen",
+      "users": "Usuarios",
+      "add_user_modal": "Agregar usuario",
+      "delete_user_modal": "Eliminar usuario"
+    },
+    "buttons": {
+      "edit_profile": "Editar perfil",
+      "share": "Compartir",
+      "add_user": "Agregar usuario",
+      "delete": "Eliminar"
+    },
+    "labels": {
+      "company_name": "Nombre de la empresa:",
+      "industry": "Industria:",
+      "website_url": "Sitio web:",
+      "phone_number": "Teléfono:",
+      "company_id": "ID de empresa: #0000-{{id}}",
+      "about_us": "Sobre nosotros:",
+      "company_size": "Tamaño de la empresa:",
+      "headquarters_location": "Ubicación de la sede:",
+      "company_culture": "Cultura empresarial:",
+      "traits": "Rasgos:",
+      "examples": "Ejemplos:",
+      "user": "Usuario",
+      "role": "Rol",
+      "status": "Estado",
+      "added_by": "Agregado por",
+      "actions": "Acciones"
+    },
+    "tooltips": {
+      "culture_info": "La cultura empresarial se refiere al ambiente laboral y la filosofía general de la empresa. Selecciona hasta dos atributos culturales que describan tu organización. Esto nos permite conectar mejor con candidatos que prosperen en tu entorno, asegurando un mejor ajuste y éxito a largo plazo.",
+      "reject_and_delete": "Rechazar y eliminar",
+      "accept": "Aceptar",
+      "upgrade": "Actualizar"
+    },
+    "messages": {
+      "user_accepted_title": "Usuario aceptado",
+      "user_accepted_desc": "Has otorgado acceso a {{email}} en la plataforma.",
+      "user_role_updated_title": "Rol de usuario actualizado",
+      "user_role_updated_desc": "Has cambiado el rol de {{email}} a administrador empleador.",
+      "user_deleted_title": "Usuario eliminado",
+      "user_deleted_desc": "Has eliminado a {{email}} de la plataforma. Esta acción no se puede deshacer.",
+      "user_deleted_confirm": "¿Seguro que deseas eliminar a {{email}}?",
+      "user_deleted_warning": "Una vez eliminado, este usuario no podrá acceder a tu empresa.",
+      "error_default": "Ocurrió un error inesperado. Intenta más tarde."
+    },
+    "pagination": {
+      "page_label": "Página",
+      "of_label": "de"
+    }
+  }
+}

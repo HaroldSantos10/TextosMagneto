@@ -1,0 +1,58 @@
+{
+  "company_settings": {
+    "titles": {
+      "main": "Company Information",
+      "basic_info": "Basic Information",
+      "contact_info": "Contact Information",
+      "overview": "Overview",
+      "users": "Users",
+      "add_user_modal": "Add User",
+      "delete_user_modal": "Delete User"
+    },
+    "buttons": {
+      "edit_profile": "Edit Profile",
+      "share": "Share",
+      "add_user": "Add User",
+      "delete": "Delete"
+    },
+    "labels": {
+      "company_name": "Company Name:",
+      "industry": "Industry:",
+      "website_url": "Website URL:",
+      "phone_number": "Phone Number:",
+      "company_id": "Company ID: #0000-{{id}}",
+      "about_us": "About Us:",
+      "company_size": "Company Size:",
+      "headquarters_location": "Headquarters Location:",
+      "company_culture": "Company culture:",
+      "traits": "Traits:",
+      "examples": "Examples:",
+      "user": "User",
+      "role": "Role",
+      "status": "Status",
+      "added_by": "Added by",
+      "actions": "Actions"
+    },
+    "tooltips": {
+      "culture_info": "Company culture refers to the work environment and overall philosophy in that company. Please select up to two cultural attributes that describe your company. This allows us to better connect you with candidates who will thrive in your unique environment, ensuring a stronger team fit and long-term success.",
+      "reject_and_delete": "Reject and Delete",
+      "accept": "Accept",
+      "upgrade": "Upgrade"
+    },
+    "messages": {
+      "user_accepted_title": "User Accepted",
+      "user_accepted_desc": "You have granted {{email}} access to the platform.",
+      "user_role_updated_title": "User Role Updated",
+      "user_role_updated_desc": "You have changed {{email}} role to Admin employer.",
+      "user_deleted_title": "User Deleted",
+      "user_deleted_desc": "You have removed {{email}} from the platform. This action cannot be undone.",
+      "user_deleted_confirm": "Are you sure you want to delete {{email}}?",
+      "user_deleted_warning": "Once deleted, this user will no longer be able to access your company.",
+      "error_default": "An unexpected error occurred. Please try again later"
+    },
+    "pagination": {
+      "page_label": "Page",
+      "of_label": "of"
+    }
+  }
+}

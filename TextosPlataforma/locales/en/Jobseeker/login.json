@@ -35,7 +35,7 @@
             "terms": "By signing up, you agree to our {0} and acknowledge our {1}",
             "terms_of_service": "Terms of Service",
             "privacy_policy": "Privacy Policy"
-        }
+        } 
     },
     "sign_in_form": {
         "title": "Great to see you again!",

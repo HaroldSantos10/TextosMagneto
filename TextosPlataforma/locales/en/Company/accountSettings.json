@@ -1,0 +1,57 @@
+{
+  "account_settings": {
+    "title": "Account Settings",
+    "description": "Manage everything related to your account. From here you can do things like update your password, adjust notification preferences or review security and data controls. Keep your workspace secure and tailored to your company needs.",
+    "tabs": {
+      "security_and_login": "Security & Login",
+      "notifications": "Notifications",
+      "privacy_and_data": "Privacy & Data"
+    },
+    "privacy_and_data": {
+      "delete_account": {
+        "title": "Delete Account",
+        "warning_icon_alt": "Delete warning icon",
+        "description": "Deleting your account will remove all of your information from our database. This cannot be undone.",
+        "input_placeholder": "Enter Password",
+        "error_required_password": "Please enter your password to proceed.",
+        "button_delete": "Delete Account",
+        "modal_title": "Delete Account Confirmation"
+      }
+    }
+  },
+
+  
+  "account_settings_notifications": {
+    "title": "Notifications",
+    "sections": {
+      "job_application": {
+        "title": "Job Application Notifications",
+        "description_jobseeker": "Get notified when your application has been successfully submitted.",
+        "description_company": "Get notified when a candidate successfully applies to one of your job postings.",
+        "enabled_message": "You have enabled job application confirmation.",
+        "disabled_message": "You have disabled job application confirmation."
+      },
+      "messages": {
+        "title": "Messages Notifications",
+        "description_jobseeker": "Receive alerts when a company sends you a private message.",
+        "description_company": "Receive alerts when a candidate replies to your outreach.",
+        "enabled_message": "You have enabled message notifications.",
+        "disabled_message": "You have disabled message notifications."
+      },
+      "billing": {
+        "title": "Billing Notifications",
+        "description": "Stay updated on invoices and any payment-related activity.",
+        "enabled_message": "You have enabled billing notifications.",
+        "disabled_message": "You have disabled billing notifications."
+      }
+    },
+    "toast": {
+      "title_enabled": "{{type}} Enabled",
+      "title_disabled": "{{type}} Disabled",
+      "unexpected_error": "An unexpected error occurred. Please try again later"
+    }
+  }
+
+
+
+}

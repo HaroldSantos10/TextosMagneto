@@ -1,0 +1,67 @@
+{
+  "sign_up_page": {
+    "title_1": "Regístrate gratis",
+    "paragraph_1": "Crea tu cuenta sin tarjeta de crédito",
+    "button_1": "Regístrate <0/> con Google",
+    "paragraph_2": "O",
+    "paragraph_3": "¿Ya tienes cuenta?",
+    "link_1": "Inicia sesión",
+    "paragraph_4": "¿Buscas empleo?",
+    "link_2": "Regístrate <0/> aquí",
+    "paragraph_5": "Al registrarte, aceptas nuestros <0>Términos del Servicio</0> y reconoces nuestra <1>Política de Privacidad.</1>"
+  },
+
+  "company_auth_page": {
+    "title_1": "Para Empresas",
+    "heading_sign_in": "¡Bienvenido nuevamente <0/> a Magneto HR!",
+    "heading_sign_up": "Forma tu <0/> equipo ideal <1/> con menos <2/> esfuerzo.",
+    "subtitle_sign_in": "Tu próxima gran contratación <0/> está a un clic de distancia.",
+    "subtitle_sign_up": "Crea tu cuenta <0/> en Magneto HR y comienza a contratar <1/> de forma más inteligente hoy.",
+    "separator_text_sign_in": "¿Aún no tienes cuenta?",
+    "separator_text_sign_up": "¿Ya tienes cuenta?",
+    "button_sign_in": "Regístrate para comenzar",
+    "button_sign_up": "Inicia sesión"
+  },
+
+  "auth_recover_password": {
+    "title_1": "Validando...",
+    "paragraph_1": "Validando enlace de restablecimiento...",
+    "title_2": "Se requiere enlace de restablecimiento",
+    "title_3": "Enlace de restablecimiento no válido",
+    "title_4": "Enlace de restablecimiento expirado",
+    "title_5": "Ingresa nueva contraseña",
+    "input_label_1": "Nueva contraseña",
+    "paragraph_2": "Usa al menos 8 caracteres, incluyendo una mayúscula y un número o símbolo.",
+    "error_1": "La contraseña es obligatoria",
+    "error_2": "Contraseña no válida. Intenta nuevamente.",
+    "error_3": "La contraseña debe contener al menos un número",
+    "error_4": "La contraseña debe contener al menos un carácter especial",
+    "error_5": "La contraseña debe contener al menos una letra mayúscula",
+    "error_6": "La contraseña no puede contener espacios",
+    "input_label_2": "Confirmar contraseña",
+    "error_7": "La confirmación de contraseña es obligatoria",
+    "error_8": "Ambas contraseñas deben coincidir.<0/>Intenta nuevamente",
+    "button_1": "Cambiar contraseña",
+    "toast_error_1": "El enlace de restablecimiento ha expirado o no es válido. Solicita uno nuevo.",
+    "toast_error_2": "Ocurrió un error. Intenta más tarde.",
+    "toast_success_title": "Cambio de contraseña exitoso",
+    "toast_success_description": "Tu contraseña se ha cambiado correctamente. Inicia sesión con tu nueva contraseña."
+  },
+
+  "company_page": {
+    "title_1": "Para Empresas",
+    "heading_sign_in": "¡Qué gusto verte de nuevo!",
+    "subtitle_sign_in": "Inicia sesión en tu cuenta",
+    "button_google_sign_in": "Inicia sesión con Google",
+    "separator_text": "O",
+    "no_account_text": "¿Aún no tienes cuenta?",
+    "link_register": "Regístrate aquí",
+    "looking_for_job_text": "¿Buscas empleo?",
+    "link_job_action_sign_in": "Inicia sesión",
+    "link_job_action_sign_up": "Regístrate aquí",
+    "footer_text_part_1": "Al iniciar sesión, aceptas nuestros",
+    "footer_link_terms": "Términos del Servicio",
+    "footer_text_part_2": "y reconoces nuestra",
+    "footer_link_privacy": "Política de Privacidad."
+  }
+}

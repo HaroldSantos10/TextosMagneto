@@ -1,0 +1,53 @@
+{
+  "account_settings": {
+    "title": "Configuración de cuenta",
+    "description": "Administra todo lo relacionado con tu cuenta. Aquí puedes actualizar tu contraseña, ajustar las preferencias de notificación o revisar los controles de seguridad y datos. Mantén tu espacio de trabajo seguro y adaptado a las necesidades de tu empresa.",
+    "tabs": {
+      "security_and_login": "Seguridad e inicio de sesión",
+      "notifications": "Notificaciones",
+      "privacy_and_data": "Privacidad y datos"
+    },
+    "privacy_and_data": {
+      "delete_account": {
+        "title": "Eliminar cuenta",
+        "warning_icon_alt": "Ícono de advertencia de eliminación",
+        "description": "Eliminar tu cuenta borrará toda tu información de nuestra base de datos. Esta acción no se puede deshacer.",
+        "input_placeholder": "Ingresa la contraseña",
+        "error_required_password": "Por favor, ingresa tu contraseña para continuar.",
+        "button_delete": "Eliminar cuenta",
+        "modal_title": "Confirmación de eliminación de cuenta"
+      }
+    }
+  },
+
+  "account_settings_notifications": {
+    "title": "Notificaciones",
+    "sections": {
+      "job_application": {
+        "title": "Notificaciones de solicitudes de empleo",
+        "description_jobseeker": "Recibe avisos cuando tu solicitud se haya enviado correctamente.",
+        "description_company": "Recibe avisos cuando un candidato postule exitosamente a una de tus ofertas.",
+        "enabled_message": "Has activado la confirmación de solicitud de empleo.",
+        "disabled_message": "Has desactivado la confirmación de solicitud de empleo."
+      },
+      "messages": {
+        "title": "Notificaciones de mensajes",
+        "description_jobseeker": "Recibe alertas cuando una empresa te envíe un mensaje privado.",
+        "description_company": "Recibe alertas cuando un candidato responda a tu mensaje.",
+        "enabled_message": "Has activado las notificaciones de mensajes.",
+        "disabled_message": "Has desactivado las notificaciones de mensajes."
+      },
+      "billing": {
+        "title": "Notificaciones de facturación",
+        "description": "Mantente informado sobre facturas y actividades relacionadas con pagos.",
+        "enabled_message": "Has activado las notificaciones de facturación.",
+        "disabled_message": "Has desactivado las notificaciones de facturación."
+      }
+    },
+    "toast": {
+      "title_enabled": "{{type}} activado",
+      "title_disabled": "{{type}} desactivado",
+      "unexpected_error": "Ocurrió un error inesperado. Intenta más tarde."
+    }
+  }
+}
