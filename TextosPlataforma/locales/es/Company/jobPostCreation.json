@@ -1,0 +1,424 @@
+{
+  "job_post_prompt_dialog": {
+    "post_job_button": "Publicar empleo",
+    "polaris_greeting": "¡Hola! Soy Polaris, tu asistente con IA. Estoy aquí para ayudarte a crear un perfil destacado para tu empresa.",
+    "loading_fallback": "Cargando...",
+    "description_instruction": "Describe el perfil que busca tu empresa, <0>Título/Función del puesto</0> más cualquier información adicional relevante.",
+    "textarea_placeholder": "Ej: Busco un ingeniero eléctrico competente en diseño y análisis de circuitos, sistemas de potencia, sistemas de control y automatización.\n\nO simplemente escribe: ingeniero eléctrico.",
+    "assistance_text": "Esto nos ayudará a generar una oferta de empleo que atraiga buenos candidatos.",
+    "generate_ai_button": "Generar con IA",
+    "prompt_alert_title": "Alerta de solicitud",
+    "prompt_alert_description": "Proporciona una solicitud de al menos 10 caracteres para generar la oferta de empleo."
+  },
+
+  "company_new_job_post": {
+    "modal_title": "Requisitos de Habilidades y Campos Sugeridos por IA",
+    "skills_required_title": "Habilidades (Requeridas vs Opcionales)",
+    "skills_description": "Marca cada habilidad según si es esencial para el puesto o simplemente deseable.",
+    "filled_star_label": "Estrella llena = Habilidad requerida",
+    "empty_star_label": "Estrella vacía = Habilidad opcional",
+    "ai_suggested_title": "Campos sugeridos por IA",
+    "ai_suggested_description": "Los campos marcados con el icono <0/> están prellenados por nuestra IA según los detalles del puesto. Puedes mantenerlos o editarlos para que se ajusten mejor a tus necesidades.",
+    "dont_show_again_label": "No mostrar este mensaje nuevamente",
+    "ok_button": "Aceptar"
+  },
+
+  "job_details_step1": {
+    "job_title_label": "Título del puesto",
+    "job_title_placeholder": "Ingresar título del puesto",
+    "open_roles_label": "¿Cuántas vacantes?",
+    "industry_label": "Industria",
+    "industry_description": "Selecciona hasta 2 industrias.",
+    "industry_placeholder": "Buscar industria",
+    "industry_disabled_tooltip": "Has seleccionado el número máximo de industrias. Elimina las existentes para hacer una selección diferente.",
+    "profession_label": "Profesión",
+    "profession_description": "Selecciona hasta 2 profesiones.",
+    "profession_placeholder": "Buscar profesión",
+    "profession_disabled_tooltip": "Has seleccionado el número máximo de profesiones. Elimina las existentes para hacer una selección diferente.",
+    "technical_skills_label": "Habilidades técnicas",
+    "technical_skills_description": "Selecciona las habilidades técnicas recomendadas y marca las requeridas.",
+    "technical_skills_placeholder": "Buscar habilidades técnicas",
+    "soft_skills_label": "Habilidades blandas",
+    "soft_skills_description": "Selecciona las habilidades blandas recomendadas y marca las requeridas.",
+    "soft_skills_placeholder": "Buscar habilidades blandas",
+    "preferred_language_label": "Idioma preferido",
+    "preferred_language_description": "Selecciona un idioma preferido.",
+    "preferred_language_placeholder": "Seleccionar un idioma",
+    "experience_level_label": "Nivel de experiencia",
+    "experience_level_placeholder": "Seleccionar nivel de experiencia",
+    "education_level_label": "Nivel de educación",
+    "education_level_description": "Especifica el nivel educativo mínimo requerido para este puesto.",
+    "education_level_placeholder": "Seleccionar nivel de educación",
+    "position_level_label": "Nivel del puesto",
+    "position_level_description": "Indica dónde se sitúa este puesto en la jerarquía de tu empresa.",
+    "position_level_placeholder": "Seleccionar nivel del puesto",
+    "certifications_label": "Certificaciones",
+    "certifications_description": "Selecciona hasta 6 certificaciones.",
+    "certifications_placeholder": "Buscar certificaciones",
+    "certifications_disabled_tooltip": "Has seleccionado el número máximo de certificaciones. Elimina las existentes para hacer una selección diferente.",
+    "compensation_salary_title": "Compensación/Salario",
+    "pay_type_label": "Tipo de pago",
+    "pay_type_placeholder": "Seleccionar tipo de pago",
+    "minimum_pay_label": "Pago mínimo",
+    "minimum_pay_placeholder": "00",
+    "maximum_pay_label": "Pago máximo",
+    "maximum_pay_placeholder": "00",
+    "exact_pay_label": "Pago exacto",
+    "exact_pay_placeholder": "00",
+    "frequency_label": "Frecuencia",
+    "frequency_placeholder": "Frecuencia",
+    "currency_label": "Moneda",
+    "currency_placeholder": "Moneda",
+    "plus_commission_label": "Más comisión",
+    "plus_bonus_label": "Más bono",
+    "company_benefit_label": "Beneficios de la empresa",
+    "company_benefit_description": "Añade todos los beneficios y ventajas adicionales disponibles para este puesto.",
+    "add_benefit_button": "Añadir beneficio",
+    "add_button": "Añadir",
+    "additional_benefit_placeholder": "Ingresar beneficio adicional...",
+    "location_type_label": "Tipo de ubicación",
+    "location_type_description": "Selecciona un tipo de ubicación.",
+    "job_type_label": "Tipo de empleo",
+    "job_type_description": "Selecciona uno o más tipos de empleo.",
+    "job_type_placeholder": "Seleccionar tipo de empleo",
+    "work_schedule_label": "Horario de trabajo",
+    "work_schedule_description": "Selecciona uno o más horarios de trabajo.",
+    "work_schedule_placeholder": "Seleccionar horario de trabajo",
+    "validation_errors": {
+      "job_title_required": "El título del puesto es obligatorio",
+      "job_title_invalid": "Ingresa un título válido",
+      "open_roles_required": "El número de vacantes debe ser mayor a 0",
+      "industry_required": "La industria es obligatoria",
+      "profession_required": "La profesión es obligatoria",
+      "technical_skills_required": "Las habilidades técnicas son obligatorias",
+      "soft_skills_required": "Las habilidades blandas son obligatorias",
+      "experience_level_required": "El nivel de experiencia es obligatorio",
+      "education_level_required": "El nivel educativo es obligatorio",
+      "position_level_required": "El nivel del puesto es obligatorio",
+      "location_type_required": "El tipo de ubicación es obligatorio"
+    }
+  },
+
+  "footer_post_company": {
+    "resume_label": "Currículum",
+    "required_label": "Obligatorio",
+    "cover_letter_label": "Carta de presentación",
+    "cover_video_label": "Video de presentación",
+    "cover_video_tooltip": "Este video destaca la cultura, valores y ambiente laboral de la empresa.",
+    "upload_button": "Subir",
+    "invalid_format_error": "Formato no válido. Solo .mp4, .avi o .mov",
+    "file_size_error": "El archivo excede el límite de 30MB.",
+    "video_length_error": "La duración del video no debe exceder 2 minutos.",
+    "cancel_button": "Cancelar",
+    "save_for_later_button": "Guardar para después",
+    "next_button": "Siguiente",
+    "modal_title": "¿Estás seguro de que quieres cancelar?",
+    "modal_description": "Si cancelas ahora, perderás toda la información que has ingresado hasta el momento.",
+    "modal_discard_button": "Descartar cambios",
+    "modal_go_back_button": "Regresar"
+  },
+
+  "post_summary_step2": {
+    "ai_generated_suggestions_title": "Sugerencias generadas por IA",
+    "job_overview_title": "Descripción del puesto",
+    "job_overview_description": "Describe en qué consiste el puesto y a quién buscas. Usa las sugerencias de IA a la izquierda para pulir o expandir tu descripción.",
+    "job_responsibilities_title": "Responsabilidades del puesto",
+    "job_responsibilities_description": "Detalla todas las funciones del puesto. Las sugerencias de IA a la derecha te ayudarán a crear una lista clara y completa.",
+    "job_requirements_title": "Requisitos del puesto",
+    "job_requirements_description": "Incluye los requisitos esenciales para este puesto. El panel de IA a la izquierda recomendará requisitos adicionales basados en tu entrada.",
+    "polaris_message": "¡Aquí puedes revisar los detalles clave de tu oferta de empleo! Asegúrate de que toda la información sea precisa antes de continuar. ¡Creemos una oferta atractiva para encontrar los mejores candidatos!",
+    "loading_fallback": "Cargando...",
+
+    "job_post_summary_suggestions": {
+      "requirements_description": "Selecciona las sugerencias que mejor se ajusten a los requisitos del puesto.",
+      "responsibilities_description": "Selecciona las sugerencias que mejor se ajusten a las responsabilidades del puesto.",
+      "description_description": "Selecciona las sugerencias que mejor se ajusten a la descripción del puesto.",
+      "default_description": "Selecciona la opción que mejor represente lo que quieres mostrar o compartir.",
+      "single_selection_note": "* Solo se puede seleccionar una opción.",
+      "expert_recommended": "Recomendado por expertos",
+      "ai_generation_title": "<0>Deja que la IA genere</0> la <1>{{content_type}}</1> por ti <2>no necesitas escribirla</2> tú mismo.",
+      "ai_generation_subtitle": "O puedes escribir la tuya propia",
+      "generate_ai_button": "Generar con IA"
+    }
+  },
+
+  "post_review_step3": {
+    "edit_jobs_title": "Editar empleos",
+    "post_review_title": "Revisión de la publicación",
+    "job_title_label": "Título del puesto",
+    "open_roles_label": "¿Cuántas vacantes?",
+    "industry_label": "Industria",
+    "profession_label": "Profesión",
+    "technical_skills_label": "Habilidades técnicas",
+    "soft_skills_label": "Habilidades blandas",
+    "preferred_language_label": "Idioma preferido",
+    "experience_level_label": "Nivel de experiencia",
+    "position_level_label": "Nivel del puesto",
+    "educational_level_label": "Nivel educativo",
+    "certifications_label": "Certificaciones",
+    "compensation_salary_label": "Compensación/Salario",
+    "company_benefit_label": "Beneficios de la empresa",
+    "location_type_label": "Tipo de ubicación",
+    "job_type_label": "Tipo de empleo",
+    "work_schedule_label": "Horario de trabajo",
+    "job_overview_label": "Descripción del puesto",
+    "job_responsibilities_label": "Responsabilidades del puesto",
+    "job_requirements_label": "Requisitos del puesto",
+    "candidate_resume_label": "Currículum del candidato",
+    "candidate_cover_letter_label": "Carta de presentación del candidato",
+    "cover_video_label": "Video de presentación",
+    "required_text": "Obligatorio",
+
+    "screening_header": {
+      "back_button": "Atrás",
+      "screening_questions_title": "Preguntas de selección",
+      "screening_questions_description": "Añade preguntas usando las opciones siguientes. Asegúrate de que las preguntas seleccionadas estén razonablemente relacionadas con los requisitos del puesto.",
+      "selected_questions_title": "Preguntas seleccionadas",
+      "preferences_title": "Preferencias",
+      "hide_company_description": "Ocultar la información de la empresa en esta oferta de empleo.",
+      "hide_company_label": "Ocultar información de la empresa",
+      "preview_post_button": "Vista previa",
+      "cancel_button": "Cancelar",
+      "save_changes_button": "Guardar cambios",
+      "save_for_later_button": "Guardar para después",
+      "post_job_button": "Publicar empleo",
+      "job_post_created_title": "Oferta de empleo creada",
+      "job_post_created_description": "Tu nueva oferta ha sido creada y se publicará en un plazo de 3 horas después de nuestra revisión interna.",
+      "job_post_updated_title": "Oferta de empleo actualizada",
+      "job_post_not_created_title": "Oferta de empleo no creada"
+    },
+
+    "screening_questions_types": {
+      "work_authorization_title": "Autorización de trabajo",
+      "work_authorization_question": "¿Estás autorizado para trabajar en este país?",
+      "licenses_certifications_title": "Licencias/Certificaciones",
+      "licenses_certifications_question": "¿Tienes la siguiente licencia o certificación?",
+      "licenses_certifications_placeholder": "Ingresar licencia o certificación",
+      "overtime_title": "Horas extra",
+      "overtime_question": "¿Estás dispuesto y puedes trabajar horas extra si es necesario?",
+      "commute_title": "Desplazamiento",
+      "commute_question": "¿Puedes desplazarte de manera confiable a la ubicación de este trabajo?",
+      "relocate_title": "Disposición a reubicarse",
+      "relocate_question": "¿Estás dispuesto y puedes reubicarte para este puesto si es requerido?",
+      "custom_question_title": "Pregunta personalizada",
+      "custom_question_subtitle": "Crea tu propia pregunta a partir de los tipos listados a continuación:",
+      "deal_breaker_clarification": "Pregunta excluyente: Al marcar esto como una pregunta excluyente, los candidatos que no respondan correctamente serán automáticamente descartados para este puesto.",
+      "free_form_text_option": "Texto libre",
+      "multiple_choice_option": "Opción múltiple",
+      "yes_no_option": "Sí/No",
+      "file_upload_option": "Subir archivo",
+      "date_option": "Fecha",
+      "number_option": "Número",
+
+      "expand_more_options": {
+        "free_form_description": "Para esta pregunta el candidato podrá responder libremente en un cuadro de texto.",
+        "multiple_choice_instruction": "Ingresar opciones de respuesta:",
+        "multiple_choice_description": "Crea tantas respuestas a la pregunta como desees. Asegúrate de seleccionar cuáles son las respuestas correctas.",
+        "file_upload_description": "Los candidatos solo pueden subir un archivo por pregunta. Solo se admiten archivos PDF, DOC, DOCX, PNG, JPG, JPEG, GIF. El tamaño máximo del archivo es 10MB.",
+        "date_range_instruction": "Rango de fechas aceptado (opcional):",
+        "date_range_description": "Los candidatos pueden ingresar una sola fecha. Puedes especificar un rango aceptado para asegurarte de que la fecha proporcionada esté dentro del período correcto.",
+        "number_range_instruction": "Rango de números aceptado (opcional):",
+        "number_range_description": "Los candidatos pueden ingresar solo un número. Puedes establecer un rango aceptado en el que debe estar el número.",
+        "yes_no_instruction": "Opciones de respuesta:",
+        "yes_no_description": "Sí o No son las únicas respuestas posibles. Asegúrate de seleccionar la correcta.",
+        "question_placeholder": "Ingresar pregunta...",
+        "file_question_placeholder": "Ingresa la pregunta y describe el archivo que te gustaría que el candidato suba.",
+        "answer_placeholder": "Ingresar respuesta",
+        "correct_label": "Correcta",
+        "add_answer_button": "Añadir otra respuesta",
+        "earliest_date_label": "Fecha más temprana aceptada",
+        "latest_date_label": "Fecha más tardía aceptada",
+        "pick_date_placeholder": "Seleccionar fecha",
+        "lowest_number_label": "Número más bajo aceptado",
+        "highest_number_label": "Número más alto aceptado",
+        "save_question_button": "Guardar pregunta",
+        "validation_errors": {
+          "question_required": "La pregunta es obligatoria",
+          "answers_required": "Todas las respuestas deben estar completas",
+          "number_range_error": "El valor máximo debe ser mayor que el mínimo."
+        },
+        "modal_title": "Confirmación requerida",
+        "modal_description": "Has establecido esto como una pregunta excluyente. Las respuestas incorrectas descalificarán automáticamente a los candidatos.",
+        "modal_subtitle": "¿Quieres mantener esta configuración?",
+        "modal_ok_button": "Aceptar"
+      }
+    }
+  },
+
+  "modals_edit_job_post": {
+    "modal_edit_job_title": {
+      "title": "Editar título del puesto",
+      "warning_message": "Si cambias el Título del Puesto, es posible que necesites cambiar otras secciones de la oferta basándote en el nuevo título.",
+      "job_title_label": "Título del puesto",
+      "job_title_placeholder": "Ingresar título del puesto",
+      "validation_error": "El título del puesto es obligatorio"
+    },
+
+    "modal_edit_job_open_roles": {
+      "title": "Editar número de vacantes",
+      "description": "Cambia el número de vacantes",
+      "placeholder": "0"
+    },
+
+    "modal_edit_job_industry": {
+      "title": "Editar industria",
+      "placeholder": "Buscar industria"
+    },
+
+    "modal_edit_job_profession": {
+      "title": "Editar profesión",
+      "description": "Ajusta la profesión necesaria para este puesto.",
+      "placeholder": "Buscar profesión"
+    },
+
+    "modal_edit_job_technical_skills": {
+      "title": "Editar habilidades técnicas",
+      "description": "Ajusta las habilidades técnicas recomendadas y marca las requeridas.",
+      "placeholder": "Buscar habilidades técnicas"
+    },
+
+    "modal_edit_job_soft_skills": {
+      "title": "Editar habilidades blandas",
+      "description": "Ajusta las habilidades blandas recomendadas y marca las requeridas.",
+      "placeholder": "Buscar habilidades blandas"
+    },
+
+    "modal_edit_job_preferred_language": {
+      "title": "Editar idioma preferido",
+      "description": "Ajusta el idioma preferido para este puesto.",
+      "placeholder": "Seleccionar un idioma"
+    },
+
+    "modal_edit_job_experience_level": {
+      "title": "Editar nivel de experiencia",
+      "description": "Ajusta el nivel de experiencia para este puesto.",
+      "placeholder": "Seleccionar nivel"
+    },
+
+    "modal_edit_job_position_level": {
+      "title": "Editar nivel del puesto",
+      "description": "Ajusta dónde se sitúa este puesto en la jerarquía de tu empresa.",
+      "placeholder": "Seleccionar nivel del puesto"
+    },
+
+    "modal_edit_job_education_level": {
+      "title": "Editar nivel de educación",
+      "description": "Ajusta el nivel educativo mínimo requerido para este puesto.",
+      "placeholder": "Seleccionar nivel"
+    },
+
+    "modal_edit_job_certifications": {
+      "title": "Editar certificaciones",
+      "description": "Ajusta qué certificaciones deben tener los candidatos.",
+      "select_description": "Lista cualquier certificación requerida para este trabajo (máximo 6).",
+      "placeholder": "Buscar certificación"
+    },
+
+    "modal_edit_job_pay_type": {
+      "title": "Editar tipo de pago",
+      "description": "Ajusta la compensación para el puesto.",
+      "pay_type_label": "Tipo de pago",
+      "pay_type_placeholder": "Seleccionar tipo de pago",
+      "exact_pay_label": "Pago exacto",
+      "exact_pay_placeholder": "00.00",
+      "minimum_pay_label": "Pago mínimo",
+      "minimum_pay_placeholder": "00.00",
+      "maximum_pay_label": "Pago máximo",
+      "maximum_pay_placeholder": "00.00",
+      "frequency_label": "Frecuencia",
+      "frequency_placeholder": "Seleccionar tipo de pago",
+      "currency_label": "Moneda",
+      "currency_placeholder": "Seleccionar tipo de pago",
+      "plus_commission_label": "Más comisión",
+      "plus_bonus_label": "Más bono"
+    },
+
+    "modal_edit_job_company_benefit": {
+      "title": "Editar beneficios de la empresa",
+      "description": "Ajusta las opciones de beneficios para empleados.",
+      "add_benefit_button": "Añadir beneficio",
+      "additional_benefit_placeholder": "Ingresar beneficio adicional...",
+      "add_button": "Añadir"
+    },
+
+    "modal_edit_job_location_type": {
+      "title": "Editar tipo de ubicación",
+      "description": "Actualiza el tipo de ubicación para el puesto"
+    },
+
+    "modal_edit_job_type": {
+      "title": "Editar tipo de empleo",
+      "description": "Ajusta el tipo de empleo para el puesto.",
+      "placeholder": "Seleccionar tipo de empleo"
+    },
+
+    "modal_edit_job_work_schedule": {
+      "title": "Editar horario de trabajo",
+      "description": "Cambia el horario de trabajo esperado para el puesto.",
+      "placeholder": "Seleccionar horario de trabajo"
+    },
+
+    "modal_edit_job_job_description": {
+      "loading_message_1": "Dejando que la IA haga el trabajo pesado…",
+      "ai_suggestions_header_1": "Sugerencias generadas por IA",
+      "edit_job_overview_title_1": "Editar descripción del puesto",
+      "edit_job_overview_description_1": "Describe en qué consiste el puesto y a quién buscas. Usa las sugerencias de IA a la derecha para pulir o expandir tu descripción.",
+      "cancel_button_1": "Cancelar",
+      "save_button_1": "Guardar"
+    },
+
+    "modal_edit_job_job_responsibilities": {
+      "loading_message_1": "Dejando que la IA haga el trabajo pesado…",
+      "ai_suggestions_header_1": "Sugerencias generadas por IA",
+      "edit_job_responsibilities_title_1": "Editar responsabilidades del puesto",
+      "edit_job_responsibilities_description_1": "Detalla todas las funciones del puesto. Las sugerencias de IA a la derecha te ayudarán a crear una lista clara y completa.",
+      "cancel_button_1": "Cancelar",
+      "save_button_1": "Guardar"
+    },
+
+    "modal_edit_job_job_requirements": {
+      "loading_message_1": "Dejando que la IA haga el trabajo pesado…",
+      "ai_suggestions_header_1": "Sugerencias generadas por IA",
+      "edit_job_requirements_title_1": "Editar requisitos del puesto",
+      "edit_job_requirements_description_1": "Incluye los requisitos esenciales para este puesto. El panel de IA a la derecha recomendará requisitos adicionales basados en tu entrada.",
+      "cancel_button_1": "Cancelar",
+      "save_button_1": "Guardar"
+    },
+
+    "modal_edit_job_resume_request": {
+      "modal_title_1": "Editar requisito de currículum",
+      "modal_description_1": "Establece el currículum como obligatorio u opcional.",
+      "resume_label_1": "Currículum",
+      "required_label_1": "Obligatorio"
+    },
+
+    "modal_edit_job_cover_letter_request": {
+      "modal_title_1": "Editar requisito de carta de presentación",
+      "modal_description_1": "Establece la carta de presentación como obligatoria u opcional.",
+      "cover_letter_label_1": "Carta de presentación",
+      "required_label_1": "Obligatorio"
+    },
+
+    "modal_edit_job_cover_video": {
+      "modal_title_1": "Editar video de presentación",
+      "modal_description_1": "Reemplaza tu video de presentación actual.",
+      "cover_video_label_1": "Video de presentación",
+      "upload_button_1": "Subir",
+      "error_invalid_format": "Formato no válido. Solo .mp4, .avi o .mov",
+      "error_file_size": "El archivo excede 30 MB.",
+      "error_video_length": "La duración del video no debe exceder 2 minutos."
+    }
+  },
+
+  "selected_questions": {
+    "question_title_1": "Pregunta - <0></0>",
+    "custom_question_title_1": "Pregunta personalizada",
+    "delete_button_1": "Eliminar",
+    "correct_label_1": "Correcta",
+    "answer_placeholder_1": "Ingresar respuesta",
+    "earliest_date_label_1": "Fecha más temprana aceptada",
+    "latest_date_label_1": "Fecha más tardía aceptada",
+    "lowest_number_label_1": "Número más bajo aceptado",
+    "highest_number_label_1": "Número más alto aceptado"
+  }
+}

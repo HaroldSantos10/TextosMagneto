@@ -16,5 +16,31 @@
       },
       "button": "Eliminar cuenta"
     }
+  },
+
+  "list_device": {
+    "associated_devices_title_1": "Dispositivos Asociados",
+    "device_table_header_1": "Dispositivo",
+    "date_logged_in_table_header_1": "Fecha de Inicio de Sesión",
+    "ip_address_table_header_1": "Dirección IP",
+    "action_table_header_1": "Acción",
+    "logout_all_devices_button_1": "Cerrar sesión en todos los dispositivos",
+    "logout_all_modal_title_1": "Cerrar Sesión en Todos los Dispositivos",
+    "logout_all_modal_button_1": "Cerrar Sesión en Todos los Dispositivos",
+    "logout_all_modal_message_1": "¿Está seguro de que desea cerrar sesión en todos los dispositivos?\nSi continúa, su sesión se cerrará en todos los dispositivos donde haya iniciado sesión. Necesitará iniciar sesión nuevamente para acceder a su cuenta.",
+    "logout_single_modal_title_1": "Confirmar cierre de sesión en <0></0>",
+    "logout_single_modal_button_1": "Cerrar sesión en <0></0>",
+    "logout_single_modal_message_1": "¿Está seguro de que desea cerrar sesión en <0></0>?\nSi continúa, su sesión se cerrará en <1></1>, pero permanecerá conectado en otros dispositivos."
+  },
+  
+    "modal_delete_account": {
+    "title_1": "Vista previa de mi currículum",
+    "warning_message_1": "Está a punto de eliminar su cuenta de forma permanente. Al ejecutar esta acción, todos los datos se perderán y no podrá deshacerse. ¿Está seguro de que desea continuar?",
+    "cancel_button_1": "Cancelar",
+    "delete_account_button_1": "Sí, eliminar cuenta"
   }
+
+  
+
+
 }

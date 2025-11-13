@@ -1,0 +1,432 @@
+{
+  "job_post_prompt_dialog": {
+    "post_job_button": "Post a Job",
+    "polaris_greeting": "Hello there! I'm Polaris, your AI-powered assistant. I'm here to help you create an upstanding profile for your business.",
+    "loading_fallback": "Loading...",
+    "description_instruction": "Describe the profile your company is looking for, <0>Job Title/Role</0> plus any additional relevant info.",
+    "textarea_placeholder": "Ex: I am looking for an electrical engineer who is proficient in circuit design and analysis, power systems, control systems, and automation.\n\nOr simply type: electrical engineer.",
+    "assistance_text": "This will help us assist you in generating a job post that attracts good candidates.",
+    "generate_ai_button": "Generate with AI",
+    "prompt_alert_title": "Prompt Alert",
+    "prompt_alert_description": "Please provide a prompt with at least 10 characters to generate the job post."
+  },
+
+  
+  "company_new_job_post": {
+    "modal_title": "Skill Requirements & AI-Suggested Fields",
+    "skills_required_title": "Skills (Required vs Optional)",
+    "skills_description": "Mark each skill according to whether it's essential for the role or just nice to have.",
+    "filled_star_label": "Filled star = Required skill",
+    "empty_star_label": "Empty star = Optional skill",
+    "ai_suggested_title": "AI-suggested fields",
+    "ai_suggested_description": "Fields marked with the <0/> icon are pre-filled by our AI based on your job details. You can keep them as they are or edit them to better match your needs.",
+    "dont_show_again_label": "Don't show this message again",
+    "ok_button": "OK"
+  },
+
+  
+    "job_details_step1": {
+        "job_title_label": "Job Title",
+        "job_title_placeholder": "Enter job title",
+        "open_roles_label": "How many open roles?",
+        "industry_label": "Industry",
+        "industry_description": "Select up to 2 Industries.",
+        "industry_placeholder": "Search Industry",
+        "industry_disabled_tooltip": "You have selected the maximum number of Industries. Remove the existing ones to make a different selection.",
+        "profession_label": "Profession",
+        "profession_description": "Select up to 2 Professions.",
+        "profession_placeholder": "Search Profession",
+        "profession_disabled_tooltip": "You have selected the maximum number of Professions. Remove the existing ones to make a different selection.",
+        "technical_skills_label": "Technical Skills",
+        "technical_skills_description": "Select the technical skills recommended and mark the ones required.",
+        "technical_skills_placeholder": "Search Technical Skills",
+        "soft_skills_label": "Soft Skills",
+        "soft_skills_description": "Select the soft skills recommended and mark the ones required.",
+        "soft_skills_placeholder": "Search Soft Skills",
+        "preferred_language_label": "Preferred Language",
+        "preferred_language_description": "Select one preferred language.",
+        "preferred_language_placeholder": "Select a language",
+        "experience_level_label": "Experience Level",
+        "experience_level_placeholder": "Select Experience Level",
+        "education_level_label": "Education level",
+        "education_level_description": "Specify the minimum education level required for this role.",
+        "education_level_placeholder": "Select Education level",
+        "position_level_label": "Position Level",
+        "position_level_description": "Indicate where this role falls within your company's hierarchy.",
+        "position_level_placeholder": "Select Position Level",
+        "certifications_label": "Certifications",
+        "certifications_description": "Select up to 6 certifications.",
+        "certifications_placeholder": "Search Certifications",
+        "certifications_disabled_tooltip": "You have selected the maximum number of Certifications. Remove the existing ones to make a different selection.",
+        "compensation_salary_title": "Compensation/Salary",
+        "pay_type_label": "Pay Type",
+        "pay_type_placeholder": "Select Pay Type",
+        "minimum_pay_label": "Minimum Pay",
+        "minimum_pay_placeholder": "00",
+        "maximum_pay_label": "Maximum Pay",
+        "maximum_pay_placeholder": "00",
+        "exact_pay_label": "Exact Pay",
+        "exact_pay_placeholder": "00",
+        "frequency_label": "Frequency",
+        "frequency_placeholder": "Frequency",
+        "currency_label": "Currency",
+        "currency_placeholder": "Currency",
+        "plus_commission_label": "Plus Commission",
+        "plus_bonus_label": "Plus Bonus",
+        "company_benefit_label": "Company Benefit",
+        "company_benefit_description": "Add all the extra perks and benefits available for this role.",
+        "add_benefit_button": "Add Benefit",
+        "add_button": "Add",
+        "additional_benefit_placeholder": "Enter additional benefit...",
+        "location_type_label": "Location Type",
+        "location_type_description": "Select one location type.",
+        "job_type_label": "Job Type",
+        "job_type_description": "Select one or more job types.",
+        "job_type_placeholder": "Select Job Type",
+        "work_schedule_label": "Work Schedule",
+        "work_schedule_description": "Select one or more work schedules.",
+        "work_schedule_placeholder": "Select Work Schedule",
+        "validation_errors": {
+        "job_title_required": "Job Title is required",
+        "job_title_invalid": "Enter a valid title",
+        "open_roles_required": "The number of roles must be greater than 0",
+        "industry_required": "Industry is required",
+        "profession_required": "Profession is required",
+        "technical_skills_required": "Technical skills is required",
+        "soft_skills_required": "Soft skills is required",
+        "experience_level_required": "Experience level is required",
+        "education_level_required": "Educational level is required",
+        "position_level_required": "Position level is required",
+        "location_type_required": "Location Type is required"
+        }
+    },
+
+    "footer_post_company": {
+    "resume_label": "Resume",
+    "required_label": "Required",
+    "cover_letter_label": "Cover Letter",
+    "cover_video_label": "Cover Video",
+    "cover_video_tooltip": "This video highlights the company's culture, values, and work environment.",
+    "upload_button": "Upload",
+    "invalid_format_error": "Invalid format. Only .mp4, .avi or .mov",
+    "file_size_error": "File exceeds 30MB weight limit.",
+    "video_length_error": "The length of the video should not exceed 2 minutes.",
+    "cancel_button": "Cancel",
+    "save_for_later_button": "Save for Later",
+    "next_button": "Next",
+    "modal_title": "Are you sure you want to cancel?",
+    "modal_description": "If you cancel now, you'll lose all the information you've entered so far.",
+    "modal_discard_button": "Discard changes",
+    "modal_go_back_button": "Go Back"
+  },
+
+
+  "post_summary_step2": {
+    "ai_generated_suggestions_title": "AI Generated Suggestions",
+    "job_overview_title": "Job Overview",
+    "job_overview_description": "Describe what the role is about and who you're looking for. Use the AI suggestions on the left to polish or expand your description.",
+    "job_responsibilities_title": "Job Responsibilities",
+    "job_responsibilities_description": "Detail all the duties of the position. AI suggestions on the right will help you create a clear and complete list",
+    "job_requirements_title": "Job Requirements",
+    "job_requirements_description": "Include the essential requirements for this position. The AI panel on the left will recommend additional requirements based on your input.",
+    "polaris_message": "Here, you can review the key details of your job post! Ensure all information is accurate before proceeding. Let's create an attractive job post to find the best candidates!",
+    "loading_fallback": "Loading...",
+
+      "job_post_summary_suggestions": {
+        "requirements_description": "Select the suggestions that best fit your job requirements.",
+        "responsibilities_description": "Select the suggestions that best fit your job responsibilities.",
+        "description_description": "Select the suggestions that best fit your job overview.",
+        "default_description": "Select the option that best represents what you want to show or share.",
+        "single_selection_note": "* Only one option can be selected.",
+        "expert_recommended": "Expert Recommended",
+        "ai_generation_title": "<0>Let AI generate</0> the <1>{{content_type}}</1> for you <2>no need to type</2> it yourself.",
+        "ai_generation_subtitle": "Or you can write your own",
+        "generate_ai_button": "Generate with AI"
+      }
+
+  },
+
+  "post_review_step3": {
+    "edit_jobs_title": "Edit Jobs",
+    "post_review_title": "Post Review",
+    "job_title_label": "Job Title",
+    "open_roles_label": "How many open roles?",
+    "industry_label": "Industry",
+    "profession_label": "Profession",
+    "technical_skills_label": "Technical Skills",
+    "soft_skills_label": "Soft Skills",
+    "preferred_language_label": "Preferred Language",
+    "experience_level_label": "Experience Level",
+    "position_level_label": "Position Level",
+    "educational_level_label": "Educational Level",
+    "certifications_label": "Certifications",
+    "compensation_salary_label": "Compensation/Salary",
+    "company_benefit_label": "Company Benefit",
+    "location_type_label": "Location Type",
+    "job_type_label": "Job Type",
+    "work_schedule_label": "Work Schedule",
+    "job_overview_label": "Job Overview",
+    "job_responsibilities_label": "Job Responsibilities",
+    "job_requirements_label": "Job Requirements",
+    "candidate_resume_label": "Candidate Resume",
+    "candidate_cover_letter_label": "Candidate Cover Letter",
+    "cover_video_label": "Cover Video",
+    "required_text": "Required",
+
+    "screening_header": {
+      "back_button": "Back",
+      "screening_questions_title": "Screening Questions",
+      "screening_questions_description": "Add questions using the options below. Please ensure the questions you select are reasonably related to the job requirements.",
+      "selected_questions_title": "Selected Questions",
+      "preferences_title": "Preferences",
+      "hide_company_description": "Hide company information on this job post.",
+      "hide_company_label": "Hide Company Information",
+      "preview_post_button": "Preview Post",
+      "cancel_button": "Cancel",
+      "save_changes_button": "Save changes",
+      "save_for_later_button": "Save for Later",
+      "post_job_button": "Post Job",
+      "job_post_created_title": "Job Post Created",
+      "job_post_created_description": "Your new post has been created and will be published within 3 hours after our internal review.",
+      "job_post_updated_title": "Job Post Updated",
+      "job_post_not_created_title": "Job Post Not Created"
+    },
+
+    "screening_questions_types": {
+      "work_authorization_title": "Work Authorization",
+      "work_authorization_question": "Are you authorized to work in this country?",
+      "licenses_certifications_title": "Licenses/Certifications",
+      "licenses_certifications_question": "Do you have the following license or certification?",
+      "licenses_certifications_placeholder": "Enter license or certification",
+      "overtime_title": "Overtime",
+      "overtime_question": "Are you willing and able to work overtime if needed?",
+      "commute_title": "Commute",
+      "commute_question": "Can you reliably commute to this job's location?",
+      "relocate_title": "Willingness to Relocate",
+      "relocate_question": "Are you willing and able to relocate for this position if required?",
+      "custom_question_title": "Custom Question",
+      "custom_question_subtitle": "Create your own question form the types listed below:",
+      "deal_breaker_clarification": "Deal-Breaker Question: By marking this as a deal breaker question, candidates that do not answer correctly will be automatically discarded for this position.",
+      "free_form_text_option": "Free Form Text",
+      "multiple_choice_option": "Multiple Choice",
+      "yes_no_option": "Yes/No",
+      "file_upload_option": "File Upload",
+      "date_option": "Date",
+      "number_option": "Number",
+
+      "expand_more_options": {
+        "free_form_description": "For this question the candidate will be able to answer the question freely on a text box.",
+        "multiple_choice_instruction": "Enter Answer Choices:",
+        "multiple_choice_description": "Create as many answers to the question as you would like. Make sure to select which ones are the correct answers.",
+        "file_upload_description": "Candidates can only upload one file per question. Only PDF, DOC, DOCX, PNG, JPG, JPEG, GIF files are supported. Maximum file size is 10MB.",
+        "date_range_instruction": "Accepted Date Range (optional):",
+        "date_range_description": "Candidates can enter a single date. You can specify an accepted range to ensure the date provided falls within the right timeframe.",
+        "number_range_instruction": "Accepted Range of Numbers (optional):",
+        "number_range_description": "Candidates can enter only one number. You can set an accepted range the number must fall within.",
+        "yes_no_instruction": "Answer Choices:",
+        "yes_no_description": "Yes or No are the only possible answer. Make sure to select the right one.",
+        "question_placeholder": "Enter question...",
+        "file_question_placeholder": "Enter question and describe the file you would like the candidate to upload.",
+        "answer_placeholder": "Enter Answer",
+        "correct_label": "Correct",
+        "add_answer_button": "Add another answer",
+        "earliest_date_label": "Earliest date accepted",
+        "latest_date_label": "Latest date accepted",
+        "pick_date_placeholder": "Pick a date",
+        "lowest_number_label": "Lowest number accepted",
+        "highest_number_label": "Highest number accepted",
+        "save_question_button": "Save Question",
+        "validation_errors": {
+          "question_required": "Question is required",
+          "answers_required": "All answers must be filled",
+          "number_range_error": "Maximum value must be greater than minimum value."
+        },
+        "modal_title": "Confirmation Required",
+        "modal_description": "You've set this as a deal-breaker question. Incorrect answers will disqualify candidates automatically.",
+        "modal_subtitle": "Do you want to keep this setting?",
+        "modal_ok_button": "Ok"
+      }
+
+    }
+
+  },
+
+  "modals_edit_job_post": {
+    "modal_edit_job_title": {
+      "title": "Edit Job Title",
+      "warning_message": "If you change the Job Title, you may need to change other sections of the job post based on the new Job Title.",
+      "job_title_label": "Job Title",
+      "job_title_placeholder": "Enter job title",
+      "validation_error": "Job Title is required"
+    },
+
+    "modal_edit_job_open_roles": {
+      "title": "Edit Open Roles Number",
+      "description": "Change the number of open roles",
+      "placeholder": "0"
+    },
+
+    "modal_edit_job_industry": {
+      "title": "Edit Industry",
+      "placeholder": "Search industry"
+    },
+
+    "modal_edit_job_profession": {
+      "title": "Edit Profession",
+      "description": "Adjust the profession needed for this position.",
+      "placeholder": "Search profession"
+    },
+
+    "modal_edit_job_technical_skills": {
+      "title": "Edit Technical Skills",
+      "description": "Adjust the technical skills recommended and mark the ones required.",
+      "placeholder": "Search Technical Skills"
+    },
+
+    "modal_edit_job_soft_skills": {
+      "title": "Edit Soft Skills",
+      "description": "Adjust the soft skills recommended and mark the ones required.",
+      "placeholder": "Search Soft Skills"
+    },
+
+    "modal_edit_job_preferred_language": {
+      "title": "Edit Preferred Language",
+      "description": "Adjust preferred language for this position.",
+      "placeholder": "Select a language"
+    },
+
+    "modal_edit_job_experience_level": {
+      "title": "Edit Experience Level",
+      "description": "Adjust the experience level for this position.",
+      "placeholder": "Select Level"
+    },
+
+    "modal_edit_job_position_level": {
+      "title": "Edit Position Level",
+      "description": "Adjust where this role falls within your company's hierarchy.",
+      "placeholder": "Select Position Level"
+    },
+
+    "modal_edit_job_education_level": {
+      "title": "Edit Education Level",
+      "description": "Adjust the minimum education level required for this position.",
+      "placeholder": "Select Level"
+    },
+
+    "modal_edit_job_certifications": {
+      "title": "Edit Certifications",
+      "description": "Adjust which certifications candidates must have.",
+      "select_description": "List any certifications required for this job (maximum 6).",
+      "placeholder": "Search certification"
+    },
+
+    "modal_edit_job_pay_type": {
+      "title": "Edit Pay Type",
+      "description": "Adjust the compensation for the position.",
+      "pay_type_label": "Pay Type",
+      "pay_type_placeholder": "Select Pay Type",
+      "exact_pay_label": "Exact Pay",
+      "exact_pay_placeholder": "00.00",
+      "minimum_pay_label": "Minimum Pay",
+      "minimum_pay_placeholder": "00.00",
+      "maximum_pay_label": "Maximum Pay",
+      "maximum_pay_placeholder": "00.00",
+      "frequency_label": "Frequency",
+      "frequency_placeholder": "Select Pay Type",
+      "currency_label": "Currency",
+      "currency_placeholder": "Select Pay Type",
+      "plus_commission_label": "Plus Commission",
+      "plus_bonus_label": "Plus Bonus"
+    },    
+
+    "modal_edit_job_company_benefit": {
+      "title": "Edit Company Benefit",
+      "description": "Adjust employee benefit options.",
+      "add_benefit_button": "Add Benefit",
+      "additional_benefit_placeholder": "Enter additional benefit...",
+      "add_button": "Add"
+    },
+
+    "modal_edit_job_location_type": {
+      "title": "Edit Location Type",
+      "description": "Update the location type for the position"
+    },
+
+    "modal_edit_job_type": {
+      "title": "Edit Job Type",
+      "description": "Adjust the job type for the position.",
+      "placeholder": "Select Job Type"
+    },
+
+    "modal_edit_job_work_schedule": {
+      "title": "Edit Work Schedule",
+      "description": "Change the expected working schedule for the position.",
+      "placeholder": "Select Work Schedule"
+    },
+
+    "modal_edit_job_job_description": {
+      "loading_message_1": "Letting AI do the heavy lifting…",
+      "ai_suggestions_header_1": "AI Generated Suggestions",
+      "edit_job_overview_title_1": "Edit Job Overview",
+      "edit_job_overview_description_1": "Describe what the role is about and who you're looking for. Use the AI suggestions on the right to polish or expand your description.",
+      "cancel_button_1": "Cancel",
+      "save_button_1": "Save"
+    },
+
+    "modal_edit_job_job_responsibilities": {
+      "loading_message_1": "Letting AI do the heavy lifting…",
+      "ai_suggestions_header_1": "AI Generated Suggestions",
+      "edit_job_responsibilities_title_1": "Edit Job Responsibilities",
+      "edit_job_responsibilities_description_1": "Detail all the duties of the position. AI suggestions on the right will help you create a clear and complete list.",
+      "cancel_button_1": "Cancel",
+      "save_button_1": "Save"
+    },
+
+    "modal_edit_job_job_requirements": {
+      "loading_message_1": "Letting AI do the heavy lifting…",
+      "ai_suggestions_header_1": "AI Generated Suggestions",
+      "edit_job_requirements_title_1": "Edit Job Requirements",
+      "edit_job_requirements_description_1": "Include the essential requirements for this position. The AI panel on the right will recommend additional requirements based on your input.",
+      "cancel_button_1": "Cancel",
+      "save_button_1": "Save"
+    },
+
+    "modal_edit_job_resume_request": {
+      "modal_title_1": "Edit Resume Requirement",
+      "modal_description_1": "Set resume as required or optional.",
+      "resume_label_1": "Resume",
+      "required_label_1": "Required"
+    },
+
+    "modal_edit_job_cover_letter_request": {
+      "modal_title_1": "Edit Cover Letter Requirement",
+      "modal_description_1": "Set cover letter as required or optional.",
+      "cover_letter_label_1": "Cover Letter",
+      "required_label_1": "Required"
+    },
+
+    "modal_edit_job_cover_video": {
+      "modal_title_1": "Edit Cover Video",
+      "modal_description_1": "Replace your current cover video.",
+      "cover_video_label_1": "Cover Video",
+      "upload_button_1": "Upload",
+      "error_invalid_format": "Invalid format. Only .mp4, .avi or .mov",
+      "error_file_size": "The file exceeds 30 MB.",
+      "error_video_length": "The length of the video should not exceed 2 minutes."
+    }
+
+  },
+
+  "selected_questions": {
+    "question_title_1": "Question - <0></0>",
+    "custom_question_title_1": "Custom Question",
+    "delete_button_1": "Delete",
+    "correct_label_1": "Correct",
+    "answer_placeholder_1": "Enter Answer",
+    "earliest_date_label_1": "Earliest date accepted",
+    "latest_date_label_1": "Latest date accepted",
+    "lowest_number_label_1": "Lowest number accepted",
+    "highest_number_label_1": "Highest number accepted"
+  }
+
+}

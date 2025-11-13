@@ -55,6 +55,21 @@
         }
     },
 
+      "steps-slice": {
+        "job_posting_steps": {
+        "step_1": "Job Details",
+        "step_2": "Job Post Summary", 
+        "step_3": "Post Review"
+        },
+        "profile_information_steps": {
+        "step_1": "Personal Information",
+        "step_2": "Education",
+        "step_3": "Work Experience",
+        "step_4": "Skills",
+        "step_5": "Finalize"
+        }
+    },
+
     "common": {
         "roles": {
         "jobSeeker": "job seeker"

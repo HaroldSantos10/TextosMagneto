@@ -171,11 +171,11 @@
     },
 
 
-    "matchTooltip": {
-        "title": "Match Breakdown:",
-        "technicalSkills": "Tech Skills",
-        "softSkills": "Soft Skills",
-        "salary": "Salary"
+    "match_tooltip": {
+        "match_breakdown_title_1": "Match Breakdown:",
+        "tech_skills_label_1": "Tech Skills <0></0>%",
+        "soft_skills_label_1": "Soft Skills <0></0>%",
+        "salary_label_1": "Salary <0></0>%"
     },
 
 

@@ -1,0 +1,44 @@
+{
+  "page_candidates": {
+    "title_1": "Entrevistas",
+    "all_jobs_button_1": "Todos los empleos",
+    "search_placeholder_1": "Buscar por título del empleo",
+    "results_count_1": "<0></0> Resultados",
+    "interviews_header_1": "Entrevistas",
+    "upcoming_button_1": "Próximas (<0></0>)",
+    "past_button_1": "Pasadas (<0></0>)",
+    "cancelled_badge_1": "Cancelada",
+    "video_interview_button_1": "Entrevista por video",
+    "phone_interview_button_1": "Teléfono",
+    "in_person_interview_button_1": "Presencial"
+  },
+
+  "meeting_selected": {
+    "candidate_name_link_1": "<0></0> <1></1>",
+    "applied_to_text_1": "Aplicó a <0></0>",
+    "overall_match_percentage_1": "Porcentaje general de compatibilidad",
+    "tech_skills_badge_1": "Habilidades técnicas <0></0>%",
+    "soft_skills_badge_1": "Habilidades blandas <0></0>%",
+    "salary_badge_1": "Salario <0></0>%",
+    "interview_details_title_1": "Detalles de la entrevista",
+    "interview_cancelled_title_1": "Entrevista cancelada",
+    "interview_cancelled_message_1": "Esta entrevista fue cancelada previamente",
+    "video_interview_label_1": "Entrevista por video",
+    "phone_interview_label_1": "Teléfono",
+    "in_person_interview_label_1": "Presencial",
+    "interviewer_label_1": "Entrevistador: <0></0>",
+    "cancel_interview_button_1": "Cancelar entrevista",
+    "view_resume_button_1": "Ver currículum",
+    "download_resume_button_1": "Descargar currículum",
+    "additional_participants_title_1": "Participantes adicionales",
+    "notes_title_1": "Notas",
+    "show_more_link_1": "Mostrar más",
+    "notes_placeholder_1": "Escribe una nota privada aquí...",
+    "save_note_button_1": "Guardar nota",
+    "cancel_modal_title_1": "Cancelar entrevista",
+    "cancel_modal_description_1": "Esta acción es permanente, y deberás programar otra entrevista para contactar a este candidato.",
+    "cancel_modal_button_1": "Cancelar entrevista",
+    "cancel_modal_cancel_button_1": "Mantener entrevista",
+    "no_interviews_image_alt_1": "No hay entrevistas próximas"
+  }
+}

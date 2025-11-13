@@ -16,6 +16,30 @@
       },
       "button": "Delete Account"
     }
+  },
+
+    "list_device": {
+    "associated_devices_title_1": "Associated Devices",
+    "device_table_header_1": "Device",
+    "date_logged_in_table_header_1": "Date Logged In",
+    "ip_address_table_header_1": "IP Address",
+    "action_table_header_1": "Action",
+    "logout_all_devices_button_1": "Logout from all devices",
+    "logout_all_modal_title_1": "Log Out from All Devices",
+    "logout_all_modal_button_1": "Log Out from All Devices",
+    "logout_all_modal_message_1": "Are you sure you want to log out from all devices?\n If you proceed, your session will be logged out from all devices where you're signed in. You will need to sign in again to access your account.",
+    "logout_single_modal_title_1": "Confirm Logout on <0></0>",
+    "logout_single_modal_button_1": "Log Out from <0></0>",
+    "logout_single_modal_message_1": "Are you sure you want to log out from <0></0>?\nIf you proceed, your session will be logged out from <1></1>, but you will remain signed in on other devices."
+  },
+
+    "modal_delete_account": {
+    "title_1": "My resume preview",
+    "warning_message_1": "You are about to permanently delete your account. By executing this action, all data will be lost and this cannot be undone. Are you sure you want to proceed?",
+    "cancel_button_1": "Cancel",
+    "delete_account_button_1": "Yes, delete account"
   }
+
+
   
 }

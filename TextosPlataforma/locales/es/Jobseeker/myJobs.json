@@ -168,9 +168,9 @@
 
   "matchTooltip": {
     "title": "Desglose de coincidencia:",
-    "technicalSkills": "Habilidades técnicas",
-    "softSkills": "Habilidades blandas",
-    "salary": "Salario"
+    "technicalSkills": "Habilidades técnicas <0></0>%",
+    "softSkills": "Habilidades blandas <0></0>%",
+    "salary": "Salario <0></0>%"
   },
 
   "myJobsStatusSelect": {
