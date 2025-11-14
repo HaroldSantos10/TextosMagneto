@@ -1,0 +1,248 @@
+{
+  "DEFAULT_FILTERS": {
+    "publicationDate": "all",
+    "salary": "all",
+    "locationType": "all",
+    "jobType": "all",
+    "search": "",
+    "location": ""
+  },
+  "FILTER_OPTIONS": {
+    "publicationDate": [
+      {"value": "all", "label": "All"},
+      {"value": "last_week", "label": "Last Week"},
+      {"value": "last_30_days", "label": "Last 30 Days"},
+      {"value": "last_60_days", "label": "Last 60 Days"},
+      {"value": "last_90_days", "label": "Last 90 Days"},
+      {"value": "custom_range", "label": "Custom range"}
+    ],
+    "salary": [
+      {"value": "all", "label": "All"},
+      {"value": "60k+", "label": "USD 60k+"},
+      {"value": "80k+", "label": "USD 80k+"},
+      {"value": "100k+", "label": "USD 100k+"},
+      {"value": "120k+", "label": "USD 120k+"},
+      {"value": "150k+", "label": "USD 150k+"},
+      {"value": "200k+", "label": "USD 200k+"}
+    ],
+    "locationType": [
+      {"value": "all", "label": "All"},
+      {"value": "on_site", "label": "On-Site"},
+      {"value": "remote", "label": "Remote"},
+      {"value": "hybrid", "label": "Hybrid"}
+    ],
+    "jobType": [
+      {"value": "all", "label": "All"},
+      {"value": "full_time", "label": "Full time"},
+      {"value": "part_time", "label": "Part time"},
+      {"value": "contract", "label": "Contract"},
+      {"value": "temporary", "label": "Temporary"},
+      {"value": "permanent", "label": "Permanent"},
+      {"value": "internship", "label": "Internship"}
+    ],
+    "positionLevelOptions": [
+    { "value": "Entry Level", "label": "Entry Level" },
+    { "value": "Mid Level", "label": "Mid Level" },
+    { "value": "Senior", "label": "Senior" },
+    { "value": "Manager", "label": "Manager" },
+    { "value": "Director", "label": "Director" },
+    { "value": "Executive", "label": "Executive" },
+    { "value": "Supervisor", "label": "Supervisor" }
+    ],
+    "sortBy": [
+        { "value": "1", "label": "Job title" },
+        { "value": "2", "label": "Salary" },
+        { "value": "3", "label": "Applied Date" },
+        { "value": "4", "label": "Match" }
+    ]
+  },
+  
+    "readStatuses": [
+    {
+      "label": "All",
+      "value": "all"
+    },
+    {
+      "label": "Unread",
+      "value": "unread"
+    },
+    {
+      "label": "Read",
+      "value": "read"
+    }
+  ],
+  "candidateStatusOptions": [
+    {
+      "value": "",
+      "label": "All"
+    },
+    {
+      "value": "Pending",
+      "label": "New"
+    },
+    {
+      "value": "Reviewing",
+      "label": "Reviewing"
+    },
+    {
+      "value": "Contacting",
+      "label": "Contacting"
+    },
+    {
+      "value": "Interviewing",
+      "label": "Interviewing"
+    },
+    {
+      "value": "Decline",
+      "label": "Declined"
+    },
+    {
+      "value": "Hired",
+      "label": "Hired"
+    },
+    {
+      "value": "Interested",
+      "label": "Interested"
+    },
+    {
+      "value": "Saved",
+      "label": "Saved"
+    }
+  ],
+  "jobApplicationStatusMapping": {
+    "Pending": "new",
+    "Reviewing": "Reviewing",
+    "Contacting": "Contacting",
+    "Interviewing": "Interviewing",
+    "Decline": "Decline",
+    "Hired": "Hired",
+    "Interested": "Interested"
+  },
+  "filterTypes": {
+    "status": "status",
+    "readStatus": "readStatus"
+  },
+  "userRoles": {
+    "jobSeeker": "job seeker",
+    "employee": "Employee",
+    "adminEmployer": "Admin employer"
+  },
+
+  "walletStatus": [
+    {
+      "value": "active",
+      "label": "Active"
+    },
+    {
+      "value": "inactive",
+      "label": "Inactive"
+    }
+  ],
+  "transactionTypes": [
+    {
+      "value": "all",
+      "label": "All"
+    },
+    {
+      "value": "deposit",
+      "label": "Deposit"
+    },
+    {
+      "value": "withdrawal",
+      "label": "Withdrawal"
+    },
+    {
+      "value": "transfer",
+      "label": "Transfer"
+    }
+  ],
+
+    "jobPostStatusOptions": [
+    {
+      "value": "Active",
+      "label": "Active"
+    },
+    {
+      "value": "Paused",
+      "label": "Paused"
+    },
+    {
+      "value": "Draft",
+      "label": "Draft"
+    },
+    {
+      "value": "Closed",
+      "label": "Closed"
+    }
+  ],
+  "sortOptionsCandidates": [
+    {
+      "value": "Candidate name",
+      "label": "Candidate name"
+    },
+    {
+      "value": "Date of application",
+      "label": "Date of application"
+    },
+    {
+      "value": "Match percentage",
+      "label": "Match percentage"
+    }
+  ],
+
+    "candidateChatStatusOptions": [
+    {
+      "value": "",
+      "label": "All"
+    },
+    {
+      "value": "Reviewing",
+      "label": "Reviewing"
+    },
+    {
+      "value": "Contacting",
+      "label": "Contacting"
+    },
+    {
+      "value": "Interviewing",
+      "label": "Interviewing"
+    },
+    {
+      "value": "Decline",
+      "label": "Declined"
+    },
+    {
+      "value": "Hired",
+      "label": "Hired"
+    },
+    {
+      "value": "Saved",
+      "label": "Saved"
+    }
+  ],
+
+  "reportTypes": [
+    {
+      "value": "Jobs posted",
+      "label": "Jobs posted"
+    },
+    {
+      "value": "Applications received",
+      "label": "Applications received"
+    },
+    {
+      "value": "Candidates by Turbo Recruiter",
+      "label": "Candidates by Turbo Recruiter"
+    },
+    {
+      "value": "Interviews scheduled",
+      "label": "Interviews scheduled"
+    },
+    {
+      "value": "Views by Post Booster",
+      "label": "Views by Post Booster"
+    }
+  ]
+
+}
+

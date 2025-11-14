@@ -1,0 +1,253 @@
+{
+  "DEFAULT_FILTERS": {
+    "publicationDate": "all",
+    "salary": "all",
+    "locationType": "all",
+    "jobType": "all",
+    "search": "",
+    "location": ""
+  },
+  "FILTER_OPTIONS": {
+    "publicationDate": [
+      {"value": "all", "label": "Todos"},
+      {"value": "last_week", "label": "Última semana"},
+      {"value": "last_30_days", "label": "Últimos 30 días"},
+      {"value": "last_60_days", "label": "Últimos 60 días"},
+      {"value": "last_90_days", "label": "Últimos 90 días"},
+      {"value": "custom_range", "label": "Rango personalizado"}
+    ],
+    "salary": [
+      {"value": "all", "label": "Todos"},
+      {"value": "60k+", "label": "USD 60k+"},
+      {"value": "80k+", "label": "USD 80k+"},
+      {"value": "100k+", "label": "USD 100k+"},
+      {"value": "120k+", "label": "USD 120k+"},
+      {"value": "150k+", "label": "USD 150k+"},
+      {"value": "200k+", "label": "USD 200k+"}
+    ],
+    "locationType": [
+      {"value": "all", "label": "Todos"},
+      {"value": "on_site", "label": "Presencial"},
+      {"value": "remote", "label": "Remoto"},
+      {"value": "hybrid", "label": "Híbrido"}
+    ],
+    "jobType": [
+      {"value": "all", "label": "Todos"},
+      {"value": "full_time", "label": "Tiempo completo"},
+      {"value": "part_time", "label": "Medio tiempo"},
+      {"value": "contract", "label": "Contrato"},
+      {"value": "temporary", "label": "Temporal"},
+      {"value": "permanent", "label": "Permanente"},
+      {"value": "internship", "label": "Práctica"}
+    ],
+    "positionLevelOptions": [
+      { "value": "Entry Level", "label": "Nivel inicial" },
+      { "value": "Mid Level", "label": "Nivel medio" },
+      { "value": "Senior", "label": "Senior" },
+      { "value": "Manager", "label": "Gerente" },
+      { "value": "Director", "label": "Director" },
+      { "value": "Executive", "label": "Ejecutivo" },
+      { "value": "Supervisor", "label": "Supervisor" }
+    ],
+    "sortBy": [
+      { "value": "1", "label": "Título del empleo" },
+      { "value": "2", "label": "Salario" },
+      { "value": "3", "label": "Fecha de aplicación" },
+      { "value": "4", "label": "Coincidencia" }
+    ]
+  },
+  
+  "readStatuses": [
+    {
+      "label": "Todos",
+      "value": "all"
+    },
+    {
+      "label": "Sin leer",
+      "value": "unread"
+    },
+    {
+      "label": "Leído",
+      "value": "read"
+    }
+  ],
+
+  "candidateStatusOptions": [
+    {
+      "value": "",
+      "label": "Todos"
+    },
+    {
+      "value": "Pending",
+      "label": "Nuevo"
+    },
+    {
+      "value": "Reviewing",
+      "label": "En revisión"
+    },
+    {
+      "value": "Contacting",
+      "label": "Contactando"
+    },
+    {
+      "value": "Interviewing",
+      "label": "Entrevistando"
+    },
+    {
+      "value": "Decline",
+      "label": "Rechazado"
+    },
+    {
+      "value": "Hired",
+      "label": "Contratado"
+    },
+    {
+      "value": "Interested",
+      "label": "Interesado"
+    },
+    {
+      "value": "Saved",
+      "label": "Guardado"
+    }
+  ],
+
+  "jobApplicationStatusMapping": {
+    "Pending": "nuevo",
+    "Reviewing": "En revisión",
+    "Contacting": "Contactando",
+    "Interviewing": "Entrevistando",
+    "Decline": "Rechazado",
+    "Hired": "Contratado",
+    "Interested": "Interesado"
+  },
+
+  "filterTypes": {
+    "status": "estado",
+    "readStatus": "estadoLectura"
+  },
+
+  "userRoles": {
+    "jobSeeker": "buscador de empleo",
+    "employee": "Empleado",
+    "adminEmployer": "Administrador empleador"
+  },
+
+  "walletStatus": [
+    {
+      "value": "active",
+      "label": "Activo"
+    },
+    {
+      "value": "inactive",
+      "label": "Inactivo"
+    }
+  ],
+
+  "transactionTypes": [
+    {
+      "value": "all",
+      "label": "Todos"
+    },
+    {
+      "value": "deposit",
+      "label": "Depósito"
+    },
+    {
+      "value": "withdrawal",
+      "label": "Retiro"
+    },
+    {
+      "value": "transfer",
+      "label": "Transferencia"
+    }
+  ],
+
+  "jobPostStatusOptions": [
+    {
+      "value": "Active",
+      "label": "Activo"
+    },
+    {
+      "value": "Paused",
+      "label": "Pausado"
+    },
+    {
+      "value": "Draft",
+      "label": "Borrador"
+    },
+    {
+      "value": "Closed",
+      "label": "Cerrado"
+    }
+  ],
+
+  "sortOptionsCandidates": [
+    {
+      "value": "Candidate name",
+      "label": "Nombre del candidato"
+    },
+    {
+      "value": "Date of application",
+      "label": "Fecha de aplicación"
+    },
+    {
+      "value": "Match percentage",
+      "label": "Porcentaje de coincidencia"
+    }
+  ],
+
+  "candidateChatStatusOptions": [
+    {
+      "value": "",
+      "label": "Todos"
+    },
+    {
+      "value": "Reviewing",
+      "label": "En revisión"
+    },
+    {
+      "value": "Contacting",
+      "label": "Contactando"
+    },
+    {
+      "value": "Interviewing",
+      "label": "Entrevistando"
+    },
+    {
+      "value": "Decline",
+      "label": "Rechazado"
+    },
+    {
+      "value": "Hired",
+      "label": "Contratado"
+    },
+    {
+      "value": "Saved",
+      "label": "Guardado"
+    }
+  ],
+
+  "reportTypes": [
+    {
+      "value": "Jobs posted",
+      "label": "Empleos publicados"
+    },
+    {
+      "value": "Applications received",
+      "label": "Aplicaciones recibidas"
+    },
+    {
+      "value": "Candidates by Turbo Recruiter",
+      "label": "Candidatos por Turbo Recruiter"
+    },
+    {
+      "value": "Interviews scheduled",
+      "label": "Entrevistas programadas"
+    },
+    {
+      "value": "Views by Post Booster",
+      "label": "Vistas por Post Booster"
+    }
+  ]
+
+}
