@@ -1,14 +1,14 @@
 {
   "header": {
     "no_new_notification": "No hay notificaciones nuevas",
-    "wallet_button": "Billetera",
-    "wallet_address": "Dirección de billetera",
+    "wallet_button": "Cartera",
+    "wallet_address": "Dirección de cartera",
     "magnet_token": "$MAGNET",
     "transferable_assets": "Activos transferibles",
     "notifications": "Notificaciones",
     "account_settings": "Configuración de cuenta",
     "company_settings": "Configuración de empresa",
-    "billing_and_invoices": "Facturación y comprobantes",
+    "billing_and_invoices": "Facturación y recibos",
     "wallet_menu": "Billetera",
     "company_profile": "Perfil de la empresa",
     "ambassador_program": "Programa de embajadores",
@@ -21,3 +21,4 @@
     "button_confirm_sign_out": "Cerrar sesión"
   }
 }
+ 

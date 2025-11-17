@@ -2,7 +2,7 @@
   "page_analytics": {
     "title_1": "Analíticas",
     "dashboard_title_1": "Panel",
-    "jobs_posted_card_1": "Empleos publicados",
+    "jobs_posted_card_1": "Vacantes publicadas",
     "applications_received_card_1": "Aplicaciones recibidas",
     "candidates_turbo_recruiter_card_1": "Candidatos por Turbo Recruiter",
     "interviews_scheduled_card_1": "Entrevistas programadas",
@@ -11,7 +11,7 @@
     "reports_type_label_1": "Tipo de reporte",
     "download_report_button_1": "Descargar reporte",
     "report_type_placeholder_1": "Tipo de reporte",
-    "jobs_posted_option_1": "Empleos publicados",
+    "jobs_posted_option_1": "Vacantes publicadas",
     "applications_received_option_1": "Aplicaciones recibidas",
     "candidates_turbo_recruiter_option_1": "Candidatos por Turbo Recruiter",
     "interviews_scheduled_option_1": "Entrevistas programadas",

@@ -23,7 +23,7 @@
       "company_id": "ID de empresa: #0000-{{id}}",
       "about_us": "Sobre nosotros:",
       "company_size": "Tamaño de la empresa:",
-      "headquarters_location": "Ubicación de la sede:",
+      "headquarters_location": "Ubicación de las oficinas:",
       "company_culture": "Cultura empresarial:",
       "traits": "Rasgos:",
       "examples": "Ejemplos:",
@@ -43,11 +43,11 @@
       "user_accepted_title": "Usuario aceptado",
       "user_accepted_desc": "Has otorgado acceso a {{email}} en la plataforma.",
       "user_role_updated_title": "Rol de usuario actualizado",
-      "user_role_updated_desc": "Has cambiado el rol de {{email}} a administrador empleador.",
+      "user_role_updated_desc": "Has cambiado el rol de {{email}} a administrador.",
       "user_deleted_title": "Usuario eliminado",
       "user_deleted_desc": "Has eliminado a {{email}} de la plataforma. Esta acción no se puede deshacer.",
       "user_deleted_confirm": "¿Seguro que deseas eliminar a {{email}}?",
-      "user_deleted_warning": "Una vez eliminado, este usuario no podrá acceder a tu empresa.",
+      "user_deleted_warning": "Una vez eliminado, este usuario no podrá acceder a tu cuenta de empresa.",
       "error_default": "Ocurrió un error inesperado. Intenta más tarde."
     },
     "pagination": {

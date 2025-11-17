@@ -1,6 +1,6 @@
 {
   "account_settings": {
-    "title": "Configuración de cuenta",
+    "title": "Configuración de la cuenta",
     "description": "Administra todo lo relacionado con tu cuenta. Aquí puedes actualizar tu contraseña, ajustar las preferencias de notificación o revisar los controles de seguridad y datos. Mantén tu espacio de trabajo seguro y adaptado a las necesidades de tu empresa.",
     "tabs": {
       "security_and_login": "Seguridad e inicio de sesión",
@@ -26,7 +26,7 @@
       "job_application": {
         "title": "Notificaciones de solicitudes de empleo",
         "description_jobseeker": "Recibe avisos cuando tu solicitud se haya enviado correctamente.",
-        "description_company": "Recibe avisos cuando un candidato postule exitosamente a una de tus ofertas.",
+        "description_company": "Recibe avisos cuando un candidato se postule exitosamente a una de tus vacantes.",
         "enabled_message": "Has activado la confirmación de solicitud de empleo.",
         "disabled_message": "Has desactivado la confirmación de solicitud de empleo."
       },
@@ -39,7 +39,7 @@
       },
       "billing": {
         "title": "Notificaciones de facturación",
-        "description": "Mantente informado sobre facturas y actividades relacionadas con pagos.",
+        "description": "Mantente informado sobre tus facturas y actividades relacionadas con pagos.",
         "enabled_message": "Has activado las notificaciones de facturación.",
         "disabled_message": "Has desactivado las notificaciones de facturación."
       }
