@@ -7,7 +7,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Lexend&amp;display=swap" rel="stylesheet">
 
 
-  <title>New Candidate Matches – Turbo Recruiter</title>
+  <title>Nuevas coincidencias de candidatos – Turbo Recruiter</title>
 </head>
 <body style="  
     margin:0; 
@@ -47,48 +47,46 @@
       <td align="center" style="padding: 2px; width: 495px;">
         <p style=" font-family: Lexend; font-weight: 400; font-size: 16px; line-height: 24px;
         letter-spacing: 0%; text-align: center; color: #0D4069;">
-            New Candidate Matches for {{Job_Title}}
+            Nuevas coincidencias de candidatos para {{Job_Title}}
         </p>
         <h2 style="color: #0D4069; margin-bottom: 0; font-family: Lexend; font-weight: 700; 
-        font-size: 20px; line-height: 28px; letter-spacing: 0%; text-align: center;">Dear {{ Company_Name }},</h2>
+        font-size: 20px; line-height: 28px; letter-spacing: 0%; text-align: center;">Estimado(a) {{ Company_Name }},</h2>
 
         <p style=" color: #666A80; width: 495px; font-family: Lexend; font-weight: 400; font-size: 16px;
                   line-height: 24px; letter-spacing: 0%; text-align: left;">
-                  We want to inform you that your Turbo Recruiter feature has identified {{N_Candidates}} new candidates with at least 
-                  a {{Match_Percentage_Media}}% match for your {{Job_Title}} job posting.<br><br>
-                  Here are your latest matches:</p>
+                  Queremos informarle que la función Turbo Recruiter ha identificado {{N_Candidates}} nuevos candidatos con al menos
+                  un {{Match_Percentage_Media}}% de coincidencia para su oferta de {{Job_Title}}.<br><br>
+                  Aquí tiene sus coincidencias más recientes:</p>
                   <table align="center" border="0" cellpadding="0" cellspacing="0" width="600" style="background:#fff; 
             font-family: Lexend, sans-serif; margin-top: 40px; box-shadow: 0 0 10px rgba(0,0,0,0.05);">
                   {{#each tabla}}
                   <tr>
                         <td align="center" style="padding: 20px; width: 495px; color: #666A80;">
-                          <!--<img src="https://cdn-icons-png.flaticon.com/512/1077/1077012.png" alt="user" width="16" height="16" style="vertical-align: middle; margin-right: 6px;" />-->
-                            <!--<span>👤</span>-->
                        <i class="fas fa-user" style="color: #666A80;" /> 
                         {{Candidate_Name}} 
-                        – Match: {{Match_Percentage}}%
+                        – Coincidencia: {{Match_Percentage}}%
                         </td>
                     </tr>
                     {{/each}}
                   </table>
                   <br><br>
                   <p style=" color: #666A80; width: 495px; font-family: Lexend; font-weight: 400; font-size: 16px;
-                  line-height: 24px; letter-spacing: 0%; text-align: left;">You may explore their profiles and take action in the Candidates Section below:
+                  line-height: 24px; letter-spacing: 0%; text-align: left;">Puede explorar sus perfiles y tomar acción en la sección de Candidatos aquí:
         </p>
         <p >
           <a href="{{Url_Go_to_Candidates}}" target="_blank" style="width: 50%; display: inline-block; background-color: #0D4069;
           color: #fff; text-decoration: none; padding: 16px 60px; font-size: 18px; border-radius: 12px;
           box-shadow: 2px  2px 4px 0 rgba(13, 64, 105, 0.5); transition: background-color 0.3s ease;            background-color: #0b3559;
-          " >Go to Candidates</a>
+          " >Ir a Candidatos</a>
         </p>
         <p style="margin-top: 30px;  color: #666A80; width: 495px; font-family: Lexend; font-weight: 400; font-size: 16px;
         line-height: 24px; letter-spacing: 0%; text-align: center;">
-          Turbo Recruiter will continue searching and notify you of additional matches if needed.<br><br> 
+          Turbo Recruiter seguirá buscando y le notificará sobre nuevas coincidencias si es necesario.<br><br> 
 
-          Thank you for using Magneto HR.
+          Gracias por usar Magneto HR.
         </p>
         <h1 style=" font-size: 16px; color: #0D4069; font-weight: 600;"><span style="margin-top: 30px;  color: #666A80; width: 495px; 
-        font-family: Lexend; font-weight: 400;">Sincerely,</span><br>The Magneto HR Team</h1>
+        font-family: Lexend; font-weight: 400;">Atentamente,</span><br>El equipo de Magneto HR</h1>
       </td>
     </tr>
     <tr>

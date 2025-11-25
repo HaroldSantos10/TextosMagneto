@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link href="https://fonts.googleapis.com/css2?family=Lexend&display=swap" rel="stylesheet">
 
-  <title>New Job Matches Found for You – Turbo Finder</title>
+  <title>Nuevas Coincidencias de Empleo Encontradas para Ti – Turbo Finder</title>
 </head>
 <body style="  
     margin:0; 
@@ -45,17 +45,17 @@
       <td align="center" style="padding: 2px; width: 495px;">
         <p style=" font-family: Lexend; font-weight: 400; font-size: 16px; line-height: 24px;
         letter-spacing: 0%; text-align: center; color: #0D4069;">
-            New Job Matches Identified by Turbo Finder
-            
+            Nuevas Coincidencias de Empleo Identificadas por Turbo Finder
         </p>
+
         <h2 style="color: #0D4069; margin-bottom: 0; font-family: Lexend; font-weight: 700; 
-        font-size: 20px; line-height: 28px; letter-spacing: 0%; text-align: center;">Dear {{ JobSeeker_Name }},</h2>
+        font-size: 20px; line-height: 28px; letter-spacing: 0%; text-align: center;">Estimado/a {{ JobSeeker_Name }},</h2>
 
         <p style=" color: #666A80; width: 495px; font-family: Lexend; font-weight: 400; font-size: 16px;
                   line-height: 24px; letter-spacing: 0%; text-align: left;">
-                  We want to inform you that our Turbo Finder Premium Feature has identified new job opportunities matching at least {{Percentage_Mean}}% with your profile.<br><br>
-
-                  Latest Matches:</p><br>
+                  Queremos informarte que nuestra Función Premium Turbo Finder ha identificado nuevas oportunidades laborales que coinciden al menos un {{Percentage_Mean}}% con tu perfil.<br><br>
+                  Últimas coincidencias:
+        </p><br>
                   
         <table align="center" border="0" cellpadding="0" cellspacing="0" width="600" style="background:#fff; color: #666A80;
             font-family: Lexend, sans-serif; margin-top: -30px; box-shadow: 0 0 10px rgba(0,0,0,0.05);">
@@ -63,28 +63,34 @@
                   <tr>
                         <td align="center" style="padding: 15px; width: 400px;">
                         💼{{Job_Title}}
-                        – Match: {{Match_Percentage}}%
+                        – Coincidencia: {{Match_Percentage}}%
                         – {{Company_Name}}</td>
                     </tr>
                     {{/each}}
                   </table><br>
                   
                   <p style=" color: #666A80; width: 495px; font-family: Lexend; font-weight: 400; font-size: 16px;
-                  line-height: 24px; letter-spacing: 0%; text-align: left;">You may explore these opportunities and apply directly through your Dashboard:</p>    
+                  line-height: 24px; letter-spacing: 0%; text-align: left;">Puedes explorar estas oportunidades y postularte directamente desde tu Panel:</p>    
+        
         <p>
           <a href="{{Url_Go_to_Dashboard}}" target="_blank" style="width: 50%; display: inline-block; background-color: #0D4069;
           color: #fff; text-decoration: none; padding: 16px 60px; font-size: 18px; border-radius: 12px;
-          box-shadow: 2px  2px 4px 0 rgba(13, 64, 105, 0.5); transition: background-color 0.3s ease;            background-color: #0b3559;
-          " >Go to Dashboard</a>
+          box-shadow: 2px  2px 4px 0 rgba(13, 64, 105, 0.5); transition: background-color 0.3s ease; background-color: #0b3559;
+          " >Ir al Panel</a>
         </p>
+
         <p style="margin-top: 30px;  color: #666A80; width: 495px; font-family: Lexend; font-weight: 400; font-size: 16px;
         line-height: 24px; letter-spacing: 0%; text-align: center;">
-          Should you have any questions, our support team is available to assist.
+          Si necesitas ayuda, nuestro equipo de soporte está disponible para asistirte.
         </p>
-        <h1 style=" font-size: 16px; color: #0D4069; font-weight: 600;"><span style="margin-top: 30px;  color: #666A80; width: 495px; 
-        font-family: Lexend; font-weight: 400;">Sincerely,</span><br>The Magneto HR Team</h1>
+
+        <h1 style=" font-size: 16px; color: #0D4069; font-weight: 600;">
+          <span style="margin-top: 30px;  color: #666A80; width: 495px; 
+        font-family: Lexend; font-weight: 400;">Atentamente,</span><br>El Equipo de Magneto HR
+        </h1>
       </td>
     </tr>
+
     <tr>
       <td align="center" style="padding: 20px; background-color: #ffffff; border-top:2px solid #DFE0E5;">
         <p style="font-size: 14px; color: #666;">
